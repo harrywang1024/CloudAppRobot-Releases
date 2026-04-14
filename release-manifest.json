@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.6",
-      "published_at": "2026-04-14T12:07:53Z",
-      "changelog": "fix: clean alert text and harden unattended exe auto-update",
+      "version": "1.4.8",
+      "published_at": "2026-04-14T13:22:31Z",
+      "changelog": "fix: status panel false DB stalled warning and strengthen auto-restart after update",
       "assets": {
         "exe": {
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.6/CloudAppRobot.exe",
-          "sha256": "c7e685acd73962d08b7da876fef310129d659d97f3658559b005697a353870d5",
-          "size": 160460427
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.8/CloudAppRobot.exe",
+          "sha256": "eb2694aab3f20590328c1e814cafe15c3de2af8950e9c2dc6f3855feaac6f820",
+          "size": 160463381
         },
         "py": {
           "download_url": "",
