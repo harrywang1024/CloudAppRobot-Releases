@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.17",
-      "published_at": "2026-04-14T19:33:18Z",
-      "changelog": "feat: move auto-update to standalone updater process",
+      "version": "1.4.18",
+      "published_at": "2026-04-14T20:01:00Z",
+      "changelog": "fix: harden command delivery and rotate runtime stdout",
       "assets": {
         "exe": {
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.17/CloudAppRobot.exe",
-          "sha256": "d7a3b27037095e297b6e9b6afbd3a49b402be14a05e0769e21e2cf7740a82f89",
-          "size": 168205464
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.18/CloudAppRobot.exe",
+          "sha256": "08c98f5927f61d39107ca76aa52bc8ac8eeb2d8e232f4d44a77bea450438b3aa",
+          "size": 168208116
         },
         "py": {
           "download_url": "",
