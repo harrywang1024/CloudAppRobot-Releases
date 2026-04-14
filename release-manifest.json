@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.13",
-      "published_at": "2026-04-14T17:12:34Z",
-      "changelog": "fix: relaunch updated robot via start_robot.cmd and preserve shared data dir",
+      "version": "1.4.14",
+      "published_at": "2026-04-14T17:23:51Z",
+      "changelog": "fix: let runtime consume remote update commands and relaunch updated robot via start_robot.cmd",
       "assets": {
         "exe": {
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.13/CloudAppRobot.exe",
-          "sha256": "e73cfac461ed64956d8f89981e43c17ade2066ee844e167afd86c8ac9d2fbacb",
-          "size": 160464805
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.14/CloudAppRobot.exe",
+          "sha256": "567839f50562900c9d256412b68bbd52a744b270cfac16fd1d093eddffbcf3d9",
+          "size": 160465436
         },
         "py": {
           "download_url": "",
