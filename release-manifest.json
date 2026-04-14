@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.19",
-      "published_at": "2026-04-14T20:50:36Z",
-      "changelog": "fix: keep agent alive during robot stop and prevent legacy update handlers from racing",
+      "version": "1.4.20",
+      "published_at": "2026-04-14T22:23:46Z",
+      "changelog": "TODO",
       "assets": {
         "exe": {
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.19/CloudAppRobot.exe",
-          "sha256": "1b99c6fd0b65b48e284f9c4d55166406aabdde8b8c30f347527bfaf1af0a3023",
-          "size": 185933455
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.20/CloudAppRobot.exe",
+          "sha256": "383835fe97b242852c435e2f3fd8c030ccd005904a7a1225e551c95a80872500",
+          "size": 186049669
         },
         "py": {
           "download_url": "",
