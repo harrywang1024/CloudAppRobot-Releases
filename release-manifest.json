@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.16",
-      "published_at": "2026-04-14T18:51:14Z",
-      "changelog": "fix: stabilize auto-update restart bridge and status writes",
+      "version": "1.4.17",
+      "published_at": "2026-04-14T19:33:18Z",
+      "changelog": "feat: move auto-update to standalone updater process",
       "assets": {
         "exe": {
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.16/CloudAppRobot.exe",
-          "sha256": "b72edad2e74c52fb174a33e98f00d59000784f5de1b7fbb2cf2c578a17837ee1",
-          "size": 160466994
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.17/CloudAppRobot.exe",
+          "sha256": "d7a3b27037095e297b6e9b6afbd3a49b402be14a05e0769e21e2cf7740a82f89",
+          "size": 168205464
         },
         "py": {
           "download_url": "",
