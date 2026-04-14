@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.14",
-      "published_at": "2026-04-14T17:23:51Z",
-      "changelog": "fix: let runtime consume remote update commands and relaunch updated robot via start_robot.cmd",
+      "version": "1.4.15",
+      "published_at": "2026-04-14T17:49:09Z",
+      "changelog": "fix: atomically persist remote update queue, finalize completed updates on runtime startup, and harden start_robot.cmd fallback",
       "assets": {
         "exe": {
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.14/CloudAppRobot.exe",
-          "sha256": "567839f50562900c9d256412b68bbd52a744b270cfac16fd1d093eddffbcf3d9",
-          "size": 160465436
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.15/CloudAppRobot.exe",
+          "sha256": "b72edad2e74c52fb174a33e98f00d59000784f5de1b7fbb2cf2c578a17837ee1",
+          "size": 160466994
         },
         "py": {
           "download_url": "",
