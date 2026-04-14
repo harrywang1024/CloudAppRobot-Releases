@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.9",
-      "published_at": "2026-04-14T14:47:08Z",
-      "changelog": "fix: relaunch updated robot via start_robot.cmd after exe swap",
+      "version": "1.4.10",
+      "published_at": "2026-04-14T15:12:14Z",
+      "changelog": "fix: avoid onefile runtime dir collisions and honor CLOUDAPP_ROBOT_DATA_DIR for update state",
       "assets": {
         "exe": {
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.9/CloudAppRobot.exe",
-          "sha256": "79fd49a0b37c47ef608019496aaf753711ee5030b199c9ff7b110458ad103cf2",
-          "size": 160462562
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.10/CloudAppRobot.exe",
+          "sha256": "e5ce149e716271857d90fd77d3b906ef32862d50fc46e967f762279487f9fc1f",
+          "size": 160461924
         },
         "py": {
           "download_url": "",
