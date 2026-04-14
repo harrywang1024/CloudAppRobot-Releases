@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.11",
-      "published_at": "2026-04-14T15:39:33Z",
-      "changelog": "fix: relaunch updated robot with serialized supervisor recovery",
+      "version": "1.4.12",
+      "published_at": "2026-04-14T16:48:27Z",
+      "changelog": "fix: harden supervisor status writes and suppress false supervisor warning",
       "assets": {
         "exe": {
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.11/CloudAppRobot.exe",
-          "sha256": "fc655da07d227fcba3be19aac0a8379bd2c0cf0270aa4a9ff8832921f7a0c8a3",
-          "size": 160464111
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.12/CloudAppRobot.exe",
+          "sha256": "5c903d744670b110b54dcfbbb4ba47c470452ac184242a5b0285a4241dc5748b",
+          "size": 160465359
         },
         "py": {
           "download_url": "",
