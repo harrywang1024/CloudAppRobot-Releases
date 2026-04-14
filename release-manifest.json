@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "channels": {
+    "stable": {
+      "version": "1.4.5",
+      "published_at": "2026-04-14T03:47:35Z",
+      "changelog": "feat: stabilize PC robot broadcast fix and remote auto-update flow",
+      "assets": {
+        "exe": {
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.5/CloudAppRobot.exe",
+          "sha256": "16a48125a5f2083884424db6887fea2f68d524cd055c053b9f5aba75a43f3770",
+          "size": 160458468
+        },
+        "py": {
+          "download_url": "",
+          "sha256": "",
+          "size": null
+        }
+      }
+    }
+  }
+}
