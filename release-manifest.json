@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.26",
-      "published_at": "2026-04-15T05:06:12Z",
-      "changelog": "Exercise the resident-agent auto-update flow from 1.4.25 to 1.4.26 using the stable bundle-only updater path.",
+      "version": "1.4.27",
+      "published_at": "2026-04-15T15:28:32Z",
+      "changelog": "Resident agent update drill via ops console",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.26/CloudAppRobot.exe",
-          "sha256": "c8eb2a9cb3fee19fafe65852de1a1a1d124c57b15050eaddd09fb255a8856bd2",
-          "size": 36079203
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.27/CloudAppRobot.exe",
+          "sha256": "2e3746cdd361b9a6c225bd25e11f375f70c94d643e88f7099a554648f6555b99",
+          "size": 36079557
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.26/CloudAppRobot-bundle.zip",
-          "sha256": "31eaea76c73437b7502b7ae7934bac79e06e55b2a2164e2c1722860e72e40d19",
-          "size": 161024534
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.27/CloudAppRobot-bundle.zip",
+          "sha256": "e35e958d589b469bc2e839073babeb5278c8eac9055a897f205e4d444bac4538",
+          "size": 161024840
         }
       }
     }
