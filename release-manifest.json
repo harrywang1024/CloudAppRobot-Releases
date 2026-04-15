@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.23",
-      "published_at": "2026-04-15T03:34:10Z",
-      "changelog": "chore: stabilize agent-driven auto update execution",
+      "version": "1.4.24",
+      "published_at": "2026-04-15T04:00:24Z",
+      "changelog": "chore: add deeper agent update diagnostics",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.23/CloudAppRobot.exe",
-          "sha256": "efc75655aea9f6eb356aa318051b7c23eeb7ad1a93ce4abb1184ba30b65f18e3",
-          "size": 36076298
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.24/CloudAppRobot.exe",
+          "sha256": "a4cd828d42203b192c816350f1770c21e7b27aa12029a52aa295c3d1f6d3231c",
+          "size": 36077037
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.23/CloudAppRobot-bundle.zip",
-          "sha256": "5a9c33ce7a4f1aaacb71533c2a325f526c70404a1a320dcae8fefae68aa5cead",
-          "size": 212165908
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.24/CloudAppRobot-bundle.zip",
+          "sha256": "7c7388d845031787066745ce4dcb546e20407b191b5b33b50015ed5ae0a630f2",
+          "size": 212167350
         }
       }
     }
