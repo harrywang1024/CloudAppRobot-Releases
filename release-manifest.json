@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.24",
-      "published_at": "2026-04-15T04:00:24Z",
-      "changelog": "chore: add deeper agent update diagnostics",
+      "version": "1.4.25",
+      "published_at": "2026-04-15T04:43:32Z",
+      "changelog": "Stabilize resident agent update orchestration; updater now only replaces the business bundle and agent restarts the robot after updater completion.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.24/CloudAppRobot.exe",
-          "sha256": "a4cd828d42203b192c816350f1770c21e7b27aa12029a52aa295c3d1f6d3231c",
-          "size": 36077037
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.25/CloudAppRobot.exe",
+          "sha256": "bb2cfe1bdff76001fa4d69654066f8981f6b219a43189359433e89469ee2c7c0",
+          "size": 36079203
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.24/CloudAppRobot-bundle.zip",
-          "sha256": "7c7388d845031787066745ce4dcb546e20407b191b5b33b50015ed5ae0a630f2",
-          "size": 212167350
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.25/CloudAppRobot-bundle.zip",
+          "sha256": "2d7f54208a1cd00366a99793401eead336154cd25f6086bb0abfdd69ede6d43a",
+          "size": 161024258
         }
       }
     }
