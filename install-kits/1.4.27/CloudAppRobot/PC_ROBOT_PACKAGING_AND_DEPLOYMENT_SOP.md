@@ -58,7 +58,7 @@ On the build machine:
 cd C:\CloudApp\robot_client
 python -m pip install pyinstaller
 python build_exe.py --mode onedir
-powershell -ExecutionPolicy Bypass -File package_pc_robot_exe_release.ps1
+powershell -ExecutionPolicy Bypass -File scripts/windows/package_pc_robot_exe_release.ps1
 ```
 
 Output:
@@ -217,8 +217,8 @@ So on the target PC:
 
 If you still deploy from source mode, use:
 
-- [install_pc_robot_autostart.ps1](/d:/halfmiles/CloudApp/robot_client/install_pc_robot_autostart.ps1)
-- [uninstall_pc_robot_autostart.ps1](/d:/halfmiles/CloudApp/robot_client/uninstall_pc_robot_autostart.ps1)
+- [install_pc_robot_autostart.ps1](/d:/halfmiles/CloudApp/robot_client/scripts/windows/install_pc_robot_autostart.ps1)
+- [uninstall_pc_robot_autostart.ps1](/d:/halfmiles/CloudApp/robot_client/scripts/windows/uninstall_pc_robot_autostart.ps1)
 
 For EXE mode, the same scheduled-task idea can be reused later with `start_pc_robot_exe.cmd`.
 
