@@ -41,12 +41,15 @@ if not exist "%RUNTIME_DIR%" mkdir "%RUNTIME_DIR%"
 
 if exist "%RUNTIME_DIR%\group_bot_supervisor.pid" (
     for /f "usebackq delims=" %%p in ("%RUNTIME_DIR%\group_bot_supervisor.pid") do (
-        tasklist /FI "PID eq %%p" | find "%%p" >nul 2>nul
+        call :is_numeric_pid "%%p"
         if not errorlevel 1 (
-            echo [INFO] CloudAppRobot supervisor is already running with PID %%p
-            >> "%BOOT_LOG%" echo [%date% %time%] existing supervisor pid=%%p
-            call "%BASE_DIR%start_robot_status_panel.cmd" pc
-            exit /b 0
+            tasklist /FI "PID eq %%p" | find "%%p" >nul 2>nul
+            if not errorlevel 1 (
+                echo [INFO] CloudAppRobot supervisor is already running with PID %%p
+                >> "%BOOT_LOG%" echo [%date% %time%] existing supervisor pid=%%p
+                call "%BASE_DIR%start_robot_status_panel.cmd" pc
+                exit /b 0
+            )
         )
     )
     del /f /q "%RUNTIME_DIR%\group_bot_supervisor.pid" >nul 2>nul
@@ -70,15 +73,21 @@ if errorlevel 1 (
 set "START_OK="
 for /L %%i in (1,1,10) do (
     if not defined START_OK if defined LAUNCHED_PID (
-        tasklist /FI "PID eq !LAUNCHED_PID!" | find "!LAUNCHED_PID!" >nul 2>nul
-        if not errorlevel 1 set "START_OK=1"
+        call :is_numeric_pid "!LAUNCHED_PID!"
+        if not errorlevel 1 (
+            tasklist /FI "PID eq !LAUNCHED_PID!" | find "!LAUNCHED_PID!" >nul 2>nul
+            if not errorlevel 1 set "START_OK=1"
+        )
     )
     if not defined START_OK if exist "%RUNTIME_DIR%\status_supervisor.json" set "START_OK=1"
     if not defined START_OK if exist "%RUNTIME_DIR%\group_bot_supervisor.pid" (
         for /f "usebackq delims=" %%p in ("%RUNTIME_DIR%\group_bot_supervisor.pid") do (
-            tasklist /FI "PID eq %%p" | find "%%p" >nul 2>nul
+            call :is_numeric_pid "%%p"
             if not errorlevel 1 (
-                set "START_OK=1"
+                tasklist /FI "PID eq %%p" | find "%%p" >nul 2>nul
+                if not errorlevel 1 (
+                    set "START_OK=1"
+                )
             )
         )
     )
@@ -98,3 +107,9 @@ call "%BASE_DIR%start_robot_status_panel.cmd" pc
 
 echo CloudAppRobot started.
 exit /b 0
+
+:is_numeric_pid
+setlocal
+set "VALUE=%~1"
+echo(%VALUE%| findstr /R "^[0-9][0-9]*$" >nul
+endlocal & exit /b %errorlevel%

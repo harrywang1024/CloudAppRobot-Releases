@@ -14,11 +14,14 @@ if not exist "%RUNTIME_DIR%" mkdir "%RUNTIME_DIR%"
 
 if exist "%AGENT_PID_FILE%" (
     for /f "usebackq delims=" %%p in ("%AGENT_PID_FILE%") do (
-        tasklist /FI "PID eq %%p" | find "%%p" >nul 2>nul
+        call :is_numeric_pid "%%p"
         if not errorlevel 1 (
-            >> "%BOOT_LOG%" echo [%date% %time%] existing agent pid=%%p, ensuring business stack startup
-            call "%BASE_DIR%start_pc_robot_exe.cmd"
-            exit /b %errorlevel%
+            tasklist /FI "PID eq %%p" | find "%%p" >nul 2>nul
+            if not errorlevel 1 (
+                >> "%BOOT_LOG%" echo [%date% %time%] existing agent pid=%%p, ensuring business stack startup
+                call "%BASE_DIR%start_pc_robot_exe.cmd"
+                exit /b %errorlevel%
+            )
         )
     )
     del /f /q "%AGENT_PID_FILE%" >nul 2>nul
@@ -71,8 +74,11 @@ set "START_OK="
 for /L %%i in (1,1,12) do (
     if not defined START_OK if exist "%AGENT_PID_FILE%" set "START_OK=1"
     if not defined START_OK if defined LAUNCHED_PID (
-        tasklist /FI "PID eq !LAUNCHED_PID!" | find "!LAUNCHED_PID!" >nul 2>nul
-        if not errorlevel 1 set "START_OK=1"
+        call :is_numeric_pid "!LAUNCHED_PID!"
+        if not errorlevel 1 (
+            tasklist /FI "PID eq !LAUNCHED_PID!" | find "!LAUNCHED_PID!" >nul 2>nul
+            if not errorlevel 1 set "START_OK=1"
+        )
     )
     if not defined START_OK timeout /t 1 /nobreak >nul
 )
@@ -87,3 +93,9 @@ if not defined START_OK (
 >> "%BOOT_LOG%" echo [%date% %time%] agent started; launching business stack once
 call "%BASE_DIR%start_pc_robot_exe.cmd"
 exit /b %errorlevel%
+
+:is_numeric_pid
+setlocal
+set "VALUE=%~1"
+echo(%VALUE%| findstr /R "^[0-9][0-9]*$" >nul
+endlocal & exit /b %errorlevel%
