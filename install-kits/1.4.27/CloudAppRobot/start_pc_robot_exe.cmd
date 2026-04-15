@@ -57,28 +57,20 @@ if exist "%RUNTIME_DIR%\group_bot_supervisor.pid" (
 
 echo Starting CloudAppRobot in background...
 echo [NOTE] For first launch on a new PC, run this script as Administrator once so WeCloudapp can finish local session setup.
-for /f %%p in ('powershell -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -Command ^
-  "$env:CLOUDAPP_ROBOT_DATA_DIR='%DATA_ROOT%'; $proc = Start-Process -FilePath '%EXE_PATH%' -ArgumentList @('--pc-role','supervisor','--instance-id','pc','--bot-config','%CONFIG_PATH%') -WindowStyle Hidden -PassThru; $proc.Id"') do (
-    set "LAUNCHED_PID=%%p"
-)
+set "CLOUDAPP_ROBOT_DATA_DIR=%DATA_ROOT%"
+start "" "%EXE_PATH%" --pc-role supervisor --instance-id pc --bot-config "%CONFIG_PATH%"
+set "LAUNCH_RC=%ERRORLEVEL%"
 
-if errorlevel 1 (
+if not "%LAUNCH_RC%"=="0" (
     echo [ERROR] Failed to start CloudAppRobot.exe
     >> "%BOOT_LOG%" echo [%date% %time%] failed to launch exe
     exit /b 1
 )
 
->> "%BOOT_LOG%" echo [%date% %time%] launched pid=%LAUNCHED_PID%
+>> "%BOOT_LOG%" echo [%date% %time%] launch command accepted
 
 set "START_OK="
 for /L %%i in (1,1,10) do (
-    if not defined START_OK if defined LAUNCHED_PID (
-        call :is_numeric_pid "!LAUNCHED_PID!"
-        if not errorlevel 1 (
-            tasklist /FI "PID eq !LAUNCHED_PID!" | find "!LAUNCHED_PID!" >nul 2>nul
-            if not errorlevel 1 set "START_OK=1"
-        )
-    )
     if not defined START_OK if exist "%RUNTIME_DIR%\status_supervisor.json" set "START_OK=1"
     if not defined START_OK if exist "%RUNTIME_DIR%\group_bot_supervisor.pid" (
         for /f "usebackq delims=" %%p in ("%RUNTIME_DIR%\group_bot_supervisor.pid") do (
@@ -90,6 +82,10 @@ for /L %%i in (1,1,10) do (
                 )
             )
         )
+    )
+    if not defined START_OK (
+        tasklist /FI "IMAGENAME eq CloudAppRobot.exe" | find /I "CloudAppRobot.exe" >nul 2>nul
+        if not errorlevel 1 set "START_OK=1"
     )
     if not defined START_OK timeout /t 1 /nobreak >nul
 )
