@@ -23,7 +23,7 @@ elif _SYSTEM == "darwin":
     _DEFAULT_TEMPLATE_DIR = os.path.expanduser("~/Documents/xwechat_files/your_wxid/db_storage")
     _DEFAULT_PROCESS = "WeChat"
 else:
-    _DEFAULT_TEMPLATE_DIR = r"C:\Users\Administrator\Documents\WeChat Files\your_wxid\Msg"
+    _DEFAULT_TEMPLATE_DIR = r"C:\Users\CurrentUser\Documents\xwechat_files\your_wxid\db_storage"
     _DEFAULT_PROCESS = "WeChatAppEx"
 
 _DEFAULT = {
@@ -99,9 +99,24 @@ def _auto_detect_db_dir_windows():
             _add_candidate(candidates, seen, match)
 
     documents = os.path.join(os.path.expanduser("~"), "Documents")
+    for match in glob.glob(os.path.join(documents, "xwechat_files", "*", "db_storage")):
+        _add_candidate(candidates, seen, match)
     for match in glob.glob(os.path.join(documents, "WeChat Files", "*", "Msg")):
         _add_candidate(candidates, seen, match)
 
+    for match in glob.glob(os.path.join(os.path.expanduser("~"), "xwechat_files", "*", "db_storage")):
+        _add_candidate(candidates, seen, match)
+
+    def _mtime(path):
+        for rel in ("message", "."):
+            target = os.path.join(path, rel) if rel != "." else path
+            try:
+                return os.path.getmtime(target)
+            except OSError:
+                continue
+        return 0
+
+    candidates.sort(key=_mtime, reverse=True)
     return _choose_candidate(candidates)
 
 

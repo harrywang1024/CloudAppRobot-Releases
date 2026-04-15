@@ -74,7 +74,11 @@ Important:
 1. Make sure PC WeChat is open and logged in.
 2. On the very first launch, run `start_robot.cmd` once as Administrator.
 3. Wait for the robot to finish local key/session setup.
-4. Later daily starts can use normal double-click startup.
+4. The package now auto-detects the local WeChat database directory and will
+   generate `.robot_data\third_party\wechat-decrypt\all_keys.json` on first run.
+5. You should not need to edit `wechat-decrypt\config.json` manually unless
+   the status panel still shows a Windows DB warning after first startup.
+6. Later daily starts can use normal double-click startup.
 
 ## Normal Stop And Start
 
@@ -130,3 +134,12 @@ If the bot never appears online:
 - verify API URL, username, and password
 - verify the new `bot_code`
 - verify the machine can reach the backend over HTTPS
+
+If the status panel shows `windows_db` warnings:
+
+- first try `Restart Service` once with WeChat already open on the chat list
+- verify the machine really has a local WeChat data folder such as:
+  - `C:\Users\<YourUser>\Documents\xwechat_files\<wxid>\db_storage`
+  - or `C:\Users\<YourUser>\Documents\WeChat Files\<wxid>\Msg`
+- only edit `.robot_data\third_party\wechat-decrypt\config.json` manually if
+  auto-detection still fails
