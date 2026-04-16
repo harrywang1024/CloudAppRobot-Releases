@@ -3,7 +3,7 @@
   "channels": {
     "stable": {
       "version": "1.4.36",
-      "published_at": "2026-04-16T22:15:53Z",
+      "published_at": "2026-04-16T22:33:12Z",
       "changelog": "Fix the PC WeChat order-broadcast send-area geometry so auto-calibration stores the real composer region, bias input focus to the safe right-middle editor zone, and automatically fall back to a window-ratio-derived composer rect when older machines still carry a stale narrow input_rect.",
       "assets": {
         "exe": {
@@ -20,7 +20,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.36/CloudAppRobot-bundle.zip",
-          "sha256": "3abba708b492aad056571fdd77cb6b2d74516f150a2a0827f301633ce30fcf1b",
+          "sha256": "24d1fb9d34272149e7f4aebb26dff9d3ea495d7b3c5506dbc99063243bbdec36",
           "size": 176498966
         }
       }
