@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.29",
-      "published_at": "2026-04-16T01:10:53Z",
-      "changelog": "Persist stock reminder dedupe across restart, restore Chinese inventory notices, and align ops stale status display.",
+      "version": "1.4.31",
+      "published_at": "2026-04-16T16:23:31Z",
+      "changelog": "Fix runtime log timestamps to use UTC so ops runtime logs show newest entries correctly, and harden bot command serialization in cloud ops APIs.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.29/CloudAppRobot.exe",
-          "sha256": "ea5adbf1c23841d8bd4deb5567a3cd07fe54ba5864d826c61b9005d04f4471e4",
-          "size": 36056731
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.31/CloudAppRobot.exe",
+          "sha256": "c1773ff380c3cf7a6d9b6a76b8868c3e5cdb7e332644dbbb23159af522ff5f0f",
+          "size": 36077013
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.29/CloudAppRobot-bundle.zip",
-          "sha256": "39eb9e160a0d8c7c95527f5118d1f80ab9411bc9fd1f058c539209b8a272d269",
-          "size": 161001163
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.31/CloudAppRobot-bundle.zip",
+          "sha256": "dea02ac92fc2b94715edc04a416ce97570fc6f8a2c25d868c89ea91190fc156e",
+          "size": 161020930
         }
       }
     }
