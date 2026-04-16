@@ -3,7 +3,7 @@
   "channels": {
     "stable": {
       "version": "1.4.31",
-      "published_at": "2026-04-16T16:23:31Z",
+      "published_at": "2026-04-16T18:02:39Z",
       "changelog": "Fix runtime log timestamps to use UTC so ops runtime logs show newest entries correctly, and harden bot command serialization in cloud ops APIs.",
       "assets": {
         "exe": {
@@ -20,8 +20,8 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.31/CloudAppRobot-bundle.zip",
-          "sha256": "dea02ac92fc2b94715edc04a416ce97570fc6f8a2c25d868c89ea91190fc156e",
-          "size": 161020930
+          "sha256": "aaba75e30a3c46b24932db3f51f88be9684058528b12e7a6c24c48c05404533d",
+          "size": 176490634
         }
       }
     }
