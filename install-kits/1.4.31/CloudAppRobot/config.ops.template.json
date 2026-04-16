@@ -1,6 +1,0 @@
-{
-  "api_base_url": "https://40.233.102.106/api/v1",
-  "username": "REPLACE_WITH_OPS_USERNAME",
-  "password": "REPLACE_WITH_OPS_PASSWORD",
-  "download_dir": "C:/CloudAppOps/downloads"
-}

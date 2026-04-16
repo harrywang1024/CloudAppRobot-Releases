@@ -7,8 +7,8 @@ This branch is for manual deployment only.
 
 ## Current Baseline
 
-- Robot kit: `install-kits/1.4.34/CloudAppRobot`
-- Ops console kit: `install-kits/1.4.30/WeCloudappOpsConsole`
+- Robot kit: `install-kits/1.4.35/CloudAppRobot`
+- Previous robot kit: `install-kits/1.4.34/CloudAppRobot`
 
 ## Direct Download
 
@@ -18,11 +18,11 @@ Download the whole `install-kits` branch as a zip:
 
 After extracting, use:
 
+- `install-kits/1.4.35/CloudAppRobot`
 - `install-kits/1.4.34/CloudAppRobot`
-- `install-kits/1.4.30/WeCloudappOpsConsole`
 
 ## Notes
 
-- Older install kits have been removed from this branch to avoid downloading the wrong baseline.
+- Only the latest two robot install kits are kept on this branch.
 - For a new robot machine, start from `config.pc.newmachine.json`.
 - Follow `SECOND_BOT_INSTALL.md` inside the robot kit for setup.
