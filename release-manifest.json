@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.31",
-      "published_at": "2026-04-16T18:15:29Z",
-      "changelog": "Fix runtime log timestamps to use UTC so ops runtime logs show newest entries correctly, harden bot command serialization in cloud ops APIs, and republish the runtime bundle with CloudAppUpdater plus helper-binary self-checks.",
+      "version": "1.4.32",
+      "published_at": "2026-04-16T18:54:17Z",
+      "changelog": "Auto-initialize wechat-decrypt runtime config, let windows_db reload after runtime recovery, and surface WXDB self-check status in the robot panel.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.31/CloudAppRobot.exe",
-          "sha256": "fe7d344d2e0a3ed6ef597807b6960407ff8a2db1a30a272d2037e465b482a6a9",
-          "size": 36077658
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.32/CloudAppRobot.exe",
+          "sha256": "f4fc7b8694904647b6206709c3da9a47b6e4a63cdded2d8953f862c75f392ce5",
+          "size": 36079575
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.31/CloudAppRobot-bundle.zip",
-          "sha256": "1150c0a0857caf9f68acb9f57dce84dcb597e5a5b38d9e98a539782c1c584622",
-          "size": 176493512
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.32/CloudAppRobot-bundle.zip",
+          "sha256": "8dda765eef8fa6f35d8fbabb2cd52bdddd0212474b2f5d19012d73fcfe5e0295",
+          "size": 176496791
         }
       }
     }
