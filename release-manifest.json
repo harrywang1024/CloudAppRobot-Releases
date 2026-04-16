@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.27",
-      "published_at": "2026-04-15T15:28:32Z",
-      "changelog": "Resident agent update drill via ops console",
+      "version": "1.4.28",
+      "published_at": "2026-04-16T00:26:41Z",
+      "changelog": "WeChat window detection fallback for robot auto-update drill",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.27/CloudAppRobot.exe",
-          "sha256": "2e3746cdd361b9a6c225bd25e11f375f70c94d643e88f7099a554648f6555b99",
-          "size": 36079557
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.28/CloudAppRobot.exe",
+          "sha256": "74233ea6b7c5a9039c47394002b9ffe4ce1be57c181ac2cb9090bb62f4122c23",
+          "size": 36054680
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.27/CloudAppRobot-bundle.zip",
-          "sha256": "e35e958d589b469bc2e839073babeb5278c8eac9055a897f205e4d444bac4538",
-          "size": 161024840
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.28/CloudAppRobot-bundle.zip",
+          "sha256": "40119ab7440798abfc6fc2cc47fb084e21646d1bb912eae594c80fc45ca3e99a",
+          "size": 160999227
         }
       }
     }
