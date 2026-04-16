@@ -1,0 +1,48 @@
+{
+  "api_base_url": "https://40.233.102.106/api/v1",
+  "username": "REPLACE_WITH_USERNAME",
+  "password": "REPLACE_WITH_PASSWORD",
+  "bot_code": "BOT-WECHAT-002",
+  "openai_api_key": "REPLACE_WITH_OPENAI_API_KEY",
+  "leader_private_wechat": "REPLACE_WITH_LEADER_PRIVATE_WECHAT",
+  "enable_order_broadcast_send": true,
+  "send_backend": "pc_wechat_ocr",
+  "pc_wechat_send_config": "pc_wechat_send_config.template.json",
+  "enable_stock_monitor": true,
+  "enable_notice_queue": true,
+  "cold_start_baseline": true,
+  "windows_db_limit": 0,
+  "windows_db_max_blocks_per_group": 0,
+  "runtime_recent_extra_blocks": 0,
+  "agent_watchdog_enabled": false,
+  "local_order_backup_dir": "C:/CloudAppRobot/persistent_orders/pc",
+  "leader_report_output_dir": "C:/CloudAppRobot/reports",
+  "leader_report_timezone": "America/Toronto",
+  "leader_report_weekly_schedule": [
+    {
+      "weekday": "Friday",
+      "time": "18:00"
+    }
+  ],
+  "monitored_conversations": [
+    {
+      "name": "REPLACE_WITH_PRIMARY_GROUP",
+      "type": "group"
+    },
+    {
+      "name": "REPLACE_WITH_SECONDARY_GROUP",
+      "type": "group"
+    },
+    {
+      "name": "REPLACE_WITH_LEADER_PRIVATE_WECHAT",
+      "type": "private"
+    }
+  ],
+  "monitored_groups": [
+    "REPLACE_WITH_PRIMARY_GROUP",
+    "REPLACE_WITH_SECONDARY_GROUP"
+  ],
+  "poll_interval": 2.0,
+  "sync_interval": 30,
+  "ocr_analyze_self_messages": true
+}
