@@ -1,0 +1,35 @@
+{
+    "api_base_url": "https://40.233.102.106/api/v1",
+    "username": "your_username",
+    "password": "your_password",
+    "bot_code": "BOT-1",
+    "openai_api_key": "sk-proj-your-openai-key-here",
+    "leader_report_output_dir": "C:/CloudAppRobot/reports",
+    "leader_report_timezone": "America/Toronto",
+    "leader_report_weekly_schedule": [
+        {
+            "weekday": "Friday",
+            "time": "18:00"
+        }
+    ],
+    "monitored_conversations": [
+        {
+            "name": "YourGroupName",
+            "type": "group"
+        },
+        {
+            "name": "YourPrivateWechatName",
+            "type": "private"
+        }
+    ],
+    "monitored_groups": [
+        "YourGroupName"
+    ],
+    "windows_db_limit": 0,
+    "windows_db_max_blocks_per_group": 0,
+    "runtime_recent_extra_blocks": 0,
+    "agent_watchdog_enabled": false,
+    "poll_interval": 2.0,
+    "sync_interval": 30,
+    "capture_mode": "ocr"
+}
