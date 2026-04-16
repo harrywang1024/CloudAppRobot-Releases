@@ -3,14 +3,14 @@
   "channels": {
     "stable": {
       "version": "1.4.31",
-      "published_at": "2026-04-16T18:02:39Z",
-      "changelog": "Fix runtime log timestamps to use UTC so ops runtime logs show newest entries correctly, and harden bot command serialization in cloud ops APIs.",
+      "published_at": "2026-04-16T18:15:29Z",
+      "changelog": "Fix runtime log timestamps to use UTC so ops runtime logs show newest entries correctly, harden bot command serialization in cloud ops APIs, and republish the runtime bundle with CloudAppUpdater plus helper-binary self-checks.",
       "assets": {
         "exe": {
           "kind": "exe",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.31/CloudAppRobot.exe",
-          "sha256": "c1773ff380c3cf7a6d9b6a76b8868c3e5cdb7e332644dbbb23159af522ff5f0f",
-          "size": 36077013
+          "sha256": "fe7d344d2e0a3ed6ef597807b6960407ff8a2db1a30a272d2037e465b482a6a9",
+          "size": 36077658
         },
         "py": {
           "download_url": "",
@@ -20,8 +20,8 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.31/CloudAppRobot-bundle.zip",
-          "sha256": "aaba75e30a3c46b24932db3f51f88be9684058528b12e7a6c24c48c05404533d",
-          "size": 176490634
+          "sha256": "1150c0a0857caf9f68acb9f57dce84dcb597e5a5b38d9e98a539782c1c584622",
+          "size": 176493512
         }
       }
     }
