@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.32",
-      "published_at": "2026-04-16T18:54:17Z",
-      "changelog": "Auto-initialize wechat-decrypt runtime config, let windows_db reload after runtime recovery, and surface WXDB self-check status in the robot panel.",
+      "version": "1.4.33",
+      "published_at": "2026-04-16T19:05:09Z",
+      "changelog": "Auto-initialize wechat-decrypt runtime config, recover windows_db after runtime repair, surface WXDB self-checks in the panel, and sync bundle version metadata during release publishing.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.32/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.33/CloudAppRobot.exe",
           "sha256": "f4fc7b8694904647b6206709c3da9a47b6e4a63cdded2d8953f862c75f392ce5",
           "size": 36079575
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.32/CloudAppRobot-bundle.zip",
-          "sha256": "8dda765eef8fa6f35d8fbabb2cd52bdddd0212474b2f5d19012d73fcfe5e0295",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.33/CloudAppRobot-bundle.zip",
+          "sha256": "ef86a586a4b1d05c1d78cf9b84d33ac84d6a9095eaffb761474219afc4258b9f",
           "size": 176496791
         }
       }
