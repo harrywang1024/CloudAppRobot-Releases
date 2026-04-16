@@ -7,7 +7,7 @@ This branch is for manual deployment only.
 
 ## Current Baseline
 
-- Robot kit: `install-kits/1.4.31/CloudAppRobot`
+- Robot kit: `install-kits/1.4.33/CloudAppRobot`
 - Ops console kit: `install-kits/1.4.30/WeCloudappOpsConsole`
 
 ## Direct Download
@@ -18,7 +18,7 @@ Download the whole `install-kits` branch as a zip:
 
 After extracting, use:
 
-- `install-kits/1.4.31/CloudAppRobot`
+- `install-kits/1.4.33/CloudAppRobot`
 - `install-kits/1.4.30/WeCloudappOpsConsole`
 
 ## Notes
