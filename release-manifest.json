@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.33",
-      "published_at": "2026-04-16T19:05:09Z",
-      "changelog": "Auto-initialize wechat-decrypt runtime config, recover windows_db after runtime repair, surface WXDB self-checks in the panel, and sync bundle version metadata during release publishing.",
+      "version": "1.4.34",
+      "published_at": "2026-04-16T20:07:33Z",
+      "changelog": "Standardize PC WeChat window width to 50% of screen width while preserving taskbar-aware height, so high-DPI machines no longer get forced back into the old narrow window baseline.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.33/CloudAppRobot.exe",
-          "sha256": "f4fc7b8694904647b6206709c3da9a47b6e4a63cdded2d8953f862c75f392ce5",
-          "size": 36079575
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.34/CloudAppRobot.exe",
+          "sha256": "617117474562b3bcd7dcc920b001fbea7b305231d4ad3e52c7e8da6a6f311456",
+          "size": 36080565
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.33/CloudAppRobot-bundle.zip",
-          "sha256": "ef86a586a4b1d05c1d78cf9b84d33ac84d6a9095eaffb761474219afc4258b9f",
-          "size": 176496791
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.34/CloudAppRobot-bundle.zip",
+          "sha256": "25622242a90fc8df66832d869ed9a6ac999f0c4966d94d30e15df91b543b7824",
+          "size": 176498511
         }
       }
     }
