@@ -1,20 +1,28 @@
-# CloudAppRobot-Releases
+# CloudAppRobot Install Kits
 
-This repository now has two responsibilities separated by branch:
+This branch is for manual deployment only.
 
-- `main`: release metadata for the robot auto-update flow
-- `install-kits`: browsable deployment files for manual robot installation
+- `main` remains the source of truth for robot auto-update metadata.
+- `install-kits` contains the current browsable Windows install kits.
 
-If you are looking for the live auto-update manifest, stay on `main`.
+## Current Baseline
 
-If you are looking for a full manual deployment package for a new machine, switch to `install-kits`.
+- Robot kit: `install-kits/1.4.29/CloudAppRobot`
+- Ops console kit: `install-kits/1.4.29/WeCloudappOpsConsole`
 
 ## Direct Download
 
-To download the whole `install-kits` branch as a zip:
+Download the whole `install-kits` branch as a zip:
 
 `https://github.com/harrywang1024/CloudAppRobot-Releases/archive/refs/heads/install-kits.zip`
 
-After extracting, go to:
+After extracting, use:
 
-`install-kits/1.4.27/CloudAppRobot`
+- `install-kits/1.4.29/CloudAppRobot`
+- `install-kits/1.4.29/WeCloudappOpsConsole`
+
+## Notes
+
+- Older install kits have been removed from this branch to avoid downloading the wrong baseline.
+- For a new robot machine, start from `config.pc.newmachine.json`.
+- Follow `SECOND_BOT_INSTALL.md` inside the robot kit for setup.
