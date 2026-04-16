@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.34",
-      "published_at": "2026-04-16T20:07:33Z",
-      "changelog": "Standardize PC WeChat window width to 50% of screen width while preserving taskbar-aware height, so high-DPI machines no longer get forced back into the old narrow window baseline.",
+      "version": "1.4.35",
+      "published_at": "2026-04-16T21:01:00Z",
+      "changelog": "Anchor the PC WeChat window to the top-right screen edge with taskbar-aware full-height sizing, tighten right-middle composer targeting to avoid file picker misclicks, and let the runtime/supervisor take over remote updates whenever the resident agent is stale so stuck bots can still upgrade.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.34/CloudAppRobot.exe",
-          "sha256": "617117474562b3bcd7dcc920b001fbea7b305231d4ad3e52c7e8da6a6f311456",
-          "size": 36080565
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.35/CloudAppRobot.exe",
+          "sha256": "f4c5673978d95c1ed6d550315267b0c73953878c2c27b442dc7375c2a768b8a0",
+          "size": 36084717
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.34/CloudAppRobot-bundle.zip",
-          "sha256": "25622242a90fc8df66832d869ed9a6ac999f0c4966d94d30e15df91b543b7824",
-          "size": 176498511
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.35/CloudAppRobot-bundle.zip",
+          "sha256": "64705eb99fdc0c9abb84034942031bac3479b5c3cd81a1553d467764260655b9",
+          "size": 176492059
         }
       }
     }
