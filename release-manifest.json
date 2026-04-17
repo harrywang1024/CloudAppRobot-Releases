@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.41",
-      "published_at": "2026-04-17T17:25:18Z",
-      "changelog": "Follow up 1.4.40 with another live auto-update hop to verify resident-agent recovery remains stable on the next upgrade.",
+      "version": "1.4.42",
+      "published_at": "2026-04-17T17:47:27Z",
+      "changelog": "Add heartbeat-based remote update fallback delivery so runtime/supervisor can recover update commands when the resident agent is stale, and prefer the embedded agent role on startup to avoid stale standalone agent drift.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.41/CloudAppRobot.exe",
-          "sha256": "d6cb4892e0fec19505db1e654a9016b370b3ae4b32f3672e2184b79ce0673243",
-          "size": 36099223
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.42/CloudAppRobot.exe",
+          "sha256": "9a4233834c3e519c28970924c2cd48dd2cb16e86051ccb7228f197e7bc7e5d4d",
+          "size": 36099417
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.41/CloudAppRobot-bundle.zip",
-          "sha256": "c438ea815d84565c80c7f3b4c93ab3d50ddd8d4ef41d5154cc5aeb59da3763e4",
-          "size": 176519183
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.42/CloudAppRobot-bundle.zip",
+          "sha256": "373ab95b7451ef1f401498ca30f34f7756415b332592e091ef8ccbb9d53d22c5",
+          "size": 176517045
         }
       }
     }
