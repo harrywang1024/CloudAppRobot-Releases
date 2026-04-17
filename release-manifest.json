@@ -3,7 +3,7 @@
   "channels": {
     "stable": {
       "version": "1.4.47",
-      "published_at": "2026-04-17T21:19:52Z",
+      "published_at": "2026-04-17T21:23:46Z",
       "changelog": "Package the latest helper-sync fix so CloudAppUpdater.exe and CloudAppAgent.exe stay aligned in both the bundle root and _internal, while retaining the recent Windows update-flow hardening and broadcast wording cleanup.",
       "assets": {
         "exe": {
@@ -20,7 +20,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.47/CloudAppRobot-bundle.zip",
-          "sha256": "130af4e78a10b91863a6261cd921b61744378f3a5287517ee162bebc25ccecd5",
+          "sha256": "96d32ece86f1e7817d7032f405f587b2dabe2e4e06b0a4fe7b9f2547ecdc0001",
           "size": 176978009
         }
       }
