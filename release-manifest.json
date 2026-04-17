@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.49",
-      "published_at": "2026-04-17T22:09:47Z",
-      "changelog": "Recover stuck dispatched auto-update commands by forcing agent recovery when the resident agent looks fresh but never starts local execution, while preserving the repaired helper-binary packaging baseline.",
+      "version": "1.4.50",
+      "published_at": "2026-04-17T22:42:58Z",
+      "changelog": "Validate fully automatic updates on top of the repaired 1.4.49 baseline for BOT-WECHAT-001 and BOT-WECHAT-003, with no further manual updater replacement expected.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.49/CloudAppRobot.exe",
-          "sha256": "8fb2ab9061d9e9c08180eecb66f8b822a28fc383e9dc16127e9b9a1ce90ae9ab",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.50/CloudAppRobot.exe",
+          "sha256": "49543cd331ff776f8de3f4223c873d38cdd7eca2613ec594eee8718dd265a2ff",
           "size": 36104922
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.49/CloudAppRobot-bundle.zip",
-          "sha256": "b890ac259d7b5ea16be80e6ce36e63354f0033197b8f55e7f1aa1dd477941246",
-          "size": 176981336
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.50/CloudAppRobot-bundle.zip",
+          "sha256": "e7f1ea526cc63672fb36a9d6df8eda9b02aac58785626dbbda55653d72c3010a",
+          "size": 176977705
         }
       }
     }
