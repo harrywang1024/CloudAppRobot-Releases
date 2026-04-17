@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.27",
-      "published_at": "2026-04-15T15:28:32Z",
-      "changelog": "Resident agent update drill via ops console",
+      "version": "1.4.38",
+      "published_at": "2026-04-17T04:27:09Z",
+      "changelog": "Fix the post-update replay loop on PC robots by clearing locally queued update commands before updater handoff, re-queuing only on handoff failure, and making supervisor fallback skip fresh pending update completions.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.27/CloudAppRobot.exe",
-          "sha256": "2e3746cdd361b9a6c225bd25e11f375f70c94d643e88f7099a554648f6555b99",
-          "size": 36079557
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.38/CloudAppRobot.exe",
+          "sha256": "f8b0890fa2fc1703b84fa14a29b4598c4a2a127d7d69d5c43f831631275bc8d5",
+          "size": 36089871
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.27/CloudAppRobot-bundle.zip",
-          "sha256": "e35e958d589b469bc2e839073babeb5278c8eac9055a897f205e4d444bac4538",
-          "size": 161024840
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.38/CloudAppRobot-bundle.zip",
+          "sha256": "d97686caefae3e9b8330ebeb7a14067025d6b1b205f8b910a08859b3605ea151",
+          "size": 176506338
         }
       }
     }
