@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.47",
-      "published_at": "2026-04-17T21:23:46Z",
-      "changelog": "Package the latest helper-sync fix so CloudAppUpdater.exe and CloudAppAgent.exe stay aligned in both the bundle root and _internal, while retaining the recent Windows update-flow hardening and broadcast wording cleanup.",
+      "version": "1.4.48",
+      "published_at": "2026-04-17T21:46:25Z",
+      "changelog": "Validate automatic updates from the repaired 1.4.47 baseline, keep helper binaries synchronized in both the bundle root and _internal, retain the agent/updater exit-flow hardening, and stabilize repeated release publishing so bundle checksums stay consistent.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.47/CloudAppRobot.exe",
-          "sha256": "883c06db61ece822ec5ee5b295a56ce4a23feb1307ac3f27df074aac365cd6d3",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.48/CloudAppRobot.exe",
+          "sha256": "206d64012045faa11a3c990f9e2a587855e399582cc963fd18557962dc283b27",
           "size": 36100955
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.47/CloudAppRobot-bundle.zip",
-          "sha256": "96d32ece86f1e7817d7032f405f587b2dabe2e4e06b0a4fe7b9f2547ecdc0001",
-          "size": 176978009
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.48/CloudAppRobot-bundle.zip",
+          "sha256": "6d4867c3b0e29cf6fd86b9ac97cda547c61f5152fb61a165a5c65bbc159cd739",
+          "size": 176975341
         }
       }
     }
