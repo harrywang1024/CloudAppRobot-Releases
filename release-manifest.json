@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.50",
-      "published_at": "2026-04-17T22:42:58Z",
-      "changelog": "Validate fully automatic updates on top of the repaired 1.4.49 baseline for BOT-WECHAT-001 and BOT-WECHAT-003, with no further manual updater replacement expected.",
+      "version": "1.4.51",
+      "published_at": "2026-04-17T23:11:53Z",
+      "changelog": "Fix false-positive launcher handoff during auto-update recovery by requiring the resident agent to prove liveness before recording handoff success, and allow runtime/supervisor to retry recovery when a recent handoff marker exists without a live agent.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.50/CloudAppRobot.exe",
-          "sha256": "49543cd331ff776f8de3f4223c873d38cdd7eca2613ec594eee8718dd265a2ff",
-          "size": 36104922
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.51/CloudAppRobot.exe",
+          "sha256": "4584cca6c50a866420f1449bcfaa3105319c6e55efa718cdc2cd7dd492666fab",
+          "size": 36106403
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.50/CloudAppRobot-bundle.zip",
-          "sha256": "e7f1ea526cc63672fb36a9d6df8eda9b02aac58785626dbbda55653d72c3010a",
-          "size": 176977705
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.51/CloudAppRobot-bundle.zip",
+          "sha256": "1caaf45ae4d847328f038971585d9a5ebab26e47c971c6e7392467fe2e051437",
+          "size": 176982802
         }
       }
     }
