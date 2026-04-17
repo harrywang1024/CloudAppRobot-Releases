@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.44",
-      "published_at": "2026-04-17T18:26:10Z",
-      "changelog": "Fix false pc_focus_failed loops by relaxing WeChat send-composer focus verification when OCR misses toolbar labels but title, foreground, and composer geometry are stable.",
+      "version": "1.4.45",
+      "published_at": "2026-04-17T19:30:07Z",
+      "changelog": "Fix the Windows updater handoff stall during installing by waiting only on the current install's CloudAppRobot.exe path, and surface backend 422 response bodies directly in the ops console.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.44/CloudAppRobot.exe",
-          "sha256": "8e3be68c206d2af40e4aad5d623423025db9f6f3fb5d0eeced4d3137b6df3d5f",
-          "size": 36100549
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.45/CloudAppRobot.exe",
+          "sha256": "04ebe86977b484aee6ce9979ae8348459cb21635e67970c7c170ec0f2e3d58af",
+          "size": 36101049
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.44/CloudAppRobot-bundle.zip",
-          "sha256": "281d50d9ae4c701021a934d8eeade0a5e9ad24c41e7eb5491bc83ff5b6b847e6",
-          "size": 176517063
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.45/CloudAppRobot-bundle.zip",
+          "sha256": "6e6e5461c0a7a0cef530ed6af22d3c15a442e8d22dd833cde6cd06a08c01dd50",
+          "size": 176972410
         }
       }
     }
