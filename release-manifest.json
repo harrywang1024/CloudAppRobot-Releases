@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.43",
-      "published_at": "2026-04-17T18:01:46Z",
-      "changelog": "Validation hop after manually landing 1.4.42 and deploying the backend heartbeat command fallback, to verify the next auto-update no longer stalls at dispatched.",
+      "version": "1.4.44",
+      "published_at": "2026-04-17T18:26:10Z",
+      "changelog": "Fix false pc_focus_failed loops by relaxing WeChat send-composer focus verification when OCR misses toolbar labels but title, foreground, and composer geometry are stable.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.43/CloudAppRobot.exe",
-          "sha256": "5f1ba551205c70ef1b431e3cee54aeb2dace8b7af06832efde877611cd734c73",
-          "size": 36099417
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.44/CloudAppRobot.exe",
+          "sha256": "8e3be68c206d2af40e4aad5d623423025db9f6f3fb5d0eeced4d3137b6df3d5f",
+          "size": 36100549
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.43/CloudAppRobot-bundle.zip",
-          "sha256": "4b08a1f0a768f7f995f0a6e0f18fc930ba57a689f90767b891d0d7486f555793",
-          "size": 176518335
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.44/CloudAppRobot-bundle.zip",
+          "sha256": "281d50d9ae4c701021a934d8eeade0a5e9ad24c41e7eb5491bc83ff5b6b847e6",
+          "size": 176517063
         }
       }
     }
