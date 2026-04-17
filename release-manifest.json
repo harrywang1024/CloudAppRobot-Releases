@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.39",
-      "published_at": "2026-04-17T15:54:27Z",
-      "changelog": "Include the latest solitaire broadcast wording updates and harden PC robot auto-update recovery by pruning stale local update queues and stale pending update markers.",
+      "version": "1.4.40",
+      "published_at": "2026-04-17T17:03:33Z",
+      "changelog": "Harden PC robot recovery by reusing live resident agents, pruning duplicate local agents, adding full local stop-state cleanup, and self-healing stale update handoff residue.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.39/CloudAppRobot.exe",
-          "sha256": "5f62d61e93c26a7d8549895479d496d00ee7f6b0a654c01dd546628e315dc656",
-          "size": 36094061
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.40/CloudAppRobot.exe",
+          "sha256": "33f7953a4801b89a8542e7db4ba83a727a215b1b85f6173305527827a1df2102",
+          "size": 36099223
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.39/CloudAppRobot-bundle.zip",
-          "sha256": "954979906372a22eeee5f76d5429041d2689ef617b2b9ce1b2788dd093ac90a1",
-          "size": 176509289
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.40/CloudAppRobot-bundle.zip",
+          "sha256": "50cfdb96154f7f654d07f5067f7108968ee63a08054014dbec3a93f1fc8f1271",
+          "size": 176517238
         }
       }
     }
