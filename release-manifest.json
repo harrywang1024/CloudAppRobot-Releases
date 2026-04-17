@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.42",
-      "published_at": "2026-04-17T17:47:27Z",
-      "changelog": "Add heartbeat-based remote update fallback delivery so runtime/supervisor can recover update commands when the resident agent is stale, and prefer the embedded agent role on startup to avoid stale standalone agent drift.",
+      "version": "1.4.43",
+      "published_at": "2026-04-17T18:01:46Z",
+      "changelog": "Validation hop after manually landing 1.4.42 and deploying the backend heartbeat command fallback, to verify the next auto-update no longer stalls at dispatched.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.42/CloudAppRobot.exe",
-          "sha256": "9a4233834c3e519c28970924c2cd48dd2cb16e86051ccb7228f197e7bc7e5d4d",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.43/CloudAppRobot.exe",
+          "sha256": "5f1ba551205c70ef1b431e3cee54aeb2dace8b7af06832efde877611cd734c73",
           "size": 36099417
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.42/CloudAppRobot-bundle.zip",
-          "sha256": "373ab95b7451ef1f401498ca30f34f7756415b332592e091ef8ccbb9d53d22c5",
-          "size": 176517045
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.43/CloudAppRobot-bundle.zip",
+          "sha256": "4b08a1f0a768f7f995f0a6e0f18fc930ba57a689f90767b891d0d7486f555793",
+          "size": 176518335
         }
       }
     }
