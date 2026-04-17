@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.45",
-      "published_at": "2026-04-17T19:30:07Z",
-      "changelog": "Fix the Windows updater handoff stall during installing by waiting only on the current install's CloudAppRobot.exe path, and surface backend 422 response bodies directly in the ops console.",
+      "version": "1.4.46",
+      "published_at": "2026-04-17T20:09:26Z",
+      "changelog": "Validate the repaired Windows auto-update path after 1.4.45, remove the meaningless lock-covered and extra-reserved breakdown from order-broadcast summaries, and keep the updater and ops console hardening from the prior baseline.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.45/CloudAppRobot.exe",
-          "sha256": "04ebe86977b484aee6ce9979ae8348459cb21635e67970c7c170ec0f2e3d58af",
-          "size": 36101049
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.46/CloudAppRobot.exe",
+          "sha256": "9ca0f94d3adfa350447124a3403702d7e5ba3a3db96a2fe9127329f0b1e7ca66",
+          "size": 36100928
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.45/CloudAppRobot-bundle.zip",
-          "sha256": "6e6e5461c0a7a0cef530ed6af22d3c15a442e8d22dd833cde6cd06a08c01dd50",
-          "size": 176972410
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.46/CloudAppRobot-bundle.zip",
+          "sha256": "00ad1050054fb5d709b4971b5eb406119084607e54fe03c797d22562970e6aa6",
+          "size": 176973894
         }
       }
     }
