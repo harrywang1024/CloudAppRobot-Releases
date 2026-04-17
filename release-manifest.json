@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.40",
-      "published_at": "2026-04-17T17:03:33Z",
-      "changelog": "Harden PC robot recovery by reusing live resident agents, pruning duplicate local agents, adding full local stop-state cleanup, and self-healing stale update handoff residue.",
+      "version": "1.4.41",
+      "published_at": "2026-04-17T17:25:18Z",
+      "changelog": "Follow up 1.4.40 with another live auto-update hop to verify resident-agent recovery remains stable on the next upgrade.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.40/CloudAppRobot.exe",
-          "sha256": "33f7953a4801b89a8542e7db4ba83a727a215b1b85f6173305527827a1df2102",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.41/CloudAppRobot.exe",
+          "sha256": "d6cb4892e0fec19505db1e654a9016b370b3ae4b32f3672e2184b79ce0673243",
           "size": 36099223
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.40/CloudAppRobot-bundle.zip",
-          "sha256": "50cfdb96154f7f654d07f5067f7108968ee63a08054014dbec3a93f1fc8f1271",
-          "size": 176517238
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.41/CloudAppRobot-bundle.zip",
+          "sha256": "c438ea815d84565c80c7f3b4c93ab3d50ddd8d4ef41d5154cc5aeb59da3763e4",
+          "size": 176519183
         }
       }
     }
