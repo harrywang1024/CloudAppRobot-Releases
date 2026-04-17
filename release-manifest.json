@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.36",
-      "published_at": "2026-04-16T22:33:12Z",
-      "changelog": "Fix the PC WeChat order-broadcast send-area geometry so auto-calibration stores the real composer region, bias input focus to the safe right-middle editor zone, and automatically fall back to a window-ratio-derived composer rect when older machines still carry a stale narrow input_rect.",
+      "version": "1.4.37",
+      "published_at": "2026-04-17T03:03:02Z",
+      "changelog": "Honor custom sale variant prices in runtime broadcast and refresh the packaged PC robot build for stock-lock verification and ops auto-update rehearsal.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.36/CloudAppRobot.exe",
-          "sha256": "f07aaa593af9f63b6479dc8415b7a65cd1233c55401021af0c5919ef25c612b1",
-          "size": 36085927
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.37/CloudAppRobot.exe",
+          "sha256": "05c83c202d5f56affc73f5eaa6240f0c7d2a5b8ae6f1177ea11bb18d16a1012c",
+          "size": 36088796
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.36/CloudAppRobot-bundle.zip",
-          "sha256": "24d1fb9d34272149e7f4aebb26dff9d3ea495d7b3c5506dbc99063243bbdec36",
-          "size": 176498966
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.37/CloudAppRobot-bundle.zip",
+          "sha256": "fb09558ef8db16a8655f154982d2438d84b919c995e08f4014d79d1dc720137b",
+          "size": 176505826
         }
       }
     }
