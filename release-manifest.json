@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.38",
-      "published_at": "2026-04-17T04:27:09Z",
-      "changelog": "Fix the post-update replay loop on PC robots by clearing locally queued update commands before updater handoff, re-queuing only on handoff failure, and making supervisor fallback skip fresh pending update completions.",
+      "version": "1.4.39",
+      "published_at": "2026-04-17T15:54:27Z",
+      "changelog": "Include the latest solitaire broadcast wording updates and harden PC robot auto-update recovery by pruning stale local update queues and stale pending update markers.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.38/CloudAppRobot.exe",
-          "sha256": "f8b0890fa2fc1703b84fa14a29b4598c4a2a127d7d69d5c43f831631275bc8d5",
-          "size": 36089871
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.39/CloudAppRobot.exe",
+          "sha256": "5f62d61e93c26a7d8549895479d496d00ee7f6b0a654c01dd546628e315dc656",
+          "size": 36094061
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.38/CloudAppRobot-bundle.zip",
-          "sha256": "d97686caefae3e9b8330ebeb7a14067025d6b1b205f8b910a08859b3605ea151",
-          "size": 176506338
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.39/CloudAppRobot-bundle.zip",
+          "sha256": "954979906372a22eeee5f76d5429041d2689ef617b2b9ce1b2788dd093ac90a1",
+          "size": 176509289
         }
       }
     }

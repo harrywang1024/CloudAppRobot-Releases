@@ -1,7 +1,0 @@
-{
-    "db_dir": "C:\\Users\\CurrentUser\\Documents\\xwechat_files\\your_wxid\\db_storage",
-    "keys_file": "all_keys.json",
-    "decrypted_dir": "decrypted",
-    "decoded_image_dir": "decoded_images",
-    "wechat_process": "WeChatAppEx"
-}
