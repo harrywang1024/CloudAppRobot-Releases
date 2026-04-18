@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.57",
-      "published_at": "2026-04-18T17:49:58Z",
-      "changelog": "Fix the PC auto-update handoff stall by stopping sender/runtime/supervisor roles individually instead of using tree-kill semantics, so the resident agent survives long enough to launch the updater and complete the business bundle replacement.",
+      "version": "1.4.58",
+      "published_at": "2026-04-18T18:42:16Z",
+      "changelog": "Keep the resident agent alive during PC auto-update, isolate the update window from agent auto-recovery, and restart only the business stack via a dedicated post-update resume script so updater handoff no longer loops through start_robot.cmd.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.57/CloudAppRobot.exe",
-          "sha256": "1f70f919167e7e6c9395a8c23b39b76319c68842bb2c52c9cf690ed15e9ae794",
-          "size": 36112769
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.58/CloudAppRobot.exe",
+          "sha256": "882312b20db076c4a206ff70771bc4534723a54d9f3298c51282e3ad567cfabd",
+          "size": 36116294
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.57/CloudAppRobot-bundle.zip",
-          "sha256": "2635c2655bc997b50741495da703d50c4dcc6ba134a391391f2fe346be75557c",
-          "size": 204790555
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.58/CloudAppRobot-bundle.zip",
+          "sha256": "dfae8e48b896e56f9187405d555748c2cb76897f18533b656e0fb294691f0981",
+          "size": 204793036
         }
       }
     }
