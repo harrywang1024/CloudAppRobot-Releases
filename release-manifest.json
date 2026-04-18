@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.53",
-      "published_at": "2026-04-18T00:08:33Z",
-      "changelog": "Continue auto-update validation after the 1.4.52 baseline and publish the 1.4.53 package for the next end-to-end update test.",
+      "version": "1.4.55",
+      "published_at": "2026-04-18T15:56:48Z",
+      "changelog": "Stabilize PC robot auto-update helper delivery by packaging CloudAppUpdater.exe and CloudAppAgent.exe with dedicated runtime directories, excluding the resident agent baseline from the business bundle, and preserving helper assets during bundle replacement.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.53/CloudAppRobot.exe",
-          "sha256": "bf49331f7dcb0cd17e2c11ae8102c55b119b1014729f22c5fefd091041813c01",
-          "size": 36106403
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.55/CloudAppRobot.exe",
+          "sha256": "41a93a073f1dd81a5f999c5474e5981a98f11ba818182a112f43cc9728b242d0",
+          "size": 36112206
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.53/CloudAppRobot-bundle.zip",
-          "sha256": "759f3407f0bc35c804a8b1e4ca33de63b923dd415119c17f256fe29b5a5a5a50",
-          "size": 176982984
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.55/CloudAppRobot-bundle.zip",
+          "sha256": "6708bd1686e6ac352b1125632f353386780ec864b6662b7244a6ae227b85abc6",
+          "size": 204790123
         }
       }
     }
