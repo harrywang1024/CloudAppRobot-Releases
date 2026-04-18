@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.59",
-      "published_at": "2026-04-18T18:54:20Z",
-      "changelog": "Publish a pure follow-up auto-update validation build on top of the corrected resident-agent baseline, so 001 and 003 can verify zero-touch upgrades after the helper and business-resume split.",
+      "version": "1.4.60",
+      "published_at": "2026-04-18T19:26:58Z",
+      "changelog": "Harden PC WeChat conversation switching by waiting for post-click chat stabilization before declaring pc_switch_failed, while keeping the single-click safety model for order broadcast delivery.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.59/CloudAppRobot.exe",
-          "sha256": "3587682f6e104a1a3d316eb2f08e28c51361037cbee4a057ee85e27ecbabbe05",
-          "size": 36116294
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.60/CloudAppRobot.exe",
+          "sha256": "351395eca0b3508797364544a3700dff89ff99b004c8ed70b416f9ebdaa52aa8",
+          "size": 36117292
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.59/CloudAppRobot-bundle.zip",
-          "sha256": "8dcf38ff75a1de7dfbef70349ff8ed26246654290c5baabd3da1f87a1ec162e7",
-          "size": 204797133
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.60/CloudAppRobot-bundle.zip",
+          "sha256": "e31ed5913877ddb847f108e2d33e033c2141064648a26313cda961a434eb0acf",
+          "size": 204796494
         }
       }
     }
