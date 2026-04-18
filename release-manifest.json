@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.52",
-      "published_at": "2026-04-17T23:41:41Z",
-      "changelog": "Validate a second consecutive fully automatic update on top of the repaired 1.4.51 baseline for BOT-WECHAT-001 and BOT-WECHAT-003, keeping launcher handoff verification and no-live-agent retry recovery in place.",
+      "version": "1.4.53",
+      "published_at": "2026-04-18T00:08:33Z",
+      "changelog": "Continue auto-update validation after the 1.4.52 baseline and publish the 1.4.53 package for the next end-to-end update test.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.52/CloudAppRobot.exe",
-          "sha256": "14c42dc6fa0758f4f819737cbe2e83dcfe45d6045cfc441e94cf49490fa01199",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.53/CloudAppRobot.exe",
+          "sha256": "bf49331f7dcb0cd17e2c11ae8102c55b119b1014729f22c5fefd091041813c01",
           "size": 36106403
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.52/CloudAppRobot-bundle.zip",
-          "sha256": "ba95e53e1b4d8d5e96948388f9b5b6d871fd044afa82f96019b95b688cbe764c",
-          "size": 176983575
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.53/CloudAppRobot-bundle.zip",
+          "sha256": "759f3407f0bc35c804a8b1e4ca33de63b923dd415119c17f256fe29b5a5a5a50",
+          "size": 176982984
         }
       }
     }
