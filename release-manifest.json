@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.62",
-      "published_at": "2026-04-19T15:08:36Z",
-      "changelog": "Fix multi-product solitaire handling by defaulting bare-number replies to the first listed product, and make order broadcasts emit one line per product in header order.",
+      "version": "1.4.63",
+      "published_at": "2026-04-19T16:57:59Z",
+      "changelog": "Recover real product names in multi-product order broadcasts when cached stats fall back to variant labels such as 1公斤 or 1箱.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.62/CloudAppRobot.exe",
-          "sha256": "93ef6688816e786fdb889f48d692fac62f7a025198ba443ec55734ed8324eb89",
-          "size": 36180633
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.63/CloudAppRobot.exe",
+          "sha256": "0c14c4146b6e071478fb9fdee45bbcf969e6c4eae6ac0adda6dd51e94e2fe0b8",
+          "size": 36181501
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.62/CloudAppRobot-bundle.zip",
-          "sha256": "a02bd10f3a83fba3b80e2351b204e5c223ddb2ea4eb012419849ff19c724c9e0",
-          "size": 204860877
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.63/CloudAppRobot-bundle.zip",
+          "sha256": "476f4f8b08f39d4b94181ca0dabe2b080e154d13a3b5694a5e31c7a82d2e8d3e",
+          "size": 204859664
         }
       }
     }
