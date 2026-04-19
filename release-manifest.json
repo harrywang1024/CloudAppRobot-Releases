@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.63",
-      "published_at": "2026-04-19T16:57:59Z",
-      "changelog": "Recover real product names in multi-product order broadcasts when cached stats fall back to variant labels such as 1公斤 or 1箱.",
+      "version": "1.4.64",
+      "published_at": "2026-04-19T18:54:49Z",
+      "changelog": "Harden multi-product parsing by supporting inline product header/spec lines and normalizing top-level product_code so multi-product defaults and broadcasts stay aligned.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.63/CloudAppRobot.exe",
-          "sha256": "0c14c4146b6e071478fb9fdee45bbcf969e6c4eae6ac0adda6dd51e94e2fe0b8",
-          "size": 36181501
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.64/CloudAppRobot.exe",
+          "sha256": "5086711c4b74e4be515e433005d6361c268badb017fe8dae9492debdd592d7cb",
+          "size": 36185735
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.63/CloudAppRobot-bundle.zip",
-          "sha256": "476f4f8b08f39d4b94181ca0dabe2b080e154d13a3b5694a5e31c7a82d2e8d3e",
-          "size": 204859664
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.64/CloudAppRobot-bundle.zip",
+          "sha256": "2bd0fe18255f0d8362ecb9270d5a0cabba8f18b0c438fde981a4183db13f3ed0",
+          "size": 204866110
         }
       }
     }
