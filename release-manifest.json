@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.61",
-      "published_at": "2026-04-18T21:01:49Z",
-      "changelog": "Prevent the PC sender from reusing the wrong conversation when similar group names such as 东区/西区 or East/West are simultaneously visible on screen.",
+      "version": "1.4.62",
+      "published_at": "2026-04-19T15:08:36Z",
+      "changelog": "Fix multi-product solitaire handling by defaulting bare-number replies to the first listed product, and make order broadcasts emit one line per product in header order.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.61/CloudAppRobot.exe",
-          "sha256": "81fc6a183436ad3f8e5ba6f24beb261143439ef541fda3d64e4b156c3c034ada",
-          "size": 36117884
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.62/CloudAppRobot.exe",
+          "sha256": "93ef6688816e786fdb889f48d692fac62f7a025198ba443ec55734ed8324eb89",
+          "size": 36180633
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.61/CloudAppRobot-bundle.zip",
-          "sha256": "30824eb13f6980eab5144a877fd83101a5192518f598130c16931c438e79d698",
-          "size": 204798421
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.62/CloudAppRobot-bundle.zip",
+          "sha256": "a02bd10f3a83fba3b80e2351b204e5c223ddb2ea4eb012419849ff19c724c9e0",
+          "size": 204860877
         }
       }
     }
