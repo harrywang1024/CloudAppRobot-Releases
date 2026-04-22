@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.67",
-      "published_at": "2026-04-22T03:18:08Z",
-      "changelog": "Tighten runtime log governance defaults, ship the latest supplier-group order reporting workflow, and prepare the 1.4.67 stable PC robot release.",
+      "version": "1.4.68",
+      "published_at": "2026-04-22T12:31:39Z",
+      "changelog": "Ship anomaly-only runtime log uploads by default, add an ops-side info/debug upload toggle plus server diagnostics, and package the 1.4.68 stable PC robot release.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.67/CloudAppRobot.exe",
-          "sha256": "cfa0c2e8cb25e4c21af855e2b967da4a9feb60467096342c7ff37497343ce384",
-          "size": 36237526
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.68/CloudAppRobot.exe",
+          "sha256": "9cd9fb859c8ff4fdc1635130962792f0b4f51d4b7a834dc037acfd2251b09d6d",
+          "size": 36242776
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.67/CloudAppRobot-bundle.zip",
-          "sha256": "2c462f7bba84a63a81f70638631e0289d06c09d4f00a90d9f291ca81b4085afc",
-          "size": 204916417
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.68/CloudAppRobot-bundle.zip",
+          "sha256": "f480382969bd5c1a0d06997452a17ba25ed7ac550e3786d438c69eb5918eab82",
+          "size": 204924265
         }
       }
     }
