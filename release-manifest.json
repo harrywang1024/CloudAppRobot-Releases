@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.69",
-      "published_at": "2026-04-22T22:41:14Z",
-      "changelog": "Brand iMyna desktop node apps with new titles and icons.",
+      "version": "1.4.70",
+      "published_at": "2026-04-23T01:44:20Z",
+      "changelog": "Fix agent deferring business commands to runtime and keep supplier product broadcast on runtime sender path.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.69/CloudAppRobot.exe",
-          "sha256": "37d085c7370b229f1183380e6231c16789be34eaf789c15add4208f758ed797a",
-          "size": 36209052
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.70/CloudAppRobot.exe",
+          "sha256": "2b1c6ac4467b18ad52362eaeb494899c4dba6427440c01b7661bc0ed1a97ccb2",
+          "size": 36209137
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.69/CloudAppRobot-bundle.zip",
-          "sha256": "d44b3dc9717fafc09a1b3c7b9275b21d7c0e8e83c32a9490f2fee944610ad011",
-          "size": 205012954
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.70/CloudAppRobot-bundle.zip",
+          "sha256": "a1793b04481a3ace06630bf6cf2c1c9321660c4e2b508b77a00f23eca500b5d7",
+          "size": 205011841
         }
       }
     }
