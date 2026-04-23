@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.70",
-      "published_at": "2026-04-23T01:44:20Z",
-      "changelog": "Fix agent deferring business commands to runtime and keep supplier product broadcast on runtime sender path.",
+      "version": "1.4.71",
+      "published_at": "2026-04-23T03:23:05Z",
+      "changelog": "Keep ops command history focused on update commands and wake supplier broadcast tasks immediately from runtime heartbeat.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.70/CloudAppRobot.exe",
-          "sha256": "2b1c6ac4467b18ad52362eaeb494899c4dba6427440c01b7661bc0ed1a97ccb2",
-          "size": 36209137
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.71/CloudAppRobot.exe",
+          "sha256": "9e3fd3a4f16988c69a837ffa990556ded0db5d3c9d58bad59e1647104e31e439",
+          "size": 36209936
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.70/CloudAppRobot-bundle.zip",
-          "sha256": "a1793b04481a3ace06630bf6cf2c1c9321660c4e2b508b77a00f23eca500b5d7",
-          "size": 205011841
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.71/CloudAppRobot-bundle.zip",
+          "sha256": "0dda7da92807092f1388d90e13f8d693d5c3077d4988f2ed9ee3350a9c3c4fa9",
+          "size": 205010330
         }
       }
     }
