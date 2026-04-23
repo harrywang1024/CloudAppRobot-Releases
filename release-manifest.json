@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.76",
-      "published_at": "2026-04-23T18:42:03Z",
-      "changelog": "Fix post-update restart to relaunch full node stack (agent plus business) and include rebuilt supplier image fallback.",
+      "version": "1.4.77",
+      "published_at": "2026-04-23T21:08:35Z",
+      "changelog": "Fix runtime heartbeat NameError that kept nodes offline after startup, and harden agent PID validation during node start.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.76/CloudAppRobot.exe",
-          "sha256": "b915232c89f29e0fe3cf46c7623d402542f4c5aa7915acc9e986979f6de6fd99",
-          "size": 36231829
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.77/CloudAppRobot.exe",
+          "sha256": "cd1d824394b92e0a11b8e9da8de6c809498de086c91634b82877a838d010680a",
+          "size": 36231845
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.76/CloudAppRobot-bundle.zip",
-          "sha256": "5592d0a54a01304c28e71f7e558454ce408732f28265d21447fedb9aaf6e41f5",
-          "size": 205030103
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.77/CloudAppRobot-bundle.zip",
+          "sha256": "4d4181b61c8a23f0a24630734cc23786697c344dcc5416a4582777bbbf6cd4af",
+          "size": 205036359
         }
       }
     }
