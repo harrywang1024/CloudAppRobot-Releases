@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.71",
-      "published_at": "2026-04-23T03:23:05Z",
-      "changelog": "Keep ops command history focused on update commands and wake supplier broadcast tasks immediately from runtime heartbeat.",
+      "version": "1.4.72",
+      "published_at": "2026-04-23T04:14:16Z",
+      "changelog": "Use the active node instance id for updater result handoff and recover installed updates before marking failures.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.71/CloudAppRobot.exe",
-          "sha256": "9e3fd3a4f16988c69a837ffa990556ded0db5d3c9d58bad59e1647104e31e439",
-          "size": 36209936
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.72/CloudAppRobot.exe",
+          "sha256": "91db0124aac3b604187fddb518a1766ab8774462f2c7158bcfd24b23d9343686",
+          "size": 36210830
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.71/CloudAppRobot-bundle.zip",
-          "sha256": "0dda7da92807092f1388d90e13f8d693d5c3077d4988f2ed9ee3350a9c3c4fa9",
-          "size": 205010330
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.72/CloudAppRobot-bundle.zip",
+          "sha256": "2aba1d3a11b4850c1542577254f8d198482a391e224d2b55eb59a6551eb36dcb",
+          "size": 205013813
         }
       }
     }
