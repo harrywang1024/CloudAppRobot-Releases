@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.72",
-      "published_at": "2026-04-23T04:14:16Z",
-      "changelog": "Use the active node instance id for updater result handoff and recover installed updates before marking failures.",
+      "version": "1.4.73",
+      "published_at": "2026-04-23T12:53:28Z",
+      "changelog": "Support supplier private product image import and keep login title on one line.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.72/CloudAppRobot.exe",
-          "sha256": "91db0124aac3b604187fddb518a1766ab8774462f2c7158bcfd24b23d9343686",
-          "size": 36210830
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.73/CloudAppRobot.exe",
+          "sha256": "45fd0fe40f332b4aee7b7549c15b76703136eb1f6e923bf01c810c7a580b5dc4",
+          "size": 36225933
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.72/CloudAppRobot-bundle.zip",
-          "sha256": "2aba1d3a11b4850c1542577254f8d198482a391e224d2b55eb59a6551eb36dcb",
-          "size": 205013813
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.73/CloudAppRobot-bundle.zip",
+          "sha256": "f2df2ef758ea8bd1ac05ab3f91f67b302d7d48be27bbac065ec28037af9850c5",
+          "size": 205028376
         }
       }
     }
