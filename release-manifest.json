@@ -4,7 +4,7 @@
     "stable": {
       "version": "1.4.85",
       "published_at": "2026-04-24T21:10:44Z",
-      "changelog": "Normalize solitaire pack-unit quantities like 6盒 and 3盒 against the configured sale variant so group-buy order counts and amounts are calculated correctly",
+      "changelog": "Normalize solitaire pack-unit quantities against the configured sale variant so group-buy order counts and amounts are calculated correctly",
       "assets": {
         "exe": {
           "kind": "exe",
