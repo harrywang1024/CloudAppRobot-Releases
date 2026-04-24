@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.82",
-      "published_at": "2026-04-24T02:36:05Z",
-      "changelog": "Exclude already-associated image content during private image resolution to avoid linking stale cached images",
+      "version": "1.4.83",
+      "published_at": "2026-04-24T03:08:35Z",
+      "changelog": "Disable WeChat private-chat image auto import and guide merchants to upload product images manually in the backend",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.82/CloudAppRobot.exe",
-          "sha256": "c18ec2b401a659a6176b5cd5369f419356c8f2a00d9035a4c11f62526c3bfa54",
-          "size": 36245410
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.83/CloudAppRobot.exe",
+          "sha256": "6db9d1c3b8de44be7d20801c55fea1a565a4fa96178751313039c36cb52ce9cb",
+          "size": 36249311
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.82/CloudAppRobot-bundle.zip",
-          "sha256": "f06bf1a835accb3d3866df7486e6691b014ef9b78cda4bf483ddccb1bb25e676",
-          "size": 205049452
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.83/CloudAppRobot-bundle.zip",
+          "sha256": "332aac73da3723be793a86476f30324020a721154af596118f821cb58ff3cbb3",
+          "size": 205054016
         }
       }
     }
