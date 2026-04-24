@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.77",
-      "published_at": "2026-04-23T21:08:35Z",
-      "changelog": "Fix runtime heartbeat NameError that kept nodes offline after startup, and harden agent PID validation during node start.",
+      "version": "1.4.80",
+      "published_at": "2026-04-24T01:16:59Z",
+      "changelog": "Automatic WeChat image key refresh via local file algorithm for image import",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.77/CloudAppRobot.exe",
-          "sha256": "cd1d824394b92e0a11b8e9da8de6c809498de086c91634b82877a838d010680a",
-          "size": 36231845
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.80/CloudAppRobot.exe",
+          "sha256": "4c6a1b54c50569a716471797ffd0c2f06e4c3685aabc0e9d19033f0031b8e301",
+          "size": 36244640
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.77/CloudAppRobot-bundle.zip",
-          "sha256": "4d4181b61c8a23f0a24630734cc23786697c344dcc5416a4582777bbbf6cd4af",
-          "size": 205036359
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.80/CloudAppRobot-bundle.zip",
+          "sha256": "1fcc1b2f474c7195a0278936c6613bac07c409a8a1ec3536ce929fb5fd103382",
+          "size": 205050572
         }
       }
     }
