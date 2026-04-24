@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.85",
-      "published_at": "2026-04-24T21:10:44Z",
-      "changelog": "Normalize solitaire pack-unit quantities against the configured sale variant so group-buy order counts and amounts are calculated correctly",
+      "version": "1.4.86",
+      "published_at": "2026-04-24T22:16:30Z",
+      "changelog": "规格标准化导入：将 6盒/3盒 等可计数包装规格统一为 份；接龙继续兼容 6盒/3盒/一份(6盒)/半份(3盒) 自动换算。",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.85/CloudAppRobot.exe",
-          "sha256": "92e559b952f73c060eb30083af9c84c4436cb633ab30301e081cf53fb8c81159",
-          "size": 36251732
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.86/CloudAppRobot.exe",
+          "sha256": "a64dc9c752579b5f09a52c44de8ae5d308a207b0243e6bb8c7e72e75a86aad64",
+          "size": 36252844
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.85/CloudAppRobot-bundle.zip",
-          "sha256": "4da3005d9f48ad4df19ca9616070fef4217cbc73187112322d7d7601859cb365",
-          "size": 205051528
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.86/CloudAppRobot-bundle.zip",
+          "sha256": "1084a08f8c58e7739fa9a4ed71479a4a7ed767a9300f91534eccc82661efbd00",
+          "size": 205058973
         }
       }
     }
