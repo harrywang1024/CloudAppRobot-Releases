@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.87",
-      "published_at": "2026-04-25T02:27:10Z",
-      "changelog": "Disable legacy leader private order broadcasts and skip stale replay after restart.",
+      "version": "1.4.88",
+      "published_at": "2026-04-27T03:49:46Z",
+      "changelog": "Add sender queue clear controls, harden supplier report floor parsing, and improve LLM order parsing for buyer names with embedded digits.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.87/CloudAppRobot.exe",
-          "sha256": "e09a4af6127ea9f045ea238eef55103d75112c9dc768a757184805a2302f0969",
-          "size": 36253976
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.88/CloudAppRobot.exe",
+          "sha256": "88a3e9c6aee669468290848c7d275ba78a257a10428dc3a6d1358018a0468548",
+          "size": 36268298
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.87/CloudAppRobot-bundle.zip",
-          "sha256": "0e95de1158395c9634e67fa6f373a79c7d80df965dcc031093de07db06455f1b",
-          "size": 162921187
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.88/CloudAppRobot-bundle.zip",
+          "sha256": "b2d583528b8fc55a93d764d1be75ad29026912fe3fb8c7fae31b21c06c7f43f4",
+          "size": 169324801
         }
       }
     }
