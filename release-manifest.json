@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.106",
-      "published_at": "2026-05-01T20:20:38Z",
-      "changelog": "Add best-effort quoted private success receipt after manual WeChat Moments publish completes; carry the original enqueue reply context through the robot queue and fall back to plain success if quote is unavailable.",
+      "version": "1.4.107",
+      "published_at": "2026-05-01T20:41:35Z",
+      "changelog": "Carry WeChat Moments completion receipt context in the backend command payload and make the robot prefer that payload when sending the private success reply after publish.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.106/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.107/CloudAppRobot.exe",
           "sha256": "3d4d229e613355e99d16c37123d9888b199bb6207bbf7b863c8fc9806ca2ad8c",
           "size": 37317233
         },
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.106/CloudAppRobot-bundle.zip",
-          "sha256": "2c216b1f2424f8914bb32f7d23ba1a335339d9d84bc5194c29a61064bb9ece9f",
-          "size": 206881237
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.107/CloudAppRobot-bundle.zip",
+          "sha256": "a3cfb231d65cccc6a87cea538e66f10e74c124d519aaf240753d2470012cc719",
+          "size": 206881239
         }
       }
     }
