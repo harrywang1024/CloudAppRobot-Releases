@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.89",
-      "published_at": "2026-04-27T16:29:49Z",
-      "changelog": "Fix stale broadcast queue duplicates that could leave sender busy and block supplier order broadcasts; keep sender queue recovery and clear controls in place.",
+      "version": "1.4.90",
+      "published_at": "2026-05-01T00:41:19Z",
+      "changelog": "Add supplier WeChat outbound confirmation with PDF delivery; split weighted order weighing and outbound status; improve PC WeChat sender/runtime packaging.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.89/CloudAppRobot.exe",
-          "sha256": "4ef52f487420e57ed064f9d4e3dfa6d78e897bfed0830d1ba192ae5089477254",
-          "size": 36268768
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.90/CloudAppRobot.exe",
+          "sha256": "fba25a182bf11c0128ddbed0b9bc87f20ff7905a52c34b33719bc98a22dae536",
+          "size": 37292188
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.89/CloudAppRobot-bundle.zip",
-          "sha256": "b2c87b9809b1c78bdada80286287e300758d3dc969e3ca0c5f8a8616bf0aefb0",
-          "size": 205063302
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.90/CloudAppRobot-bundle.zip",
+          "sha256": "ae94c084537d0feeb47085aa57fdfe55b732fd3d50f5f4ac7cf01488a15cfc9b",
+          "size": 206855924
         }
       }
     }
