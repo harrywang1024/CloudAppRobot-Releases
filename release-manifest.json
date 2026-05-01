@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.100",
-      "published_at": "2026-05-01T15:23:51Z",
-      "changelog": "Fix WeChat cold recovery login entry with UIA/OCR/geometry fallback; prevent stale ended solitaire notices from being resent after recovery; clarify control-tree status when sender is already ready.",
+      "version": "1.4.101",
+      "published_at": "2026-05-01T16:12:20Z",
+      "changelog": "Make WeChat cold recovery wait for the real UIA main window before probing the control tree, retry after delayed login, stop Narrator more aggressively, and clear stale UIA snapshots once sender is ready.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.100/CloudAppRobot.exe",
-          "sha256": "4bc5c21e37d9da637b8f6e5f2ee1c6acb9b0bedb4deb05dd21e34a6f5a3dac59",
-          "size": 37314814
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.101/CloudAppRobot.exe",
+          "sha256": "174b2240445762d9f6d479386e0190121669f2b4f00b59ef14e1f5d28d110f71",
+          "size": 37315672
         },
         "py": {
           "download_url": "",
@@ -19,15 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.100/CloudAppRobot-bundle.zip",
-          "sha256": "453b7d87df7f62cb8ca415c0039b81af6d45861dc46dc2d4aead4ef27201b85c",
-          "size": 206879044
-        },
-        "ops_console": {
-          "kind": "ops_console_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.100/WeCloudappOpsConsole-1.4.100-control-tree-recovery.zip",
-          "sha256": "efb58b2ce4159b65bfee7e08a31c26977a09bfda77ff7178f92b02d360faa8a3",
-          "size": 21564684
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.101/CloudAppRobot-bundle.zip",
+          "sha256": "35f6f91580fd44270d4b8015c63e79cf5d7596f01e50f420781df1945ded51fc",
+          "size": 206880671
         }
       }
     }
