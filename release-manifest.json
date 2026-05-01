@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.91",
-      "published_at": "2026-05-01T03:07:09Z",
-      "changelog": "Fix WeChat UIA cold recovery: avoid duplicate in-progress failure and actively open chats before probing session controls.",
+      "version": "1.4.92",
+      "published_at": "2026-05-01T03:30:46Z",
+      "changelog": "Improve WeChat UIA cold recovery observability with live stage updates and diagnostic UIA snapshots.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.91/CloudAppRobot.exe",
-          "sha256": "f9d207472c30f564c9b02f5dea5330a0fb082f388a6223e998262ef4d4c854a1",
-          "size": 37292481
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.92/CloudAppRobot.exe",
+          "sha256": "9e0de5f0af8a2f2b002361fd188ec15930cd35f8ca9c9f45a9be1c16fb12fbea",
+          "size": 37294947
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.91/CloudAppRobot-bundle.zip",
-          "sha256": "1b02dbd7eee0421f7bd04404426af93a08ddd1b4b2cc25b0056c1d3f35e5c4df",
-          "size": 206855836
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.92/CloudAppRobot-bundle.zip",
+          "sha256": "ba03c9cf8fcbe463a1cd8979aec7c890992bd2a478ce31bd0c5eeba8c9a0355d",
+          "size": 206856524
         }
       }
     }
