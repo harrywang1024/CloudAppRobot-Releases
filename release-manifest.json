@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.103",
-      "published_at": "2026-05-01T16:51:39Z",
-      "changelog": "Stop supplier merchant-import media export tasks after bounded retries so missing WeChat media grid cells do not cause endless conversation switching; keep stale agent restart recovery from 1.4.102.",
+      "version": "1.4.104",
+      "published_at": "2026-05-01T17:21:21Z",
+      "changelog": "Fix WeChat Moments publishing when the Moments window is blocked or not matched by pyweixin's strict SNSWindow title lookup: minimize local status panels before publishing, open Moments through the sidebar, and attach with tolerant UIA discovery. Also stop the local status panel from covering WeChat media popups.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.103/CloudAppRobot.exe",
-          "sha256": "01db695e08e3690c2113a01ec6ed8bcde01e97273a7d6a1e1973e12242f2aaca",
-          "size": 37316187
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.104/CloudAppRobot.exe",
+          "sha256": "26297b7d2d73f78ca27db4218430e65538728740b7204937ca0e95b53a8beefa",
+          "size": 37317043
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.103/CloudAppRobot-bundle.zip",
-          "sha256": "ef7ffd4b0a1c3cfa70a1ac4606b7bed1cf5bb8e216c1c89f1b0a7f68a269e84c",
-          "size": 206879373
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.104/CloudAppRobot-bundle.zip",
+          "sha256": "4f921cea335ee194749a15e5ca8768a59d9f0938128cd1badbe4ee5d85b115c8",
+          "size": 206883494
         }
       }
     }
