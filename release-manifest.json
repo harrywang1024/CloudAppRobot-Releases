@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.99",
-      "published_at": "2026-05-01T12:11:12Z",
-      "changelog": "Show manual cold-start assistance when WeChat UIA recovery cannot complete automatically.",
+      "version": "1.4.100",
+      "published_at": "2026-05-01T15:23:51Z",
+      "changelog": "Fix WeChat cold recovery login entry with UIA/OCR/geometry fallback; prevent stale ended solitaire notices from being resent after recovery; clarify control-tree status when sender is already ready.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.99/CloudAppRobot.exe",
-          "sha256": "951ab1a1ee0ad6aa5ffd558fe9aa464eef23e42c5bf385cca37dce31a44d4b4b",
-          "size": 37302007
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.100/CloudAppRobot.exe",
+          "sha256": "4bc5c21e37d9da637b8f6e5f2ee1c6acb9b0bedb4deb05dd21e34a6f5a3dac59",
+          "size": 37314814
         },
         "py": {
           "download_url": "",
@@ -19,15 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.99/CloudAppRobot-bundle.zip",
-          "sha256": "836dbb54471b951fb3cb9dbb01ff46e039738a478198b9260afcaefb32bad35e",
-          "size": 206866444
-        },
-        "ops_console": {
-          "kind": "ops_console_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.99/WeCloudappOpsConsole-1.4.99.zip",
-          "sha256": "ece0462e213fcc6225ddac3a02364e2ee11d7848ce638e197390e6489384f42e",
-          "size": 21560870
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.100/CloudAppRobot-bundle.zip",
+          "sha256": "453b7d87df7f62cb8ca415c0039b81af6d45861dc46dc2d4aead4ef27201b85c",
+          "size": 206879044
         }
       }
     }
