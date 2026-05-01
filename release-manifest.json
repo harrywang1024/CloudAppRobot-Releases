@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.102",
-      "published_at": "2026-05-01T16:39:20Z",
-      "changelog": "Force restart stale resident agent during remote update handoff so dispatched update commands start promptly instead of waiting for stale agent status recovery.",
+      "version": "1.4.103",
+      "published_at": "2026-05-01T16:51:39Z",
+      "changelog": "Stop supplier merchant-import media export tasks after bounded retries so missing WeChat media grid cells do not cause endless conversation switching; keep stale agent restart recovery from 1.4.102.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.102/CloudAppRobot.exe",
-          "sha256": "50a30b470db3bd7fc9bb9d07c479b8cdead998668a2aec87d2c6697cb6a0b49e",
-          "size": 37315950
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.103/CloudAppRobot.exe",
+          "sha256": "01db695e08e3690c2113a01ec6ed8bcde01e97273a7d6a1e1973e12242f2aaca",
+          "size": 37316187
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.102/CloudAppRobot-bundle.zip",
-          "sha256": "0498c654a47a8ff82beef7df5fc5dd814c9c95cc90ca9f8f34c99801b31c0368",
-          "size": 206876626
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.103/CloudAppRobot-bundle.zip",
+          "sha256": "ef7ffd4b0a1c3cfa70a1ac4606b7bed1cf5bb8e216c1c89f1b0a7f68a269e84c",
+          "size": 206879373
         }
       }
     }
