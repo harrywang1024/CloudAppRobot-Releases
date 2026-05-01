@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.93",
-      "published_at": "2026-05-01T03:49:31Z",
-      "changelog": "Force Narrator bootstrap after WeChat cold start before probing UIA controls.",
+      "version": "1.4.94",
+      "published_at": "2026-05-01T04:06:47Z",
+      "changelog": "Use Win+Ctrl+Enter fallback when Narrator process launch requires elevation during UIA bootstrap.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.93/CloudAppRobot.exe",
-          "sha256": "08d1c924043ba2d3d449de0df19b945e9a1092d8569c7ed667d527b835501ce5",
-          "size": 37295115
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.94/CloudAppRobot.exe",
+          "sha256": "90bd440cf403e8e268b4ce581afeb1aa3c90eca24c72cdf04a525db8b8ec097e",
+          "size": 37295331
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.93/CloudAppRobot-bundle.zip",
-          "sha256": "aebe90d9850c8011c8bac40d051cac94b0718c0a74e376a5e4109d75dc33d611",
-          "size": 206860109
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.94/CloudAppRobot-bundle.zip",
+          "sha256": "2f4f7515124390d6bd4785fb82b6c3d6a9a4a7b96911e411358071dcc245283d",
+          "size": 206856952
         }
       }
     }
