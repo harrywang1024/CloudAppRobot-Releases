@@ -22,6 +22,12 @@
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.99/CloudAppRobot-bundle.zip",
           "sha256": "836dbb54471b951fb3cb9dbb01ff46e039738a478198b9260afcaefb32bad35e",
           "size": 206866444
+        },
+        "ops_console": {
+          "kind": "ops_console_zip",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.99/WeCloudappOpsConsole-1.4.99.zip",
+          "sha256": "ece0462e213fcc6225ddac3a02364e2ee11d7848ce638e197390e6489384f42e",
+          "size": 21560870
         }
       }
     }
