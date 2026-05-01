@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.109",
-      "published_at": "2026-05-01T20:59:17Z",
-      "changelog": "Add robot-side fallback for manual WeChat Moments success receipts: when backend completion context is absent, quote the original private command text such as 朋友圈@P0000048 and send 成功.",
+      "version": "1.4.110",
+      "published_at": "2026-05-01T21:36:06Z",
+      "changelog": "Add Moments timing diagnostics, shorten publish UI delay, and report Moments success receipt fallback status.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.109/CloudAppRobot.exe",
-          "sha256": "3d4d229e613355e99d16c37123d9888b199bb6207bbf7b863c8fc9806ca2ad8c",
-          "size": 37317233
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.110/CloudAppRobot.exe",
+          "sha256": "2ab77d31a37325916452b5d7994670816ed3f1c2451f379ef93c132dc10f67cc",
+          "size": 37324182
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.109/CloudAppRobot-bundle.zip",
-          "sha256": "ffa196ea094b12367518362ae9d7b8163778a5cc6c9b6611376fd28e5edfb41b",
-          "size": 206881239
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.110/CloudAppRobot-bundle.zip",
+          "sha256": "b3588cf7490c83e39a149c8664224515a8579d69785efe41ff0e6f1f37fd9344",
+          "size": 206887986
         }
       }
     }
