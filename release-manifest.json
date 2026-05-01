@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.96",
-      "published_at": "2026-05-01T04:50:25Z",
-      "changelog": "Retry WeChat launch via Windows shell when the first cold-recovery launch does not create a visible main window.",
+      "version": "1.4.97",
+      "published_at": "2026-05-01T05:09:51Z",
+      "changelog": "Add stronger Windows desktop WeChat launch fallbacks and diagnostics for UIA cold recovery.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.96/CloudAppRobot.exe",
-          "sha256": "21629e925d46644b4f9355ed81cd25d46b4c97210c4ca9f77d619a2564443e64",
-          "size": 37296663
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.97/CloudAppRobot.exe",
+          "sha256": "28a8fb90656af61c0e1fbdb0c23590f56e66d484740a2a7c49fafc1e9de01e01",
+          "size": 37298144
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.96/CloudAppRobot-bundle.zip",
-          "sha256": "f272dd5e13ef7173ecd821cee866e81335a53766563b0bd045ded3922bafe810",
-          "size": 206863914
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.97/CloudAppRobot-bundle.zip",
+          "sha256": "c27d9b15039b0db22e0075625e58bd50fe1a44f82a4fed38b4ce9ec20d0d72c3",
+          "size": 206860469
         }
       }
     }
