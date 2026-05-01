@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.90",
-      "published_at": "2026-05-01T00:41:19Z",
-      "changelog": "Add supplier WeChat outbound confirmation with PDF delivery; split weighted order weighing and outbound status; improve PC WeChat sender/runtime packaging.",
+      "version": "1.4.91",
+      "published_at": "2026-05-01T03:07:09Z",
+      "changelog": "Fix WeChat UIA cold recovery: avoid duplicate in-progress failure and actively open chats before probing session controls.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.90/CloudAppRobot.exe",
-          "sha256": "fba25a182bf11c0128ddbed0b9bc87f20ff7905a52c34b33719bc98a22dae536",
-          "size": 37292188
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.91/CloudAppRobot.exe",
+          "sha256": "f9d207472c30f564c9b02f5dea5330a0fb082f388a6223e998262ef4d4c854a1",
+          "size": 37292481
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.90/CloudAppRobot-bundle.zip",
-          "sha256": "ae94c084537d0feeb47085aa57fdfe55b732fd3d50f5f4ac7cf01488a15cfc9b",
-          "size": 206855924
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.91/CloudAppRobot-bundle.zip",
+          "sha256": "1b02dbd7eee0421f7bd04404426af93a08ddd1b4b2cc25b0056c1d3f35e5c4df",
+          "size": 206855836
         }
       }
     }
