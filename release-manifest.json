@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.120",
-      "published_at": "2026-05-02T19:42:18Z",
-      "changelog": "修复供应商群订单播报：同一商品在同一团长多个活跃团购中接龙时，按本机所有有订单的活跃团购合并后报单，避免后一个团购用局部数量覆盖产品报单锚点",
+      "version": "1.4.121",
+      "published_at": "2026-05-02T22:11:31Z",
+      "changelog": "同步多产品团购广播编号，并支持团购商品候补锁仓供货",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.120/CloudAppRobot.exe",
-          "sha256": "027322bfac018deefc05f814632afc0782aa35f38b1589a7f747e3b70378f53e",
-          "size": 37344488
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.121/CloudAppRobot.exe",
+          "sha256": "fc8162ad91efb4a56700ddc315c63167830136bc7b52c0326197b218b67b38b5",
+          "size": 37345290
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.120/CloudAppRobot-bundle.zip",
-          "sha256": "af92c7d3a50ec1387fdf6d514384945ddbefccfa10f39c7de38d08b793246275",
-          "size": 206910794
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.121/CloudAppRobot-bundle.zip",
+          "sha256": "60cf11bad8d9065a7ecb505bb62d70b3ebcd868a300396160386b2e8a7d69df5",
+          "size": 206908326
         }
       }
     }
