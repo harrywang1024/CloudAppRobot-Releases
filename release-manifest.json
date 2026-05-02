@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.118",
-      "published_at": "2026-05-02T19:02:03Z",
-      "changelog": "修复订单播报过期判断改为后端有效期校验，并统一刷新多群同品预占库存",
+      "version": "1.4.119",
+      "published_at": "2026-05-02T19:23:14Z",
+      "changelog": "修复多群同品库存同步：只对本次变化团购允许空预占释放，额外刷新团购必须有本地订单，避免空会话清掉历史预占",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.118/CloudAppRobot.exe",
-          "sha256": "72e6bd23dfffd0fff9f4afa994bc839ca46aa14541bc4bc1bc79de349523a985",
-          "size": 37341467
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.119/CloudAppRobot.exe",
+          "sha256": "7fd21bcb364239442114385dc3ac0a0ba5d94d6e68f5f6b2f4e3813302824f22",
+          "size": 37341675
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.118/CloudAppRobot-bundle.zip",
-          "sha256": "2f5347c66d8910ccd6d8a79d64f918c80e759afee44cc66408f891ba4aef258a",
-          "size": 206906215
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.119/CloudAppRobot-bundle.zip",
+          "sha256": "d7e66bc8815a72e2f88aa142582014cbec205726029486aacd37687e1477f297",
+          "size": 206903826
         }
       }
     }
