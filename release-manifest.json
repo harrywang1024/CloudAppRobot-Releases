@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.113",
-      "published_at": "2026-05-02T01:46:25Z",
-      "changelog": "修复团购群裸半份解析优先匹配半份规格；供应商群报单必须基于最新接龙文案并保留楼层",
+      "version": "1.4.114",
+      "published_at": "2026-05-02T02:07:34Z",
+      "changelog": "修复团购销售规格未参与机器人订单映射，裸半份正确落到半份销售规格",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.113/CloudAppRobot.exe",
-          "sha256": "5c4d7a7e73ff69109888af92d1aa3038da7ec16fd99f46b9acce11a37e9fdec7",
-          "size": 37332984
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.114/CloudAppRobot.exe",
+          "sha256": "17ce5cb862c0ec5d2b9369b8be16caa9922601d6e33e7b011650f2d56d45ca83",
+          "size": 37334354
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.113/CloudAppRobot-bundle.zip",
-          "sha256": "2368588586c37d33e5cc0c666a6053139d9903065737c98f3a559c48e0fd9044",
-          "size": 206896684
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.114/CloudAppRobot-bundle.zip",
+          "sha256": "74b04d22e4f2e0ebfcac3a6effd3b83e1d2df942aea28fd528da2f79e91c0d48",
+          "size": 206895611
         }
       }
     }
