@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.110",
-      "published_at": "2026-05-01T21:36:06Z",
-      "changelog": "Add Moments timing diagnostics, shorten publish UI delay, and report Moments success receipt fallback status.",
+      "version": "1.4.111",
+      "published_at": "2026-05-01T23:57:59Z",
+      "changelog": "Add unified command wakeup delivery and randomized sender dispatch jitter for robot WeChat tasks.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.110/CloudAppRobot.exe",
-          "sha256": "2ab77d31a37325916452b5d7994670816ed3f1c2451f379ef93c132dc10f67cc",
-          "size": 37324182
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.111/CloudAppRobot.exe",
+          "sha256": "e6cd3a9bc640659baf10433794ab17ac0cffc86fdbed1f8d5d37c992d1f2220d",
+          "size": 37327160
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.110/CloudAppRobot-bundle.zip",
-          "sha256": "b3588cf7490c83e39a149c8664224515a8579d69785efe41ff0e6f1f37fd9344",
-          "size": 206887986
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.111/CloudAppRobot-bundle.zip",
+          "sha256": "62b32fdf546ab04635e50bf2ba7bae0367295efc0fad71d90183facf160b6f79",
+          "size": 206888144
         }
       }
     }
