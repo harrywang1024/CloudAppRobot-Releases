@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.115",
-      "published_at": "2026-05-02T02:17:08Z",
-      "changelog": "修复机器人订单解析合并团购销售规格，裸半份落到半份销售规格，并过滤接龙指令行补漏",
+      "version": "1.4.116",
+      "published_at": "2026-05-02T03:17:58Z",
+      "changelog": "修复接龙半份改单解析、订单播报去重签名和供应商报单锚点，确保 Qu 半 按半份销售规格预占并触发播报",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.115/CloudAppRobot.exe",
-          "sha256": "379816f76ff16b2a2af96ee3f27b74ee8d81c94473150bfa768b9f3a2518b39b",
-          "size": 37334444
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.116/CloudAppRobot.exe",
+          "sha256": "c7d08bdcfe7f0b72aa556ba91ed0dda2df33f35489dccdc4d77f90c6edff64cb",
+          "size": 37337149
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.115/CloudAppRobot-bundle.zip",
-          "sha256": "4c86bb5e46abdec9030ee03a8dbf181c3e74f663dd1dfd2f7750262e4d6600fa",
-          "size": 206901355
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.116/CloudAppRobot-bundle.zip",
+          "sha256": "186d20888c534aec3803995a9ef181a7624fc5b26f975ec4fc9ae0d290b3e713",
+          "size": 206897653
         }
       }
     }
