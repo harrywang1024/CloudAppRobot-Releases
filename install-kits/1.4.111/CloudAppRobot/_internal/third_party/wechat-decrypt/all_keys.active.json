@@ -1,0 +1,113 @@
+{
+  "bizchat\\bizchat.db": {
+    "enc_key": "495598b49db727f09a160ca0ab928e2eaef3bdcefd29445138fade832112b2d3",
+    "salt": "19a6730210c7ffba2c59b0b9ac9834f5",
+    "size_mb": 0.0
+  },
+  "contact\\contact.db": {
+    "enc_key": "58b8c3a014b1958b87fa872b2db36805ecbd816980cb88e45d6a50ac915d5353",
+    "salt": "536f319afdb7435420d5ab8e1550331a",
+    "size_mb": 10.9
+  },
+  "contact\\contact_fts.db": {
+    "enc_key": "7e5dce36926303f99b50ce9d405d3ee31727a3135280c3fed1a41f40599e1bbb",
+    "salt": "51e2fed786bf2cdd6b4fb7b3292bb321",
+    "size_mb": 6.5
+  },
+  "emoticon\\emoticon.db": {
+    "enc_key": "c454950eef1a9605c1b1be2c8beed7c3b88ace61d11270966ce75b4c3ef0caaf",
+    "salt": "0df948d30d5bc9435b591a52148fed59",
+    "size_mb": 0.3
+  },
+  "favorite\\favorite.db": {
+    "enc_key": "0c5198261a65db6c8b833caaa0d664054f324149f2c27836800f5c4beb18e2ef",
+    "salt": "c5dda4c8f8f557306ec92f880764defd",
+    "size_mb": 0.5
+  },
+  "favorite\\favorite_fts.db": {
+    "enc_key": "0dd12e035da08f3fc8f949ecc7eadc5131ab737682f341090b34890d5bfb9eab",
+    "salt": "46a32ec86d2403a58e8893b20dd64d3e",
+    "size_mb": 0.1
+  },
+  "general\\general.db": {
+    "enc_key": "54bbf3f46fbfb00e383fe04ff8e9305bd086756171a45ba563f157f1063b298c",
+    "salt": "75dbba3342e27d322a9a563716bcd987",
+    "size_mb": 1.2
+  },
+  "hardlink\\hardlink.db": {
+    "enc_key": "c6c9e1f321b094a5c2758388ec442359a1469faea6fe23190cf9a0c2bd29bc28",
+    "salt": "0445c73cb617a04cd594f4f57717370f",
+    "size_mb": 5.4
+  },
+  "head_image\\head_image.db": {
+    "enc_key": "da20c3fb0c723855c9741aeb6a72ac689afc5a12eec575a407d61fab98435a88",
+    "salt": "18d596f3f8aaad3267a619dbe2028374",
+    "size_mb": 15.0
+  },
+  "message\\biz_message_0.db": {
+    "enc_key": "d44cf40bb1214ceb03e7c73566d70100a1761c26dcbaa08d9b1b09e7863deaee",
+    "salt": "8bf9effa1090ed42d495c245172c4dd4",
+    "size_mb": 23.0
+  },
+  "message\\biz_message_1.db": {
+    "enc_key": "f735d562766f7275e0ee7722c19aae07cdd77cf67db632d553331d629660d21b",
+    "salt": "5e8f2b9d2000ef758d11887e28219290",
+    "size_mb": 0.1
+  },
+  "message\\biz_message_2.db": {
+    "enc_key": "3df11971403affff6d0833f1a34aea365c362d4a5a98ae82dc92dbe6a3aad77f",
+    "salt": "4f115d2fb714931b76a3f2e1e08165b7",
+    "size_mb": 0.1
+  },
+  "message\\media_0.db": {
+    "enc_key": "c562ecfb7d0f0e6d0fd0c513a2fa65a713b0e3065fdf4133d447457ad2556229",
+    "salt": "c50ef0d75944a299d8080e1c4003967c",
+    "size_mb": 86.4
+  },
+  "message\\message_0.db": {
+    "enc_key": "8b174bcd393f123982b36c316bff2180ee2a5cb4b56ff4ecb767a4a2f5d231ef",
+    "salt": "7b932c6fad2e6361d793adb7a65568cb",
+    "size_mb": 84.5
+  },
+  "message\\message_1.db": {
+    "enc_key": "c03521c95803749d407daf427e23b1dc89b180fae8f0f3c58a70cd0406cb1add",
+    "salt": "a7d817dad41af185b05f2e49ee8e0704",
+    "size_mb": 157.4
+  },
+  "message\\message_2.db": {
+    "enc_key": "be39a437d9d3dcbf083d8c553d2723f5334b3c54dba51bfa038f0e77f8c78269",
+    "salt": "acd3c066fae94dcd288d1e0ae67c3634",
+    "size_mb": 112.7
+  },
+  "message\\message_3.db": {
+    "enc_key": "f96f4192fb68ef8b60d515d6277230342ccf2615808ec9400c4f1eb7bd59e559",
+    "salt": "fff391df97b0325553bee4f975120420",
+    "size_mb": 12.6
+  },
+  "message\\message_fts.db": {
+    "enc_key": "dd1201aa6d3e2e8f05451fd8ba008c568c6fe55ae3c4b84d8a6d94789e771766",
+    "salt": "039e40fb5120d37eec9da38978dbb1c9",
+    "size_mb": 135.8
+  },
+  "message\\message_resource.db": {
+    "enc_key": "e25b8902d72f312bdd7eb3460ac769d16d0a26de53782a144876e94d34bc33f8",
+    "salt": "a6e39dea0d88335297e66fa462a9e2e5",
+    "size_mb": 36.8
+  },
+  "session\\session.db": {
+    "enc_key": "a41ec7de6b936badd454f05f298d1e012901a461414f5b521fcf75ae91344fb5",
+    "salt": "6a31249bb88deeac3c70942fd9bc5dce",
+    "size_mb": 0.5
+  },
+  "sns\\sns.db": {
+    "enc_key": "6a928fc6df143dbba2c3296656bbdb0129b843ba07add69a325a659532e38dd1",
+    "salt": "46fdb6c64b2eaa5eccbba03903c619b3",
+    "size_mb": 3.3
+  },
+  "solitaire\\solitaire.db": {
+    "enc_key": "8ace2b29d85d7aca3263a2697de0f755aac2dfbc11f496e4f12829438e208043",
+    "salt": "274691c2215557241479eab9b5545280",
+    "size_mb": 0.9
+  },
+  "_db_dir": "C:\\Users\\Administrator\\xwechat_files\\aihua_wang_fa61\\db_storage"
+}

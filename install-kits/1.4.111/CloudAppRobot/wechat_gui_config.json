@@ -1,0 +1,52 @@
+{
+  "msg_area_start": [
+    1689,
+    105
+  ],
+  "msg_area_end": [
+    2530,
+    1273
+  ],
+  "input_box": [
+    2281,
+    1248
+  ],
+  "send_btn": [
+    2514,
+    1370
+  ],
+  "msg_area": [
+    2109,
+    689
+  ],
+  "window": {
+    "top_left": [
+      1287,
+      0
+    ],
+    "bottom_right": [
+      2553,
+      1393
+    ],
+    "msg_area_rect": [
+      402,
+      105,
+      1243,
+      1273
+    ],
+    "input_rect": [
+      582,
+      1086,
+      1247,
+      1386
+    ]
+  },
+  "_calibration": {
+    "method": "auto_locate_on_start",
+    "timestamp": "2026-04-21 15:57:27",
+    "dpi_aware": true,
+    "panel_detect_v4": true,
+    "send_area_confirmed": true,
+    "screen_resolution": "2560x1440"
+  }
+}
