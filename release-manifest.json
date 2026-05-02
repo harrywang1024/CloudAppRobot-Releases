@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.117",
-      "published_at": "2026-05-02T03:52:07Z",
-      "changelog": "调整拼单解析逻辑：普通拼单按最小标准规格的一半，拼半按半规格的一半，并保留半份改单和订单播报修复",
+      "version": "1.4.118",
+      "published_at": "2026-05-02T19:02:03Z",
+      "changelog": "修复订单播报过期判断改为后端有效期校验，并统一刷新多群同品预占库存",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.117/CloudAppRobot.exe",
-          "sha256": "4181efb840a5fa608514afefdea920ddbd324137718467728123cf6dc15f1580",
-          "size": 37339861
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.118/CloudAppRobot.exe",
+          "sha256": "72e6bd23dfffd0fff9f4afa994bc839ca46aa14541bc4bc1bc79de349523a985",
+          "size": 37341467
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.117/CloudAppRobot-bundle.zip",
-          "sha256": "4a57cedeea42a3d5d6d45b9660a2c6d8f2f345006a33438ca553b162101a372e",
-          "size": 206905675
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.118/CloudAppRobot-bundle.zip",
+          "sha256": "2f5347c66d8910ccd6d8a79d64f918c80e759afee44cc66408f891ba4aef258a",
+          "size": 206906215
         }
       }
     }
