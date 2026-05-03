@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.122",
-      "published_at": "2026-05-03T17:35:11Z",
-      "changelog": "供应商群接龙锚点独立索引，只保留每个商品最新接龙块，报单组装必须命中供应商锚点",
+      "version": "1.4.123",
+      "published_at": "2026-05-03T19:34:25Z",
+      "changelog": "供应商机器人保存新广播文案为商品最新锚点，云端统一协调供应商报单任务",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.122/CloudAppRobot.exe",
-          "sha256": "177a505e33d3687be4867a9b281ed9f72c662d0d2d22098542e1b5639f05b6dd",
-          "size": 37348821
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.123/CloudAppRobot.exe",
+          "sha256": "f9469c7e09faa4f44e200b9e238e489d97bbbc9aca2bc2965be2a0e61b512b3f",
+          "size": 37359234
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.122/CloudAppRobot-bundle.zip",
-          "sha256": "d80dfb765fc967667fd5ccc248ea415f8205e9326d81a6c38de9bad52220e681",
-          "size": 164776649
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.123/CloudAppRobot-bundle.zip",
+          "sha256": "6aee1baeeabacb90d0ea94ee69c78b51e70f4602b9934e59cafcc6d7369b5ef3",
+          "size": 206925083
         }
       }
     }
