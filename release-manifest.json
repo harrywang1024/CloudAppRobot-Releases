@@ -4,7 +4,7 @@
     "stable": {
       "version": "1.4.123",
       "published_at": "2026-05-03T19:34:25Z",
-      "changelog": "供应商机器人保存新广播文案为商品最新锚点，云端统一协调供应商报单任务",
+      "changelog": "Supplier bot saves latest product broadcast as anchor; cloud coordinates supplier report intents",
       "assets": {
         "exe": {
           "kind": "exe",
