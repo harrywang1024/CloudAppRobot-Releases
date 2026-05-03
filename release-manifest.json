@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.123",
-      "published_at": "2026-05-03T19:34:25Z",
-      "changelog": "Supplier bot saves latest product broadcast as anchor; cloud coordinates supplier report intents",
+      "version": "1.4.124",
+      "published_at": "2026-05-03T19:50:01Z",
+      "changelog": "Supplier bot saves latest product broadcast as anchor and cloud coordinates report intents",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.123/CloudAppRobot.exe",
-          "sha256": "f9469c7e09faa4f44e200b9e238e489d97bbbc9aca2bc2965be2a0e61b512b3f",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.124/CloudAppRobot.exe",
+          "sha256": "cf1f5399af7f443e8b20fecba0419e5bba57ec2ddfc630ce1855e71d8a8dbf65",
           "size": 37359234
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.123/CloudAppRobot-bundle.zip",
-          "sha256": "6aee1baeeabacb90d0ea94ee69c78b51e70f4602b9934e59cafcc6d7369b5ef3",
-          "size": 206925083
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.124/CloudAppRobot-bundle.zip",
+          "sha256": "7c4af9e0e818003be17390002a19a370db51be5da4ec380b1b6f53585f71194c",
+          "size": 206925262
         }
       }
     }
