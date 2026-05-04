@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.127",
-      "published_at": "2026-05-04T17:16:44Z",
-      "changelog": "Update CloudApp business domain to group.imyna.ai",
+      "version": "1.4.128",
+      "published_at": "2026-05-04T17:35:47Z",
+      "changelog": "Fix robot status panel startup crash during update",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.127/CloudAppRobot.exe",
-          "sha256": "4e1ee64ceab42c0d545ac4edbe45b096ab863d8e119d4703e31779b526a4a1ab",
-          "size": 37361622
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.128/CloudAppRobot.exe",
+          "sha256": "cf7f16d5bcc1a1f5551a6aa2fd15d4bff1b3aa07f6cb3956925f5a3ef3b48bbb",
+          "size": 37361494
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.127/CloudAppRobot-bundle.zip",
-          "sha256": "58b0dd1482dc6c61f85d230bc7f9984dc5f189a73691391f1a2c64279a1c6bbd",
-          "size": 206925562
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.128/CloudAppRobot-bundle.zip",
+          "sha256": "90e17609202e18225597b6b15219034deab6956ec9c304f653beb06a9a7d29d6",
+          "size": 206917846
         }
       }
     }
