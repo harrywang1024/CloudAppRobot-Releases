@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.126",
-      "published_at": "2026-05-04T16:50:40Z",
-      "changelog": "Fix supplier report parsing, missing-anchor handling, and robot status panel control-tree warning",
+      "version": "1.4.127",
+      "published_at": "2026-05-04T17:16:44Z",
+      "changelog": "Update CloudApp business domain to group.imyna.ai",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.126/CloudAppRobot.exe",
-          "sha256": "94589675ee7834177d665b368c4fa43d156c17cf884fe1667e97e9249cff89a0",
-          "size": 37361624
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.127/CloudAppRobot.exe",
+          "sha256": "4e1ee64ceab42c0d545ac4edbe45b096ab863d8e119d4703e31779b526a4a1ab",
+          "size": 37361622
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.126/CloudAppRobot-bundle.zip",
-          "sha256": "aad6baf852fdb2f7b49553ef3b3ac2ae10f702769a3d6edde6b64a74d8cbb067",
-          "size": 206924133
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.127/CloudAppRobot-bundle.zip",
+          "sha256": "58b0dd1482dc6c61f85d230bc7f9984dc5f189a73691391f1a2c64279a1c6bbd",
+          "size": 206925562
         }
       }
     }
