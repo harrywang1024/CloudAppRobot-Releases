@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.135",
-      "published_at": "2026-05-05T18:26:35Z",
-      "changelog": "Smoke test updater-owned restart after embedded agent migration",
+      "version": "1.4.136",
+      "published_at": "2026-05-05T18:49:45Z",
+      "changelog": "Restore standalone CloudAppAgent as the primary resident update orchestrator",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.135/CloudAppRobot.exe",
-          "sha256": "ca1f29df1c7699a4f7045956b6e30f4d91ee4f608911e64cf5b229121b0c2453",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.136/CloudAppRobot.exe",
+          "sha256": "dafe0e1dbea10e7de10dee0d0a31dceaa6a73de916c77ed335472a1ea67757ac",
           "size": 37361565
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.135/CloudAppRobot-bundle.zip",
-          "sha256": "6e7821db70b8320a0ac4cc2e7648f4cfb14e597ae23122decb6e61fa4f7660d0",
-          "size": 206923976
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.136/CloudAppRobot-bundle.zip",
+          "sha256": "057e530627fc7e9b33e94bc187575e28eacb99f9a90e4255cf611fd6ca38b196",
+          "size": 206925683
         }
       }
     }
