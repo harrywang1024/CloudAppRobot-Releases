@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.139",
-      "published_at": "2026-05-05T20:26:44Z",
-      "changelog": "Fix updater healthcheck staging state leakage",
+      "version": "1.4.140",
+      "published_at": "2026-05-05T21:02:14Z",
+      "changelog": "Validate WeChat DB keys against active account before reading private chats",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.139/CloudAppRobot.exe",
-          "sha256": "3fbd9a606a6b56cb7d00c73e28e75112536d9b424ab985067cac0059f1f7120b",
-          "size": 37362457
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.140/CloudAppRobot.exe",
+          "sha256": "37945099da277b69b0853f9816e9150801e3031275519788949fbbc915addae2",
+          "size": 37364423
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.139/CloudAppRobot-bundle.zip",
-          "sha256": "cef22fe6547587d27ba16e9848e4d27feb177cf36265d0c7482537eefc4ae53c",
-          "size": 206932574
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.140/CloudAppRobot-bundle.zip",
+          "sha256": "b411be28d01801f17bc00c2f7b5d70797a9f76634d82b5efa5f6513632ace089",
+          "size": 206934620
         }
       }
     }
