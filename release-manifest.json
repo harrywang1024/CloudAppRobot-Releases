@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.131",
-      "published_at": "2026-05-05T01:49:29Z",
-      "changelog": "Token-only cloud runtime bootstrap for supplier and leader robots",
+      "version": "1.4.132",
+      "published_at": "2026-05-05T04:46:52Z",
+      "changelog": "Launch embedded agent from CloudAppRobot by default to avoid stale standalone agent mismatches",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.131/CloudAppRobot.exe",
-          "sha256": "7fd982701b4ecf2f025929c419a470a732e31c31da1c5955cd0b49cc69186e62",
-          "size": 37361408
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.132/CloudAppRobot.exe",
+          "sha256": "b4832729dafe2df5c8ff8866e549313d2f462e1d788e71049d827c950ed148b4",
+          "size": 37361776
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.131/CloudAppRobot-bundle.zip",
-          "sha256": "400cfefa258f68551f09ef909181fd9bf0247d8832c2bdd588bac7e960ef0d9f",
-          "size": 206922873
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.132/CloudAppRobot-bundle.zip",
+          "sha256": "be728af81f76efc086941ef6e3129796d26cc51b13f03dfaf27070853679f0a5",
+          "size": 206928192
         }
       }
     }
