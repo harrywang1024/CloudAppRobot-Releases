@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.142",
-      "published_at": "2026-05-05T22:16:05Z",
-      "changelog": "Rollback updater flow to stable handoff and restore mature WeChat DB read path",
+      "version": "1.4.143",
+      "published_at": "2026-05-05T22:58:35Z",
+      "changelog": "Fix WeChat DB account selection and normalize runtime decrypt config",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.142/CloudAppRobot.exe",
-          "sha256": "bf8ec7ae5caefef346bf46d4989a6a40c11676b1a3583d567482d5582cea2270",
-          "size": 37362547
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.143/CloudAppRobot.exe",
+          "sha256": "cbe612fd678aded8caa9589ccdb539f94f5aeeb0bf4951e3614218982ee5a30b",
+          "size": 37363413
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.142/CloudAppRobot-bundle.zip",
-          "sha256": "5fae0d6a7e5504de914e161b1330a21225277f39c56eedd16885a79bc223eaaa",
-          "size": 206924180
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.143/CloudAppRobot-bundle.zip",
+          "sha256": "c96178aea916ea01b53f35c3a28a82f4b04bbf77754772c93328df70034c3f17",
+          "size": 206929374
         }
       }
     }
