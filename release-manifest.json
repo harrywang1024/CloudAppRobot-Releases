@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.137",
-      "published_at": "2026-05-05T19:25:52Z",
-      "changelog": "Make supplier private product image import explicit: collect images until import finish",
+      "version": "1.4.138",
+      "published_at": "2026-05-05T20:08:16Z",
+      "changelog": "Harden robot updater bundle validation and rollback while keeping current business logic",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.137/CloudAppRobot.exe",
-          "sha256": "9e5e8790b709045efbce87e8336054842cdd7c5a07d631bbe4f5ee9fbfa62a98",
-          "size": 37362287
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.138/CloudAppRobot.exe",
+          "sha256": "6a27abe6d2c6b4e8cdbc9ccb93a4fdbcd93eaa26645ab22907815efc32392c0b",
+          "size": 37362464
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.137/CloudAppRobot-bundle.zip",
-          "sha256": "c583065bd4cd0b93f5b76bb9348b274e01db17ac7ebb7db64aadb9422d1a0199",
-          "size": 206925295
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.138/CloudAppRobot-bundle.zip",
+          "sha256": "c4f64d68a261a48f5eba603fb5413073f7ba338986b2095fb34f1e0152a8de15",
+          "size": 207048934
         }
       }
     }
