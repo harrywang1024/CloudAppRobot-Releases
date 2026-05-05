@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.134",
-      "published_at": "2026-05-05T18:12:53Z",
-      "changelog": "Launch the updated robot stack directly after bundle replacement so token-only supplier and leader bots auto-restart after update",
+      "version": "1.4.135",
+      "published_at": "2026-05-05T18:26:35Z",
+      "changelog": "Smoke test updater-owned restart after embedded agent migration",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.134/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.135/CloudAppRobot.exe",
           "sha256": "ca1f29df1c7699a4f7045956b6e30f4d91ee4f608911e64cf5b229121b0c2453",
           "size": 37361565
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.134/CloudAppRobot-bundle.zip",
-          "sha256": "865e0f7445fabfa7d9e12125c29d0ee7bfafdedd50fe471f4f38f1ad3df82631",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.135/CloudAppRobot-bundle.zip",
+          "sha256": "6e7821db70b8320a0ac4cc2e7648f4cfb14e597ae23122decb6e61fa4f7660d0",
           "size": 206923976
         }
       }
