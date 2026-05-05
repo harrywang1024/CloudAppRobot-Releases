@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.143",
-      "published_at": "2026-05-05T22:58:35Z",
-      "changelog": "Fix WeChat DB account selection and normalize runtime decrypt config",
+      "version": "1.4.144",
+      "published_at": "2026-05-05T23:24:33Z",
+      "changelog": "Auto-scan WeChat DB accounts when monitored chat is not found",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.143/CloudAppRobot.exe",
-          "sha256": "cbe612fd678aded8caa9589ccdb539f94f5aeeb0bf4951e3614218982ee5a30b",
-          "size": 37363413
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.144/CloudAppRobot.exe",
+          "sha256": "7867a7607b1ae21360cfece8b00990230f7a320228329eed22c5b6ef0f52887c",
+          "size": 37365880
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.143/CloudAppRobot-bundle.zip",
-          "sha256": "c96178aea916ea01b53f35c3a28a82f4b04bbf77754772c93328df70034c3f17",
-          "size": 206929374
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.144/CloudAppRobot-bundle.zip",
+          "sha256": "eb9cc3614e069d62b3992dd187a9aade68d9da2d285c9b5f303c4b6aecceb34d",
+          "size": 206930039
         }
       }
     }
