@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.130",
-      "published_at": "2026-05-04T20:33:41Z",
-      "changelog": "Normalize legacy IP API URL to group.imyna.ai to avoid HTTP 421 after domain switch.",
+      "version": "1.4.131",
+      "published_at": "2026-05-05T01:49:29Z",
+      "changelog": "Token-only cloud runtime bootstrap for supplier and leader robots",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.130/CloudAppRobot.exe",
-          "sha256": "4b05220c8b6ba254e25ee5759ba081f2851cc002d76b0713cfb6099db7c9051f",
-          "size": 37358445
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.131/CloudAppRobot.exe",
+          "sha256": "7fd982701b4ecf2f025929c419a470a732e31c31da1c5955cd0b49cc69186e62",
+          "size": 37361408
         },
         "py": {
           "download_url": "",
@@ -19,15 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.130/CloudAppRobot-bundle.zip",
-          "sha256": "6c2cbbde97b279c78113d4d176789a41ec266e59c833d736357a363a843fcda4",
-          "size": 206925372
-        },
-        "ops_console": {
-          "kind": "ops_console_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.130/WeCloudappOpsConsole-1.4.130.zip",
-          "sha256": "c1feefc90b7faf3c537f1b49d2b3b5c94905e90576efddd78569d847cee91a22",
-          "size": 21566277
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.131/CloudAppRobot-bundle.zip",
+          "sha256": "400cfefa258f68551f09ef909181fd9bf0247d8832c2bdd588bac7e960ef0d9f",
+          "size": 206922873
         }
       }
     }
