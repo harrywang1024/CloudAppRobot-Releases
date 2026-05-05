@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.136",
-      "published_at": "2026-05-05T18:49:45Z",
-      "changelog": "Restore standalone CloudAppAgent as the primary resident update orchestrator",
+      "version": "1.4.137",
+      "published_at": "2026-05-05T19:25:52Z",
+      "changelog": "Make supplier private product image import explicit: collect images until import finish",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.136/CloudAppRobot.exe",
-          "sha256": "dafe0e1dbea10e7de10dee0d0a31dceaa6a73de916c77ed335472a1ea67757ac",
-          "size": 37361565
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.137/CloudAppRobot.exe",
+          "sha256": "9e5e8790b709045efbce87e8336054842cdd7c5a07d631bbe4f5ee9fbfa62a98",
+          "size": 37362287
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.136/CloudAppRobot-bundle.zip",
-          "sha256": "057e530627fc7e9b33e94bc187575e28eacb99f9a90e4255cf611fd6ca38b196",
-          "size": 206925683
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.137/CloudAppRobot-bundle.zip",
+          "sha256": "c583065bd4cd0b93f5b76bb9348b274e01db17ac7ebb7db64aadb9422d1a0199",
+          "size": 206925295
         }
       }
     }
