@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.140",
-      "published_at": "2026-05-05T21:02:14Z",
-      "changelog": "Validate WeChat DB keys against active account before reading private chats",
+      "version": "1.4.141",
+      "published_at": "2026-05-05T21:45:48Z",
+      "changelog": "Resolve WeChat private chat reads across multiple local account directories",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.140/CloudAppRobot.exe",
-          "sha256": "37945099da277b69b0853f9816e9150801e3031275519788949fbbc915addae2",
-          "size": 37364423
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.141/CloudAppRobot.exe",
+          "sha256": "c7319f99e7474cd82ee29863eed6907087ff759b7aee2d3774ef84eef68f9607",
+          "size": 37366061
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.140/CloudAppRobot-bundle.zip",
-          "sha256": "b411be28d01801f17bc00c2f7b5d70797a9f76634d82b5efa5f6513632ace089",
-          "size": 206934620
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.141/CloudAppRobot-bundle.zip",
+          "sha256": "657819918c0cf2d594286272ffe217318e992e2059d8f66dc9b1242ca3d3a12a",
+          "size": 206936124
         }
       }
     }
