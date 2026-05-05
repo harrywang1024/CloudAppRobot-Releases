@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.141",
-      "published_at": "2026-05-05T21:45:48Z",
-      "changelog": "Resolve WeChat private chat reads across multiple local account directories",
+      "version": "1.4.142",
+      "published_at": "2026-05-05T22:16:05Z",
+      "changelog": "Rollback updater flow to stable handoff and restore mature WeChat DB read path",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.141/CloudAppRobot.exe",
-          "sha256": "c7319f99e7474cd82ee29863eed6907087ff759b7aee2d3774ef84eef68f9607",
-          "size": 37366061
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.142/CloudAppRobot.exe",
+          "sha256": "bf8ec7ae5caefef346bf46d4989a6a40c11676b1a3583d567482d5582cea2270",
+          "size": 37362547
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.141/CloudAppRobot-bundle.zip",
-          "sha256": "657819918c0cf2d594286272ffe217318e992e2059d8f66dc9b1242ca3d3a12a",
-          "size": 206936124
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.142/CloudAppRobot-bundle.zip",
+          "sha256": "5fae0d6a7e5504de914e161b1330a21225277f39c56eedd16885a79bc223eaaa",
+          "size": 206924180
         }
       }
     }
