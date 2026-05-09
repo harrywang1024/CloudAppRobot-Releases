@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.152",
-      "published_at": "2026-05-09T22:14:35Z",
-      "changelog": "Create supplier robot config from template when probing WeChat DB.",
+      "version": "1.4.153",
+      "published_at": "2026-05-09T22:24:31Z",
+      "changelog": "Fix business restart after robot auto-update under background command execution.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.152/CloudAppRobot.exe",
-          "sha256": "974c8525366140a5bc5f2a680e80d330db2f96cfd3dac38830d26e0a40aec9e8",
-          "size": 37373148
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.153/CloudAppRobot.exe",
+          "sha256": "84128acd9943392037c1c824be0dbe8e3cccbf7e953a0e8522132553fe8ce5dc",
+          "size": 37373286
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.152/CloudAppRobot-bundle.zip",
-          "sha256": "7e335e31d2f5b577a7198c22fcab623cf46d9153a42aaf5f88f6cd230606b5e2",
-          "size": 231171506
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.153/CloudAppRobot-bundle.zip",
+          "sha256": "e190098382595f012aa17f46743615a600e636394ab87964353e6bd8767c400c",
+          "size": 231165863
         }
       }
     }
