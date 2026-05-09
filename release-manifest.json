@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.154",
-      "published_at": "2026-05-09T22:31:21Z",
-      "changelog": "Validation release for robot auto-update recovery on BOT-WECHAT-001.",
+      "version": "1.4.155",
+      "published_at": "2026-05-09T22:51:13Z",
+      "changelog": "Fix update resume to restart business stack without relaunching the resident agent; preserve current runtime instance and bot config for update recovery.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.154/CloudAppRobot.exe",
-          "sha256": "84128acd9943392037c1c824be0dbe8e3cccbf7e953a0e8522132553fe8ce5dc",
-          "size": 37373286
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.155/CloudAppRobot.exe",
+          "sha256": "15468dc970686e849a5f33da7c6172c1c7fe5f6fd7168b34219d2ba3750329a0",
+          "size": 37373366
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.154/CloudAppRobot-bundle.zip",
-          "sha256": "df55b758aa308b1f8617bdd66689ab72bed77ca29a693f218d4cb47c3612ab40",
-          "size": 231165863
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.155/CloudAppRobot-bundle.zip",
+          "sha256": "eb9e59a40a8aaeff66c9b850d7b191cf12dc29ec827ef1ed24aa68ae109e3a1d",
+          "size": 231167983
         }
       }
     }
