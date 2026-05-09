@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.150",
-      "published_at": "2026-05-09T21:38:38Z",
-      "changelog": "Back off supplier report polling failures and bundle the WeChat DB config tool.",
+      "version": "1.4.151",
+      "published_at": "2026-05-09T22:05:37Z",
+      "changelog": "Fix WeChat DB config tool for windowed launches and update supplier configs.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.150/CloudAppRobot.exe",
-          "sha256": "25e3d94f6be21fc2eedfff1f1236be35b853c27c59216ff088c6fb12283229ec",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.151/CloudAppRobot.exe",
+          "sha256": "3e5591fa9a5541c4ea419dccbed97c60d6554d419e33ed4da39e9fde6aca0820",
           "size": 37373148
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.150/CloudAppRobot-bundle.zip",
-          "sha256": "75d479dc0720af65b58cb9f638dab3d78393efe407ba50b65e906c307f69b016",
-          "size": 230974976
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.151/CloudAppRobot-bundle.zip",
+          "sha256": "82bbb47362338c48a8147814bf7ec1a2d109dc93928244e8c637bcf57e707ed5",
+          "size": 231169676
         }
       }
     }
