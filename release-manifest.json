@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.153",
-      "published_at": "2026-05-09T22:24:31Z",
-      "changelog": "Fix business restart after robot auto-update under background command execution.",
+      "version": "1.4.154",
+      "published_at": "2026-05-09T22:31:21Z",
+      "changelog": "Validation release for robot auto-update recovery on BOT-WECHAT-001.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.153/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.154/CloudAppRobot.exe",
           "sha256": "84128acd9943392037c1c824be0dbe8e3cccbf7e953a0e8522132553fe8ce5dc",
           "size": 37373286
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.153/CloudAppRobot-bundle.zip",
-          "sha256": "e190098382595f012aa17f46743615a600e636394ab87964353e6bd8767c400c",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.154/CloudAppRobot-bundle.zip",
+          "sha256": "df55b758aa308b1f8617bdd66689ab72bed77ca29a693f218d4cb47c3612ab40",
           "size": 231165863
         }
       }
