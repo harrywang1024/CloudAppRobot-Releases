@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.156",
-      "published_at": "2026-05-11T17:07:53Z",
-      "changelog": "Harden Windows robot startup on new PCs: unblock downloaded executables before launch, add startup network/security preflight logging, and prevent status panel startup from writing invalid PID files when Windows security blocks process creation.",
+      "version": "1.4.157",
+      "published_at": "2026-05-11T22:22:15Z",
+      "changelog": "Fix supplier visible UIA image broadcasts so WebP images are pasted as images instead of file attachments. Keep supplier robots on visible UIA sender.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.156/CloudAppRobot.exe",
-          "sha256": "eb04c2c12be3d8439eec1cdfd1d1bafa31653bd4adfe7853cb0a409e94bf5373",
-          "size": 37373366
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.157/CloudAppRobot.exe",
+          "sha256": "cd79974ecc9823d2008f8671401808f5af1c5ade2a93dfcda9e5cc28f17c90e2",
+          "size": 37373339
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.156/CloudAppRobot-bundle.zip",
-          "sha256": "f4905ea048d789d63589cda1a5cbfb5725ddbeb03061987790370c6adff05b38",
-          "size": 231171948
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.157/CloudAppRobot-bundle.zip",
+          "sha256": "e139604dd8f44243c4de1c555c38063848430b2e9807d925d70793a84f2da8d8",
+          "size": 231169047
         }
       }
     }
