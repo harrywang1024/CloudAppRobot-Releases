@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.159",
-      "published_at": "2026-05-13T13:58:21Z",
-      "changelog": "Fix CloudAppRobotStopAll.exe crash when launched from Explorer on machines where standard input is unavailable; rebuild the stop-all helper as a console tool so operators can see shutdown output.",
+      "version": "1.4.160",
+      "published_at": "2026-05-14T19:04:22Z",
+      "changelog": "Improve WeChat visible-session matching for group names with local decorative emoji suffixes. The sender now prefers exact automation-id matches and falls back to a unique prefix match, preventing configured business group names from failing when the local WeChat title includes emoji.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.159/CloudAppRobot.exe",
-          "sha256": "5f34446059e4bc375796fa9c30994d1ccfc068e09605158ac6c363ff2e32655b",
-          "size": 37373339
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.160/CloudAppRobot.exe",
+          "sha256": "7aa7808ebcf1878f833a036bfe191f000128fd7ef14b8021ed5290f19dff4372",
+          "size": 37373876
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.159/CloudAppRobot-bundle.zip",
-          "sha256": "e5141cbdf6987c195abfa40255b21c378e93de3f88feb8601f30736dcbc7fa28",
-          "size": 246832082
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.160/CloudAppRobot-bundle.zip",
+          "sha256": "c2eea503fb269ebde189c36d15d98fd3cef2c0d8de143e1c7b4440ad5f082a2a",
+          "size": 246838850
         }
       }
     }
