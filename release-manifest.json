@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.160",
-      "published_at": "2026-05-14T19:04:22Z",
-      "changelog": "Improve WeChat visible-session matching for group names with local decorative emoji suffixes. The sender now prefers exact automation-id matches and falls back to a unique prefix match, preventing configured business group names from failing when the local WeChat title includes emoji.",
+      "version": "1.4.161",
+      "published_at": "2026-05-14T23:01:42Z",
+      "changelog": "Clean sender queues automatically when tasks target conversations outside the current bot's configured scope. This prevents reused test machines or changed bot identities from replaying stale local tasks for unrelated groups such as Clearview.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.160/CloudAppRobot.exe",
-          "sha256": "7aa7808ebcf1878f833a036bfe191f000128fd7ef14b8021ed5290f19dff4372",
-          "size": 37373876
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.161/CloudAppRobot.exe",
+          "sha256": "63ecb7f25a6501117203045105d7016fbb7aee4d96509ee438793307daf96133",
+          "size": 37375981
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.160/CloudAppRobot-bundle.zip",
-          "sha256": "c2eea503fb269ebde189c36d15d98fd3cef2c0d8de143e1c7b4440ad5f082a2a",
-          "size": 246838850
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.161/CloudAppRobot-bundle.zip",
+          "sha256": "d52da2c6f8ac44b7f95fe20057ab7b3cebccf806cb798eb6ab172127063e44db",
+          "size": 246837102
         }
       }
     }
