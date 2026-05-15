@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.162",
-      "published_at": "2026-05-15T01:34:23Z",
-      "changelog": "Add WeChat wx_id propagation for robot orders and align app messaging identity so App and WeChat users can be unified by wx_id.",
+      "version": "1.4.163",
+      "published_at": "2026-05-15T02:52:05Z",
+      "changelog": "Add startup and half-hour UIA route checks for configured WeChat groups/private chats, support English WeChat session list discovery, and keep sender fallback inside the recent-session list without using global search.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.162/CloudAppRobot.exe",
-          "sha256": "e08627853ec08cbd551f247f862d3c0aacce4a4bc1f5d377867a2a25de7d4551",
-          "size": 37378694
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.163/CloudAppRobot.exe",
+          "sha256": "341746de64ea1c56a730bf8599d9271d868abba00cfa8440298602336dcb6ff6",
+          "size": 37382611
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.162/CloudAppRobot-bundle.zip",
-          "sha256": "9f9d18e55a539c639db48f3e56532886f46e6524d0e943e05632980f8bcdf32a",
-          "size": 246839635
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.163/CloudAppRobot-bundle.zip",
+          "sha256": "c962e73e59f0f8e8d7c752ab9e0f926267a6bd88a0a4d73851d8f2ccaaee087f",
+          "size": 246845161
         }
       }
     }
