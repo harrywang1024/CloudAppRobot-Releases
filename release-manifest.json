@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.165",
-      "published_at": "2026-05-15T16:09:32Z",
-      "changelog": "Bind wx_id only for the changed solitaire row during WeChat order edits.",
+      "version": "1.4.166",
+      "published_at": "2026-05-15T16:40:06Z",
+      "changelog": "Sync App solitaire entries immediately after changed WeChat rows and bind sender wx_id to the changed row.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.165/CloudAppRobot.exe",
-          "sha256": "493b3699b4fee31c8c43450e665c35b6bc641086905882a913d4245259fc72d5",
-          "size": 37385335
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.166/CloudAppRobot.exe",
+          "sha256": "1dcb1c6d589f0869e601853493c188d1f451fb64afa0777e17350909c8d9ce68",
+          "size": 37385566
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.165/CloudAppRobot-bundle.zip",
-          "sha256": "2042c9538eba1dddb16a416dbb40088acc6ffd968195d054955ee64dfbf9284b",
-          "size": 246850873
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.166/CloudAppRobot-bundle.zip",
+          "sha256": "e4dea5c1408c222ca7fd43647f0495d7356bc8e821c1e30d81c45dfe01fdf0ac",
+          "size": 246844150
         }
       }
     }
