@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.167",
-      "published_at": "2026-05-17T14:04:45Z",
-      "changelog": "Stop robot local finalize order upload; realtime App drafts now own WeChat solitaire orders.",
+      "version": "1.4.168",
+      "published_at": "2026-05-17T16:21:32Z",
+      "changelog": "Use incremental App solitaire sync for WeChat order changes to avoid cancelling unchanged floors.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.167/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.168/CloudAppRobot.exe",
           "sha256": "6e7eb94c7ec546063e154b380189b7d496f81c7085514f45edd62677f1ed7231",
           "size": 37384537
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.167/CloudAppRobot-bundle.zip",
-          "sha256": "567100bc94d943aa941e22f6309f3eabb92c01415c14278be9f60ebf4d4bd679",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.168/CloudAppRobot-bundle.zip",
+          "sha256": "1ce5e6625b433a9dbf10f7aa1586ed223dec3f416fb2dbe8d6d7ef53dbc6be18",
           "size": 246849031
         }
       }
