@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.169",
-      "published_at": "2026-05-17T16:38:54Z",
-      "changelog": "Track WeChat solitaire entries by seq and send explicit App draft cancellations.",
+      "version": "1.4.170",
+      "published_at": "2026-05-17T17:10:00Z",
+      "changelog": "Upload wx-id aware solitaire snapshots for cloud-side order diff.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.169/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.170/CloudAppRobot.exe",
           "sha256": "6e7eb94c7ec546063e154b380189b7d496f81c7085514f45edd62677f1ed7231",
           "size": 37384537
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.169/CloudAppRobot-bundle.zip",
-          "sha256": "21a57840b3c278864c4e87c933c3ed0c41b74c1c16516d07e2999ccbc747924c",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.170/CloudAppRobot-bundle.zip",
+          "sha256": "f1f0e8ad73cc8c3edc86c910a395937aa02c85b0db72419653f8632f8bf7ece3",
           "size": 246849031
         }
       }
