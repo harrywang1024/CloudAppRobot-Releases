@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.172",
-      "published_at": "2026-05-17T19:56:03Z",
-      "changelog": "Upload WeChat solitaire snapshots immediately and keep app-side group-buy snapshots",
+      "version": "1.4.173",
+      "published_at": "2026-05-18T02:25:26Z",
+      "changelog": "Use current WeChat solitaire snapshots for cloud diff and preserve App-native quantities on WeChat cancellation",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.172/CloudAppRobot.exe",
-          "sha256": "6e7eb94c7ec546063e154b380189b7d496f81c7085514f45edd62677f1ed7231",
-          "size": 37384537
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.173/CloudAppRobot.exe",
+          "sha256": "4f7f866914dab13c7068a14bef282bda24b9a08fbbfa308e7e65ed866e011fe9",
+          "size": 37389003
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.172/CloudAppRobot-bundle.zip",
-          "sha256": "9ff102dae86f1ad06893489b0cfc269aeff50ccf050e41a22f9d61efa4bf22c5",
-          "size": 246849031
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.173/CloudAppRobot-bundle.zip",
+          "sha256": "c7f11376859b6fda568d96a84507d0e47ddd4dd4748f7cb58233edd046ae93da",
+          "size": 246847337
         }
       }
     }
