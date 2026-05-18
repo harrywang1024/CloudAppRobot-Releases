@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.174",
-      "published_at": "2026-05-18T03:08:35Z",
-      "changelog": "Fix WeChat solitaire snapshot row identity and infer cloud baseline from active drafts",
+      "version": "1.4.175",
+      "published_at": "2026-05-18T16:09:16Z",
+      "changelog": "Upload empty WeChat solitaire snapshots so cloud can cancel removed WeChat floors without touching App orders",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.174/CloudAppRobot.exe",
-          "sha256": "ca946067711eb7c70132e7526c65113cac5cb769c1c94e25196da8dfef1582cd",
-          "size": 37389060
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.175/CloudAppRobot.exe",
+          "sha256": "7aba39251bdb765c74a869d304daed37055b376d5091ad588ab83d31ea267b6f",
+          "size": 37389295
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.174/CloudAppRobot-bundle.zip",
-          "sha256": "bc33a9712ebe620abb79bbc1d0c254ef2924719dfeacc140fc2ec8bea555c643",
-          "size": 246852837
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.175/CloudAppRobot-bundle.zip",
+          "sha256": "fc44f12d8d8919ed42cf61295372b2229bbec3ffae85b3dfd64f75a32e79c7c1",
+          "size": 246857286
         }
       }
     }
