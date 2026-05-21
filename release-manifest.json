@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.180",
-      "published_at": "2026-05-21T22:28:00Z",
-      "changelog": "Upload WeChat solitaire floor identity rows and require wx_id-backed snapshot sync",
+      "version": "1.4.181",
+      "published_at": "2026-05-21T23:20:21Z",
+      "changelog": "Send WeChat solitaire sender identity with snapshots and persist backend floor identity",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.180/CloudAppRobot.exe",
-          "sha256": "993b0d1e719440217c733456b03f27c85d8eb5842804c4e052d126e90c5b7ed3",
-          "size": 37395969
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.181/CloudAppRobot.exe",
+          "sha256": "5c96b04352b5c0e587255552aeecc8576e4f86d3954e5eede822293ae602883d",
+          "size": 37397001
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.180/CloudAppRobot-bundle.zip",
-          "sha256": "0c892d6769005919eaa2d3c412e0bc045e689daf65071e71eee4d583c38a65cb",
-          "size": 246908688
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.181/CloudAppRobot-bundle.zip",
+          "sha256": "4852be63f30f6297c0ac88cda60cfb02cb6a6a949f462947f28f3e9d3b028c52",
+          "size": 246909254
         }
       }
     }
