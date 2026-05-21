@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.179",
-      "published_at": "2026-05-21T19:04:41Z",
-      "changelog": "Broaden WeChat solitaire parsing across product library variants and prevent multi-product fallback orders from being collapsed by half-unit repair",
+      "version": "1.4.180",
+      "published_at": "2026-05-21T20:57:33Z",
+      "changelog": "Upload WeChat solitaire floor identity rows and require wx_id-backed snapshot sync",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.179/CloudAppRobot.exe",
-          "sha256": "cb8ffb0a0cbbb1722f35e2dbbe40f5f42e34565fd01c7e7d4cf8d1bd8d44ef57",
-          "size": 37395324
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.180/CloudAppRobot.exe",
+          "sha256": "993b0d1e719440217c733456b03f27c85d8eb5842804c4e052d126e90c5b7ed3",
+          "size": 37395969
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.179/CloudAppRobot-bundle.zip",
-          "sha256": "ed2a03b59b6953e9d85f05e3e67b312f563d4c24edf9aa50280820598b994390",
-          "size": 246853883
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.180/CloudAppRobot-bundle.zip",
+          "sha256": "c2b980d2c76b4df62461c78551688cee26f44a0054248d37d77f130845aafdf2",
+          "size": 176941576
         }
       }
     }
