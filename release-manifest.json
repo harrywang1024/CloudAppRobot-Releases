@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.184",
-      "published_at": "2026-05-23T00:24:30Z",
-      "changelog": "Auto-dismiss WeChat update prompt every five minutes",
+      "version": "1.4.185",
+      "published_at": "2026-05-24T18:16:08Z",
+      "changelog": "Materialized solitaire order lifecycle, backend-generated WeChat refresh copy, batch status refresh, product import bot updates",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.184/CloudAppRobot.exe",
-          "sha256": "56d1a48b6b20c9c29a092c2e0224c910425fe2a87cd2d4e3453f11c54390874d",
-          "size": 37405663
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.185/CloudAppRobot.exe",
+          "sha256": "d96a40f796354a44374ddf10da1b41ebed634851b25c96a025f425bbb5d5b672",
+          "size": 37394086
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.184/CloudAppRobot-bundle.zip",
-          "sha256": "c4d4934107422fdd8034893b136e8707326078439f6abcf955b72d8586595a5f",
-          "size": 246928311
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.185/CloudAppRobot-bundle.zip",
+          "sha256": "a2b402ae78f6746effd2adddd9986b2923061ec33acac86b217e3e125b988267",
+          "size": 246919591
         }
       }
     }
