@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.188",
-      "published_at": "2026-05-25T15:17:03Z",
-      "changelog": "Require WeChat DB sender wx_id before solitaire snapshot processing",
+      "version": "1.4.189",
+      "published_at": "2026-05-27T21:44:38Z",
+      "changelog": "Create local session when stale sent broadcast is auto-acked",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.188/CloudAppRobot.exe",
-          "sha256": "a8c354e196c06a884ebedfeb743e64e12696f3f5266848d0ec10ceba2b97ccc2",
-          "size": 37395516
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.189/CloudAppRobot.exe",
+          "sha256": "2950bf17630283abb58b0564142bd24367bf31d43e8c35f9f6a080f8cfe2cbe1",
+          "size": 37395571
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.188/CloudAppRobot-bundle.zip",
-          "sha256": "a113bf7d82b5ddfc294511fa2dc19f28a5b8a091417ff3fb009e76031705db8f",
-          "size": 246858277
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.189/CloudAppRobot-bundle.zip",
+          "sha256": "0768ea41edd35db171561d6314f7392d471a1e0c083c3d3d13e0a53e33a1b3b4",
+          "size": 246914975
         }
       }
     }
