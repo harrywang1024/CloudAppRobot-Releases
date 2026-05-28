@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.191",
-      "published_at": "2026-05-28T15:31:02Z",
-      "changelog": "Accept recovered WeChat solitaire card messages before order-line parsing",
+      "version": "1.4.192",
+      "published_at": "2026-05-28T16:05:34Z",
+      "changelog": "Send WeChat sender identity for solitaire snapshot repair and fix short product alias matching",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.191/CloudAppRobot.exe",
-          "sha256": "9dd7452f1732b0ae1304bb28f537473ec296655c4135d695edfb7dbe9768229e",
-          "size": 37397229
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.192/CloudAppRobot.exe",
+          "sha256": "97b2318923551b0eeb104a8f1be02e477f2cdc5ad8143b05bb0c544816131721",
+          "size": 37397454
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.191/CloudAppRobot-bundle.zip",
-          "sha256": "fbd01dfa25cc5fb1f5a8c6342c31240d36a7761cba419a01c425da0f9e1bcf4b",
-          "size": 246916811
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.192/CloudAppRobot-bundle.zip",
+          "sha256": "1e0491554b88deebce914af50af4ba386733b84af0ce9b2aba17439e0389a435",
+          "size": 246913104
         }
       }
     }
