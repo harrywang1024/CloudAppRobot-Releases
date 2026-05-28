@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.194",
-      "published_at": "2026-05-28T17:04:43Z",
-      "changelog": "Prefer embedded CloudAppRobot agent, retire stale standalone agent, and avoid false update recovery loops",
+      "version": "1.4.195",
+      "published_at": "2026-05-28T17:41:38Z",
+      "changelog": "Fix embedded agent singleton startup and run agent during update resume",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.194/CloudAppRobot.exe",
-          "sha256": "c0916730b7c66c363b852a74a81d1b8faf4f724c2c46a432acaa2114f9875cc7",
-          "size": 37398302
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.195/CloudAppRobot.exe",
+          "sha256": "cda96c31c2305074ea1177ee95098c205b4a8f0122fb77892976771cc6a2f6b0",
+          "size": 37398425
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.194/CloudAppRobot-bundle.zip",
-          "sha256": "7bb995ce9012f623e955ffdfa35818e47e88c57f377ab2e1dbbccb20ab1f7643",
-          "size": 246918754
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.195/CloudAppRobot-bundle.zip",
+          "sha256": "4cf91ddd674a268d84431a36e762547123b44ae7ff1eee519a2bdaecf3739c3d",
+          "size": 246921863
         }
       }
     }
