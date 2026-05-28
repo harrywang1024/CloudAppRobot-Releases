@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.196",
-      "published_at": "2026-05-28T18:18:31Z",
-      "changelog": "Fix embedded agent process detection and helper sync race",
+      "version": "1.4.197",
+      "published_at": "2026-05-28T18:37:20Z",
+      "changelog": "Fix agent startup pid race and stale-status restart grace",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.196/CloudAppRobot.exe",
-          "sha256": "6701d34d9b4b6bdb722e431fb36937d15a7c668de475a41cae2e2132d0475e1d",
-          "size": 37398934
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.197/CloudAppRobot.exe",
+          "sha256": "3226fa2a49e06cde5569ea5797c871eaa153f44b853c3e7a63fa0ce4db461806",
+          "size": 37399207
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.196/CloudAppRobot-bundle.zip",
-          "sha256": "d03277f3b6545c7305dec9f4838b884ad7e06e79d60ffcd1770550ab0555fc6e",
-          "size": 246923146
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.197/CloudAppRobot-bundle.zip",
+          "sha256": "4a8a74a18c55155569f7866e0e000482a33dae42b112c61fbe2fb1212a5c6255",
+          "size": 246927268
         }
       }
     }
