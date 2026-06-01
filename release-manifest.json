@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.200",
-      "published_at": "2026-06-01T19:03:14Z",
-      "changelog": "Retry send queue writes on Windows file locks",
+      "version": "1.4.201",
+      "published_at": "2026-06-01T20:31:46Z",
+      "changelog": "Leader group member sync and manual scan trigger",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.200/CloudAppRobot.exe",
-          "sha256": "10b80f5ece1a38f635112e0ee84b891cb82c87b1cfe5ac6d959cc2bd38d56f17",
-          "size": 37405777
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.201/CloudAppRobot.exe",
+          "sha256": "3e04137dde06e86c71718b7a61df6eb647da35cffa2c421fa565feea6e137345",
+          "size": 37411046
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.200/CloudAppRobot-bundle.zip",
-          "sha256": "602a6466432e0123f94e7fed7446f19414f843565ffb335fb7a819b1488951ec",
-          "size": 246930746
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.201/CloudAppRobot-bundle.zip",
+          "sha256": "bb934c3558a9a7dc0ee38c038670a3a27df5d5f7b25eea1a0368be345d1a90aa",
+          "size": 246940264
         }
       }
     }
