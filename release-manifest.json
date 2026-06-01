@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.201",
-      "published_at": "2026-06-01T20:31:46Z",
-      "changelog": "Leader group member sync and manual scan trigger",
+      "version": "1.4.202",
+      "published_at": "2026-06-01T20:50:58Z",
+      "changelog": "Show manual group member scan button in status panel",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.201/CloudAppRobot.exe",
-          "sha256": "3e04137dde06e86c71718b7a61df6eb647da35cffa2c421fa565feea6e137345",
-          "size": 37411046
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.202/CloudAppRobot.exe",
+          "sha256": "cad524afe129cdd6fb44f3aaf7bf83f14a99e3f7a83458df62cb90bd9ec0587d",
+          "size": 37411096
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.201/CloudAppRobot-bundle.zip",
-          "sha256": "bb934c3558a9a7dc0ee38c038670a3a27df5d5f7b25eea1a0368be345d1a90aa",
-          "size": 246940264
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.202/CloudAppRobot-bundle.zip",
+          "sha256": "c1be22c3c5ffa1597542286d3407eda0d7aa37f7c3987108134bf8e30befdcc9",
+          "size": 246932926
         }
       }
     }
