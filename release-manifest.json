@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.199",
-      "published_at": "2026-06-01T18:07:16Z",
-      "changelog": "Retry Moments media downloads and keep publish alive on image download failures",
+      "version": "1.4.200",
+      "published_at": "2026-06-01T19:03:14Z",
+      "changelog": "Retry send queue writes on Windows file locks",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.199/CloudAppRobot.exe",
-          "sha256": "8f1d864ad845ca35214e29b2f9f7411f7aa7b9b297228dce16b20e2df54d547b",
-          "size": 37404268
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.200/CloudAppRobot.exe",
+          "sha256": "10b80f5ece1a38f635112e0ee84b891cb82c87b1cfe5ac6d959cc2bd38d56f17",
+          "size": 37405777
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.199/CloudAppRobot-bundle.zip",
-          "sha256": "548e6245c2762583eedb1d635644ec25af6cba7a82db8e5c4da0746188c49af4",
-          "size": 246929143
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.200/CloudAppRobot-bundle.zip",
+          "sha256": "602a6466432e0123f94e7fed7446f19414f843565ffb335fb7a819b1488951ec",
+          "size": 246930746
         }
       }
     }
