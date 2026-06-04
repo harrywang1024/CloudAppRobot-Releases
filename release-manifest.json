@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.213",
-      "published_at": "2026-06-04T12:20:01Z",
-      "changelog": "Reduce robot monitor runtime log noise for unchanged solitaire blocks.",
+      "version": "1.4.214",
+      "published_at": "2026-06-04T21:32:25Z",
+      "changelog": "Skip unchanged solitaire snapshot uploads and reduce robot runtime log volume.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.213/CloudAppRobot.exe",
-          "sha256": "a1c1c5ce84d9a0e357c20fb398242959c23ee8e6419856a1a1484a80dd9cf406",
-          "size": 37429649
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.214/CloudAppRobot.exe",
+          "sha256": "707140a0680150935f7d3a1879c986cf87cd68c9a1fbfd9f3f1b9ce58b4f8fd4",
+          "size": 37435897
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.213/CloudAppRobot-bundle.zip",
-          "sha256": "59605ae34f079b323a164d1e617c7d7a5e7f450bf0cba0d1431d6e1a8ad7509f",
-          "size": 246963076
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.214/CloudAppRobot-bundle.zip",
+          "sha256": "d151f0e6354f60772b4c2de70590aba77c03c15a65612e71c8aedbd040d06ac9",
+          "size": 246965434
         }
       }
     }
