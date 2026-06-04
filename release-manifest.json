@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.207",
-      "published_at": "2026-06-04T02:40:15Z",
-      "changelog": "Filter local active sessions by monitored group to stop stale cross-bot polling",
+      "version": "1.4.208",
+      "published_at": "2026-06-04T03:54:53Z",
+      "changelog": "Stop stale robot polling loops: suppress repeated missing active code retries and retire unauthorized expired local sessions without repeated cloud end calls",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.207/CloudAppRobot.exe",
-          "sha256": "ce042af8db85cc93a7f415b32eb0a44e2f4308d1c4b6f27ad3e92d12aee5e82e",
-          "size": 37421592
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.208/CloudAppRobot.exe",
+          "sha256": "d103b125fa2c5e487520602709ec2af0995351163481ac8cb28c655993bde11e",
+          "size": 37425264
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.207/CloudAppRobot-bundle.zip",
-          "sha256": "35a702654766673403e306e588b993d629543b5a3b17d566470d1b82ab53b787",
-          "size": 246941916
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.208/CloudAppRobot-bundle.zip",
+          "sha256": "015bd7124b56d051b686bde561201416ffea80ffa8d901386faf107be9649a35",
+          "size": 246954874
         }
       }
     }
