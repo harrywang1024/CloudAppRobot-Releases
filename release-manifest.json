@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.209",
-      "published_at": "2026-06-04T04:30:45Z",
-      "changelog": "Prevent retired local sessions from being reopened by backend active status after unauthorized cloud end attempts",
+      "version": "1.4.210",
+      "published_at": "2026-06-04T06:03:20Z",
+      "changelog": "Make robot monitoring event-driven for unchanged solitaire blocks; cache group buy and snapshot lookups to reduce backend pressure.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.209/CloudAppRobot.exe",
-          "sha256": "3a85e712ac23c807dad38e0796c5c36ce4ec2fe34dcc35132873a9dd31268373",
-          "size": 37426228
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.210/CloudAppRobot.exe",
+          "sha256": "9967ad0efbb409f8a3d04af84432049a0feaece9b5ff1f4f9d073080a6b0d0a7",
+          "size": 37426696
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.209/CloudAppRobot-bundle.zip",
-          "sha256": "a4275c95129663fa29d278e016a106ab6a2bdb1e4b8a6b2ca66b129822033908",
-          "size": 246951911
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.210/CloudAppRobot-bundle.zip",
+          "sha256": "b5fa08225ccae582ec13928750b9753379d666a0ee43d6ace0166c16dac91410",
+          "size": 246956054
         }
       }
     }
