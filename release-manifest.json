@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.212",
-      "published_at": "2026-06-04T07:19:00Z",
-      "changelog": "Throttle robot scheduler to a minimum 30s interval and limit sent-broadcast recovery scans to reduce backend polling.",
+      "version": "1.4.213",
+      "published_at": "2026-06-04T12:20:01Z",
+      "changelog": "Reduce robot monitor runtime log noise for unchanged solitaire blocks.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.212/CloudAppRobot.exe",
-          "sha256": "55ed3cc27386a5c7f676595a66cf38cd6ad6fc26da1e40c073d84b64194b2470",
-          "size": 37429832
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.213/CloudAppRobot.exe",
+          "sha256": "a1c1c5ce84d9a0e357c20fb398242959c23ee8e6419856a1a1484a80dd9cf406",
+          "size": 37429649
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.212/CloudAppRobot-bundle.zip",
-          "sha256": "b7854ad3bfa996302da746207475e0a2013f77a590453dbec9d4ebe235cbb646",
-          "size": 246958845
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.213/CloudAppRobot-bundle.zip",
+          "sha256": "59605ae34f079b323a164d1e617c7d7a5e7f450bf0cba0d1431d6e1a8ad7509f",
+          "size": 246963076
         }
       }
     }
