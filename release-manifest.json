@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.210",
-      "published_at": "2026-06-04T06:03:20Z",
-      "changelog": "Make robot monitoring event-driven for unchanged solitaire blocks; cache group buy and snapshot lookups to reduce backend pressure.",
+      "version": "1.4.211",
+      "published_at": "2026-06-04T06:51:58Z",
+      "changelog": "Scope robot backend sync to current monitored sessions and cache stock/runtime bootstrap calls to reduce polling.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.210/CloudAppRobot.exe",
-          "sha256": "9967ad0efbb409f8a3d04af84432049a0feaece9b5ff1f4f9d073080a6b0d0a7",
-          "size": 37426696
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.211/CloudAppRobot.exe",
+          "sha256": "1e284013e8aefd0b772a159b369c5959b83105b1b7eeb21d56331041680eb8cf",
+          "size": 37429586
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.210/CloudAppRobot-bundle.zip",
-          "sha256": "b5fa08225ccae582ec13928750b9753379d666a0ee43d6ace0166c16dac91410",
-          "size": 246956054
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.211/CloudAppRobot-bundle.zip",
+          "sha256": "aa3b59e239c02a67301577480ee8ed0d3297cc7a1c74ba23f158f24d90a6acd9",
+          "size": 246958137
         }
       }
     }
