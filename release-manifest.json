@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.205",
-      "published_at": "2026-06-04T01:35:19Z",
-      "changelog": "Reduce robot snapshot replay load and guard duplicate group-buy broadcasts",
+      "version": "1.4.206",
+      "published_at": "2026-06-04T02:18:46Z",
+      "changelog": "Limit robot retry polling to monitored groups and drop stale cross-group dirty sessions",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.205/CloudAppRobot.exe",
-          "sha256": "f6cc035a32db592def7bba947d983fd9bb5fa9eb8483d24a3c884e142276f13b",
-          "size": 37420221
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.206/CloudAppRobot.exe",
+          "sha256": "2f4c4ba8dbce85e66787a85f2aa292c0a3ad7d9df194d8fe142ca8543008d152",
+          "size": 37421000
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.205/CloudAppRobot-bundle.zip",
-          "sha256": "98836794a6dbec869697608752b53cd06c7fd4c58b79c37b9f3ef6a56773faca",
-          "size": 246947770
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.206/CloudAppRobot-bundle.zip",
+          "sha256": "a05c3fac07f91357c49458a7cdeb5107160e0a055833288f447735c6ce563d20",
+          "size": 246949606
         }
       }
     }
