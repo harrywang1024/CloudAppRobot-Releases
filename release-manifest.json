@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.219",
-      "published_at": "2026-06-05T04:20:40Z",
-      "changelog": "Further reduce robot server pressure: cache group-buy lookups for 5 minutes, reuse batch status/preflight results, and skip unchanged local snapshot preflight blocks.",
+      "version": "1.4.220",
+      "published_at": "2026-06-05T12:30:46Z",
+      "changelog": "Reduce idle robot server pressure: slower supplier pending polling with idle backoff, 60s broadcast scheduler floor, and local-complete/cloud-key runtime log upload with batching and dedupe.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.219/CloudAppRobot.exe",
-          "sha256": "015a50beb4e856bf977c9dc8f2d44c3026221045566ef3223d398a3d4dbac588",
-          "size": 37439382
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.220/CloudAppRobot.exe",
+          "sha256": "b039b073c4d3d4e3eea24cfbbc50e1d0b1245c01d574c2041c31d92c9860e938",
+          "size": 37441172
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.219/CloudAppRobot-bundle.zip",
-          "sha256": "9ba3f21598903061c48f0725a0d3c0b14e59c52caf67af6442f2b6b30b765925",
-          "size": 246916521
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.220/CloudAppRobot-bundle.zip",
+          "sha256": "a844607f4a41e7a9df0325a377dc45bae8ac870e0ca861158d11be0430d22d52",
+          "size": 246922910
         }
       }
     }
