@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.215",
-      "published_at": "2026-06-04T23:10:09Z",
-      "changelog": "Process cloud-required solitaire snapshots during cold-start and reduce preflight log volume.",
+      "version": "1.4.216",
+      "published_at": "2026-06-05T01:12:21Z",
+      "changelog": "Fix robot solitaire upload when cloud preflight requires upload but local hash cache is unchanged",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.215/CloudAppRobot.exe",
-          "sha256": "9c6d4479346151d2d6230755347836444676371ef6067b487580d6954bdf5bb6",
-          "size": 37436211
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.216/CloudAppRobot.exe",
+          "sha256": "c44f2dc39874495cd67ded68ba14a84793d89d32f4f6913524bfecdeb77f1710",
+          "size": 37434918
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.215/CloudAppRobot-bundle.zip",
-          "sha256": "d0acb32770a3ac0951dc493865a5cc0a20c0376f658563b5c29a2b9c4c315318",
-          "size": 246970960
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.216/CloudAppRobot-bundle.zip",
+          "sha256": "f15b0dd2d9060c0e910dd3fa23f8fc78158966ed2d56f7d6f5c2346356b6b820",
+          "size": 246965787
         }
       }
     }
