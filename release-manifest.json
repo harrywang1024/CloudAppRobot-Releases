@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.221",
-      "published_at": "2026-06-05T17:53:44Z",
-      "changelog": "Reduce leader bot polling load; disable leader-side supplier private scans and robot stock polling; cache runtime routing config safely.",
+      "version": "1.4.222",
+      "published_at": "2026-06-05T19:05:27Z",
+      "changelog": "Disable wx robot supplier-report automation by default; keep backend supplier report APIs untouched.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.221/CloudAppRobot.exe",
-          "sha256": "2cff4763c814ffafdf8842b3a3bc0787b3929112ee2c31d095711c3fedc155fe",
-          "size": 37442865
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.222/CloudAppRobot.exe",
+          "sha256": "fcfe538b19f03ac15afb9c11ee829ece44f251c689d88d363bcea216468a4388",
+          "size": 37443355
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.221/CloudAppRobot-bundle.zip",
-          "sha256": "da47ef15f55ead36326d723c022013d7a9b51481582632df776a1a62b51b2131",
-          "size": 246923106
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.222/CloudAppRobot-bundle.zip",
+          "sha256": "3b6c66c0613341ee015513cb1c815e87eac26c5f6266f87873dca1b6013f401e",
+          "size": 246927598
         }
       }
     }
