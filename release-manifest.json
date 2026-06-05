@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.220",
-      "published_at": "2026-06-05T12:30:46Z",
-      "changelog": "Reduce idle robot server pressure: slower supplier pending polling with idle backoff, 60s broadcast scheduler floor, and local-complete/cloud-key runtime log upload with batching and dedupe.",
+      "version": "1.4.221",
+      "published_at": "2026-06-05T17:53:44Z",
+      "changelog": "Reduce leader bot polling load; disable leader-side supplier private scans and robot stock polling; cache runtime routing config safely.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.220/CloudAppRobot.exe",
-          "sha256": "b039b073c4d3d4e3eea24cfbbc50e1d0b1245c01d574c2041c31d92c9860e938",
-          "size": 37441172
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.221/CloudAppRobot.exe",
+          "sha256": "2cff4763c814ffafdf8842b3a3bc0787b3929112ee2c31d095711c3fedc155fe",
+          "size": 37442865
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.220/CloudAppRobot-bundle.zip",
-          "sha256": "a844607f4a41e7a9df0325a377dc45bae8ac870e0ca861158d11be0430d22d52",
-          "size": 246922910
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.221/CloudAppRobot-bundle.zip",
+          "sha256": "da47ef15f55ead36326d723c022013d7a9b51481582632df776a1a62b51b2131",
+          "size": 246923106
         }
       }
     }
