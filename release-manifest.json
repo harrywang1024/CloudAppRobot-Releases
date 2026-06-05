@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.217",
-      "published_at": "2026-06-05T01:51:59Z",
-      "changelog": "Force active group-buy solitaire codes into WeChat DB snapshot extraction so older active blocks are not pushed out by newer broadcasts",
+      "version": "1.4.218",
+      "published_at": "2026-06-05T02:58:04Z",
+      "changelog": "Reduce robot server polling: disable backend-thread long polling by default, batch group-buy status checks, stop robot stock polling, and throttle command/status sync",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.217/CloudAppRobot.exe",
-          "sha256": "69b26e54ae22c0fcdba7c10cb2c44f11045a2e09e6ff09ab518983abe9b6115c",
-          "size": 37435134
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.218/CloudAppRobot.exe",
+          "sha256": "bdc7ec6e916e4f2eb2575d4d0860877cdc5021910d3838a76f90eee277dc1aab",
+          "size": 37438322
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.217/CloudAppRobot-bundle.zip",
-          "sha256": "ee3bb7a1e5221e51f934f1b788b8af1045271ab2bec7eb499878aee806eca087",
-          "size": 246958443
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.218/CloudAppRobot-bundle.zip",
+          "sha256": "0241119e81024e6285c74f2c9d412577b3b66de8b4170d2f58407e9786a3803e",
+          "size": 246974228
         }
       }
     }
