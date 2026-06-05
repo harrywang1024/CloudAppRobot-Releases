@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.218",
-      "published_at": "2026-06-05T02:58:04Z",
-      "changelog": "Reduce robot server polling: disable backend-thread long polling by default, batch group-buy status checks, stop robot stock polling, and throttle command/status sync",
+      "version": "1.4.219",
+      "published_at": "2026-06-05T04:20:40Z",
+      "changelog": "Further reduce robot server pressure: cache group-buy lookups for 5 minutes, reuse batch status/preflight results, and skip unchanged local snapshot preflight blocks.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.218/CloudAppRobot.exe",
-          "sha256": "bdc7ec6e916e4f2eb2575d4d0860877cdc5021910d3838a76f90eee277dc1aab",
-          "size": 37438322
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.219/CloudAppRobot.exe",
+          "sha256": "015a50beb4e856bf977c9dc8f2d44c3026221045566ef3223d398a3d4dbac588",
+          "size": 37439382
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.218/CloudAppRobot-bundle.zip",
-          "sha256": "0241119e81024e6285c74f2c9d412577b3b66de8b4170d2f58407e9786a3803e",
-          "size": 246974228
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.219/CloudAppRobot-bundle.zip",
+          "sha256": "9ba3f21598903061c48f0725a0d3c0b14e59c52caf67af6442f2b6b30b765925",
+          "size": 246916521
         }
       }
     }
