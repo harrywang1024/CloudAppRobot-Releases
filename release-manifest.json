@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.222",
-      "published_at": "2026-06-05T19:05:27Z",
-      "changelog": "Disable wx robot supplier-report automation by default; keep backend supplier report APIs untouched.",
+      "version": "1.4.223",
+      "published_at": "2026-06-06T01:32:05Z",
+      "changelog": "Suppress repeated leader-bot snapshot uploads when cloud preflight keeps requesting the same unchanged solitaire snapshot.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.222/CloudAppRobot.exe",
-          "sha256": "fcfe538b19f03ac15afb9c11ee829ece44f251c689d88d363bcea216468a4388",
-          "size": 37443355
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.223/CloudAppRobot.exe",
+          "sha256": "14b863cca39524169e0da5b9ff5487d984b041064c60965d18a1dff8286efa4c",
+          "size": 37444614
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.222/CloudAppRobot-bundle.zip",
-          "sha256": "3b6c66c0613341ee015513cb1c815e87eac26c5f6266f87873dca1b6013f401e",
-          "size": 246927598
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.223/CloudAppRobot-bundle.zip",
+          "sha256": "d3b340dd385b4cc54c0a2d061bddc8042b970894f2d9102e9673006b6d440e0a",
+          "size": 246990706
         }
       }
     }
