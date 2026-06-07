@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.223",
-      "published_at": "2026-06-06T01:32:05Z",
-      "changelog": "Suppress repeated leader-bot snapshot uploads when cloud preflight keeps requesting the same unchanged solitaire snapshot.",
+      "version": "1.4.224",
+      "published_at": "2026-06-07T16:49:46Z",
+      "changelog": "Recognize solitaire broadcasts that only carry the group-buy code in the 接龙 marker, matching the new quick-launch copy format.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.223/CloudAppRobot.exe",
-          "sha256": "14b863cca39524169e0da5b9ff5487d984b041064c60965d18a1dff8286efa4c",
-          "size": 37444614
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.224/CloudAppRobot.exe",
+          "sha256": "88a031b4b35c8dc93b0a7baa06f6b3d33afe9454d595cac40cadd28b96afd8e3",
+          "size": 37444640
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.223/CloudAppRobot-bundle.zip",
-          "sha256": "d3b340dd385b4cc54c0a2d061bddc8042b970894f2d9102e9673006b6d440e0a",
-          "size": 246990706
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.224/CloudAppRobot-bundle.zip",
+          "sha256": "a0eadf3286341c35122809b981bbf117e6aeda630c16ae57fd8adf25840bbf70",
+          "size": 246984421
         }
       }
     }
