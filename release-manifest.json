@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.225",
-      "published_at": "2026-06-08T02:34:20Z",
-      "changelog": "Clear local non-terminal send queue and broadcast delivery state after group-buy broadcast ACK failure so cloud pending tasks can be refetched instead of blocking later broadcasts.",
+      "version": "1.4.226",
+      "published_at": "2026-06-08T19:45:52Z",
+      "changelog": "Require WeChat DB confirmation for group-buy broadcasts before ACK so PCVisible copy/send misfires cannot be marked sent.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.225/CloudAppRobot.exe",
-          "sha256": "e8cb55d73e726237dad18e6f2f91ba9f3aee6a83b5d03eca2bec0402aeaf1471",
-          "size": 37445067
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.226/CloudAppRobot.exe",
+          "sha256": "227bba89af08855126348476e3bf2fe9ab6a39db6b833f4c30307af5682bc9e3",
+          "size": 37448200
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.225/CloudAppRobot-bundle.zip",
-          "sha256": "93c866813481397b089e2905a8ce354645ac021483bf3380e6c4abc186e51811",
-          "size": 246986650
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.226/CloudAppRobot-bundle.zip",
+          "sha256": "c8e64c464dd507c686a7c43cbefc697ed543bc5f014dcb1d6e92d36987e86bf2",
+          "size": 246989895
         }
       }
     }
