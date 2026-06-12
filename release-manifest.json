@@ -3,14 +3,14 @@
   "channels": {
     "stable": {
       "version": "1.4.228",
-      "published_at": "2026-06-12T19:20:32Z",
+      "published_at": "2026-06-12T19:30:56Z",
       "changelog": "Stop retrying terminal end_group_buy 410 responses and truncate robot end_group_buy error logs.",
       "assets": {
         "exe": {
           "kind": "exe",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.228/CloudAppRobot.exe",
-          "sha256": "f0242ef58ba0301bae8e57047070ba9bee76d0a288c529ad5f7f82b4f24c3075",
-          "size": 37451831
+          "sha256": "fc49cf5d043dff10ff3b6d161ea25cb017049f530840ef271d921824b0239ee2",
+          "size": 37453716
         },
         "py": {
           "download_url": "",
@@ -20,8 +20,8 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.228/CloudAppRobot-bundle.zip",
-          "sha256": "cfcf445b6bfcf62b1d524b6861d659e99d20635f32a1a66593e18f902053b6a8",
-          "size": 246987740
+          "sha256": "35fc502a0ca2951b9473988cffce9df78221dd9d547b59be85ddf3feb96f425e",
+          "size": 246998410
         }
       }
     }
