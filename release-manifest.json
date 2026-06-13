@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.233",
-      "published_at": "2026-06-13T00:41:33Z",
-      "changelog": "Validation release to test visible manual_update_latest.cmd remote update flow from 1.4.232.",
+      "version": "1.4.234",
+      "published_at": "2026-06-13T01:26:00Z",
+      "changelog": "Clean stale robot runtime handoff state during manual update before restart.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.233/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.234/CloudAppRobot.exe",
           "sha256": "dc8db8f1613bad316e0670a5e87c02c3204d540efb5f5ea6fb9154000b885711",
           "size": 37459049
         },
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.233/CloudAppRobot-bundle.zip",
-          "sha256": "8ec024797234bf86d2848c1d6a326555664309ba918e62240e6154060034430d",
-          "size": 247012376
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.234/CloudAppRobot-bundle.zip",
+          "sha256": "91051e36a5ed14456e646efc6899967c31fa5c09b4a4abe13d8aa33d78911160",
+          "size": 247012722
         }
       }
     }
