@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.231",
-      "published_at": "2026-06-12T23:55:07Z",
-      "changelog": "Validation release for remote updates delegated to manual_update_latest.ps1.",
+      "version": "1.4.232",
+      "published_at": "2026-06-13T00:26:40Z",
+      "changelog": "Remote updates open manual_update_latest.cmd visibly and wait longer for manual update completion.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.231/CloudAppRobot.exe",
-          "sha256": "393d90d5293d3251c0d44d9cb6f9c87f79d896c2233652306b8d6a3af9a5971d",
-          "size": 37458554
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.232/CloudAppRobot.exe",
+          "sha256": "dc8db8f1613bad316e0670a5e87c02c3204d540efb5f5ea6fb9154000b885711",
+          "size": 37459049
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.231/CloudAppRobot-bundle.zip",
-          "sha256": "f944c52c3a7103d873f01dfe1071d8f13b25fde07cb62bcaa3ee5da578829348",
-          "size": 247006613
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.232/CloudAppRobot-bundle.zip",
+          "sha256": "8ef3a30b990420a278553bccee9aa063a45215f794f366eb449fc338fb7ca923",
+          "size": 247012376
         }
       }
     }
