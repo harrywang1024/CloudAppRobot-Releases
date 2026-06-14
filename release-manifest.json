@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.238",
-      "published_at": "2026-06-14T05:02:05Z",
-      "changelog": "Disable robot-side group buy detail/status/order/snapshot preflight queries; keep cloud-owned parsing and upload-only robot flow.",
+      "version": "1.4.239",
+      "published_at": "2026-06-14T18:24:36Z",
+      "changelog": "Thin group-solitaire robot flow: local full-text hash baseline, require sender wxid, upload raw DB text to cloud without local parsing or backend lookups.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.238/CloudAppRobot.exe",
-          "sha256": "f91e3f288b149c72e8371dee4f01f4575a024a769b42af957dbfd6b671fb4cbf",
-          "size": 37457351
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.239/CloudAppRobot.exe",
+          "sha256": "919f4f136dada6e7a0c953585719d3447a7ae8c577107bc7f8a1c54f4bd1c7c2",
+          "size": 37457988
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.238/CloudAppRobot-bundle.zip",
-          "sha256": "e702d50e4ac174f400f370d1d3b3c28f5adc1defc60efe815fb361b5f892c5cf",
-          "size": 246990438
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.239/CloudAppRobot-bundle.zip",
+          "sha256": "c1d317cebab46b0c1940de9c0c23e703d121afcc6518999e84ad12a1b232c751",
+          "size": 246991362
         }
       }
     }
