@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.235",
-      "published_at": "2026-06-13T03:22:27Z",
-      "changelog": "Preserve snapshot captured_at and drop stale retry uploads before replay.",
+      "version": "1.4.236",
+      "published_at": "2026-06-14T03:19:37Z",
+      "changelog": "Remove robot-side group buy detail lookups from broadcast send and status sync; backend parsing remains cloud-side.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.235/CloudAppRobot.exe",
-          "sha256": "817166c92f643582d2478883f27b9450c88301236c01a3684b5b486082f4b06e",
-          "size": 37460654
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.236/CloudAppRobot.exe",
+          "sha256": "34b33314281c3d270436e9cdcda76e1cefbe4bff913ce51a648c1e9b5193a949",
+          "size": 37466629
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.235/CloudAppRobot-bundle.zip",
-          "sha256": "d8ce7be34c785e8fccecb2c7272ce3b40e69341056fdd602e77a9651c305e059",
-          "size": 247010820
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.236/CloudAppRobot-bundle.zip",
+          "sha256": "f95be690e22c755998281bb8f5ade9601ccccd1c58bb1f14fbb1178123354a59",
+          "size": 247010462
         }
       }
     }
