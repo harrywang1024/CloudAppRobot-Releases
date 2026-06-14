@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.237",
-      "published_at": "2026-06-14T04:05:36Z",
-      "changelog": "Fix status panel false Runtime stopped alert after update restart; widen panel and split action buttons.",
+      "version": "1.4.238",
+      "published_at": "2026-06-14T05:02:05Z",
+      "changelog": "Disable robot-side group buy detail/status/order/snapshot preflight queries; keep cloud-owned parsing and upload-only robot flow.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.237/CloudAppRobot.exe",
-          "sha256": "519bba6826df4607764933d113cdccac7b7b42c0be53a5855d2741e034f8b223",
-          "size": 37466865
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.238/CloudAppRobot.exe",
+          "sha256": "f91e3f288b149c72e8371dee4f01f4575a024a769b42af957dbfd6b671fb4cbf",
+          "size": 37457351
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.237/CloudAppRobot-bundle.zip",
-          "sha256": "0a6f80346559230fc19194df05333744a202e4e4b68b0e009c6a2e9fc2138d49",
-          "size": 247013804
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.238/CloudAppRobot-bundle.zip",
+          "sha256": "e702d50e4ac174f400f370d1d3b3c28f5adc1defc60efe815fb361b5f892c5cf",
+          "size": 246990438
         }
       }
     }
