@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.239",
-      "published_at": "2026-06-14T18:24:36Z",
-      "changelog": "Thin group-solitaire robot flow: local full-text hash baseline, require sender wxid, upload raw DB text to cloud without local parsing or backend lookups.",
+      "version": "1.4.240",
+      "published_at": "2026-06-14T19:36:19Z",
+      "changelog": "Thin leader robot guard: first-seen local baseline only, skip non-solitaire text uploads, require sender wxid; backend emergency fast-ack for DB solitaire reports.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.239/CloudAppRobot.exe",
-          "sha256": "919f4f136dada6e7a0c953585719d3447a7ae8c577107bc7f8a1c54f4bd1c7c2",
-          "size": 37457988
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.240/CloudAppRobot.exe",
+          "sha256": "38a7bb8b6c3d5bcd6f2ad129b48ca1bbeeef8e59229a5ba5803270f78d8f319b",
+          "size": 37460727
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.239/CloudAppRobot-bundle.zip",
-          "sha256": "c1d317cebab46b0c1940de9c0c23e703d121afcc6518999e84ad12a1b232c751",
-          "size": 246991362
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.240/CloudAppRobot-bundle.zip",
+          "sha256": "67bc08b7c4feb81b4b3a1250a53aa6c30ed778aca216bca8d11efb8c950eac27",
+          "size": 246990427
         }
       }
     }
