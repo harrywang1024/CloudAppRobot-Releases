@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.240",
-      "published_at": "2026-06-14T19:36:19Z",
-      "changelog": "Thin leader robot guard: first-seen local baseline only, skip non-solitaire text uploads, require sender wxid; backend emergency fast-ack for DB solitaire reports.",
+      "version": "1.4.241",
+      "published_at": "2026-06-14T21:04:56Z",
+      "changelog": "Fix leader group-buy broadcast scheduler gating and DB solitaire candidate selection.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.240/CloudAppRobot.exe",
-          "sha256": "38a7bb8b6c3d5bcd6f2ad129b48ca1bbeeef8e59229a5ba5803270f78d8f319b",
-          "size": 37460727
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.241/CloudAppRobot.exe",
+          "sha256": "716bccb016af7549163e50edbf0fb630fc00da1e766ec1f6afaf402712f8b0f6",
+          "size": 37462220
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.240/CloudAppRobot-bundle.zip",
-          "sha256": "67bc08b7c4feb81b4b3a1250a53aa6c30ed778aca216bca8d11efb8c950eac27",
-          "size": 246990427
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.241/CloudAppRobot-bundle.zip",
+          "sha256": "18aa1971995aa9afe22ff503b253535b2351a5f40f371452477ff16b0ecf0951",
+          "size": 246997175
         }
       }
     }
