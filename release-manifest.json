@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.236",
-      "published_at": "2026-06-14T03:19:37Z",
-      "changelog": "Remove robot-side group buy detail lookups from broadcast send and status sync; backend parsing remains cloud-side.",
+      "version": "1.4.237",
+      "published_at": "2026-06-14T04:05:36Z",
+      "changelog": "Fix status panel false Runtime stopped alert after update restart; widen panel and split action buttons.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.236/CloudAppRobot.exe",
-          "sha256": "34b33314281c3d270436e9cdcda76e1cefbe4bff913ce51a648c1e9b5193a949",
-          "size": 37466629
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.237/CloudAppRobot.exe",
+          "sha256": "519bba6826df4607764933d113cdccac7b7b42c0be53a5855d2741e034f8b223",
+          "size": 37466865
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.236/CloudAppRobot-bundle.zip",
-          "sha256": "f95be690e22c755998281bb8f5ade9601ccccd1c58bb1f14fbb1178123354a59",
-          "size": 247010462
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.237/CloudAppRobot-bundle.zip",
+          "sha256": "0a6f80346559230fc19194df05333744a202e4e4b68b0e009c6a2e9fc2138d49",
+          "size": 247013804
         }
       }
     }
