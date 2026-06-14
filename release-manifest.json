@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.241",
-      "published_at": "2026-06-14T21:04:56Z",
-      "changelog": "Fix leader group-buy broadcast scheduler gating and DB solitaire candidate selection.",
+      "version": "1.4.242",
+      "published_at": "2026-06-14T22:54:19Z",
+      "changelog": "Fix thin solitaire baseline dedupe storm and keep group-buy broadcasts separate from order broadcasts.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.241/CloudAppRobot.exe",
-          "sha256": "716bccb016af7549163e50edbf0fb630fc00da1e766ec1f6afaf402712f8b0f6",
-          "size": 37462220
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.242/CloudAppRobot.exe",
+          "sha256": "1a9e34ce8f4f91c89a17e502b3ee62ae7284b2754459aa9d9e1606f23589ae06",
+          "size": 37462263
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.241/CloudAppRobot-bundle.zip",
-          "sha256": "18aa1971995aa9afe22ff503b253535b2351a5f40f371452477ff16b0ecf0951",
-          "size": 246997175
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.242/CloudAppRobot-bundle.zip",
+          "sha256": "f3e0b22fc46df81036ec4a0f91139f6a94bdc7efcb503b5d127b8c06add4cfca",
+          "size": 246990518
         }
       }
     }
