@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.248",
-      "published_at": "2026-06-15T17:08:47Z",
-      "changelog": "Add local storage governance for robot logs and update caches: rotate runtime logs, prune old manual update work/backup directories, and keep only the latest update artifacts after upgrades.",
+      "version": "1.4.249",
+      "published_at": "2026-06-15T17:48:08Z",
+      "changelog": "Spread robot runtime polling with startup jitter and loop jitter for large fleets; cap production backend Async ActiveJob concurrency to reduce DB/API pressure.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.248/CloudAppRobot.exe",
-          "sha256": "75525f4d1cf9ae28a401667aa8288c0730a4341608f0affd5a35359b5f4c8456",
-          "size": 37471994
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.249/CloudAppRobot.exe",
+          "sha256": "4391d351751f2f693eb161d6404708acd7fa4182759757c11e3b3cb3b8bb9a48",
+          "size": 37473234
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.248/CloudAppRobot-bundle.zip",
-          "sha256": "48eb54fbe98d48b45c4bc2fd9289856fb8926eee60f8f86d81bf2dfb74a1241c",
-          "size": 246951416
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.249/CloudAppRobot-bundle.zip",
+          "sha256": "98ecb86bcb97f15b9b21d6a1f460de6f852f3f93938c39ea6078a537f5d622e0",
+          "size": 246957811
         }
       }
     }
