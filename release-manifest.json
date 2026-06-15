@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.247",
-      "published_at": "2026-06-15T16:13:12Z",
-      "changelog": "Recover missing active group-buy solitaire codes from recent raw WeChat messages before snapshot selection, so edited or skipped same-code blocks are uploaded to the backend.",
+      "version": "1.4.248",
+      "published_at": "2026-06-15T17:08:47Z",
+      "changelog": "Add local storage governance for robot logs and update caches: rotate runtime logs, prune old manual update work/backup directories, and keep only the latest update artifacts after upgrades.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.247/CloudAppRobot.exe",
-          "sha256": "8d708e079cf3cd8f3c3fbd68c70f5921b31f644413b511d286621141e7378222",
-          "size": 37470048
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.248/CloudAppRobot.exe",
+          "sha256": "75525f4d1cf9ae28a401667aa8288c0730a4341608f0affd5a35359b5f4c8456",
+          "size": 37471994
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.247/CloudAppRobot-bundle.zip",
-          "sha256": "6933503738d141a81f002baddc691f8c945851bb323fce4df55be27f28431bdd",
-          "size": 246949069
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.248/CloudAppRobot-bundle.zip",
+          "sha256": "48eb54fbe98d48b45c4bc2fd9289856fb8926eee60f8f86d81bf2dfb74a1241c",
+          "size": 246951416
         }
       }
     }
