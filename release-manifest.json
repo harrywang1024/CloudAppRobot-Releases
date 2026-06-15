@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.244",
-      "published_at": "2026-06-15T03:27:35Z",
-      "changelog": "Fix WeChat solitaire ingest for order lines with parenthesized choice notes such as 1（各3）, preventing valid group-buy solitaire messages from being filtered before backend upload.",
+      "version": "1.4.245",
+      "published_at": "2026-06-15T14:39:05Z",
+      "changelog": "Track recently broadcast group-buy codes and accept the latest matching WeChat solitaire text after manual recall/edit, so edited floors are uploaded when the DB later reads the same code.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.244/CloudAppRobot.exe",
-          "sha256": "8861b4623d38b6e7dd18c3724d0980fdf59e68b2b246b9b3781d63e3290365a2",
-          "size": 37462783
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.245/CloudAppRobot.exe",
+          "sha256": "4d2f3e141bf695eb1f41a263c79e45af91a705ba000e1dd790a601c4bb60655a",
+          "size": 37466482
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.244/CloudAppRobot-bundle.zip",
-          "sha256": "918d872168d3e030b2e2771aa3afd9992562b71f26f256611e33a50aa2f92000",
-          "size": 246936627
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.245/CloudAppRobot-bundle.zip",
+          "sha256": "204ddb027fe29467fc9b58cfa2fdb58beffb82861bf48ef3b06c9b51a980c623",
+          "size": 246942649
         }
       }
     }
