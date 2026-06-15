@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.246",
-      "published_at": "2026-06-15T15:16:43Z",
-      "changelog": "Limit startup recovery of recent broadcast group-buy codes to the recent code-date window and prune stale dirty codes, preventing historical WeChat DB replay floods after robot restart.",
+      "version": "1.4.247",
+      "published_at": "2026-06-15T16:09:51Z",
+      "changelog": "TODO",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.246/CloudAppRobot.exe",
-          "sha256": "b3f027baa0b8e60f587f439b1ff8c92edcbf9cf5a01704bc8ce3246f2a9a812b",
-          "size": 37467396
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.247/CloudAppRobot.exe",
+          "sha256": "8d708e079cf3cd8f3c3fbd68c70f5921b31f644413b511d286621141e7378222",
+          "size": 37470048
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.246/CloudAppRobot-bundle.zip",
-          "sha256": "ef8d0501ed2c6639b9d81c95ec44aef01b2b0b7e6f3990d780fc4da5b58f9ecc",
-          "size": 246942956
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.247/CloudAppRobot-bundle.zip",
+          "sha256": "933f93230f5c249ed39a2868893c6cd52b97e6c85959e66d7aa47de6430e1e27",
+          "size": 246949069
         }
       }
     }
