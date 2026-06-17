@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.252",
-      "published_at": "2026-06-16T00:46:07Z",
-      "changelog": "Relax WeChat solitaire robot gate for marked snapshots; dedupe uploads by normalized snapshot text, group id, and sender id.",
+      "version": "1.4.253",
+      "published_at": "2026-06-17T19:27:32Z",
+      "changelog": "Leader monitor no-code ingest: add local sender/text hash baseline dedupe before backend upload; keep product copy and solitaire floor uploads broad.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.252/CloudAppRobot.exe",
-          "sha256": "0230409ed9b74e5c03df0465449a3e46e6011ce8b95fc038c2cb0d12ee3d8b41",
-          "size": 37477623
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.253/CloudAppRobot.exe",
+          "sha256": "d21efae748c9d5407c0ae5d98318615f17b7d35ddc11f8228302ffd46c77af98",
+          "size": 37481044
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.252/CloudAppRobot-bundle.zip",
-          "sha256": "1c7e0ff8e4f6c16bf1d8c9e96e5fbe420f8c34db950602332607b774fefbd6f8",
-          "size": 247023823
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.253/CloudAppRobot-bundle.zip",
+          "sha256": "140f5033c45db68ea74aae858ad7da55a6349a06ae034cb0c405f7f72af6574a",
+          "size": 247018742
         }
       }
     }
