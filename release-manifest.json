@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.258",
-      "published_at": "2026-06-18T02:29:51Z",
-      "changelog": "Leader monitor safety: cold-start solitaire blocks are recorded into the local hash baseline without uploading old history; no-code auto group-buy ingest is limited to the configured publisher; leader monitor DB scans are bounded and no longer driven by legacy local tracked codes.",
+      "version": "1.4.259",
+      "published_at": "2026-06-18T15:06:36Z",
+      "changelog": "Leader monitor: upload up to 9 same-sender pre-product images for XiaTiantian/me no-code solitaire auto-launch, and temporarily remove Weixin main-window topmost during media export so preview save/copy UI remains accessible.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.258/CloudAppRobot.exe",
-          "sha256": "da60d9f46f641f68cadec9fb4cea620a0d9466fee1159cc935992939ed5936df",
-          "size": 37481372
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.259/CloudAppRobot.exe",
+          "sha256": "9143cd3afe72aaa456b74f0bb179046175c4e59369e4d9b2a90743a543c5a96f",
+          "size": 37489725
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.258/CloudAppRobot-bundle.zip",
-          "sha256": "28476796c138a2cc63238ce524476f6e24209fd20cbe5ef07243f382d4a3a8ac",
-          "size": 246969051
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.259/CloudAppRobot-bundle.zip",
+          "sha256": "2886497e03bf304caa1c64b334cd0ced1d1160534676eae4633b59fce2044a3a",
+          "size": 247033461
         }
       }
     }
