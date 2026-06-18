@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.260",
-      "published_at": "2026-06-18T15:18:28Z",
-      "changelog": "Leader monitor media upload: only use Ctrl+C clipboard export from the Weixin image preview, with screenshot fallback; do not enter the save-as flow. Keeps the media capture limited to same-sender XiaTiantian/me pre-product images for no-code solitaire auto-launch.",
+      "version": "1.4.261",
+      "published_at": "2026-06-18T18:31:30Z",
+      "changelog": "Fix leader pre-product image DB placeholder detection for WeChat composite image local_type; add image gate reason logging. Fix duck blood vermicelli flavor variants so golden soup is kept and spicy flavor is not split.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.260/CloudAppRobot.exe",
-          "sha256": "d5c34260bcbee9218210f4b49baad0beca4f3bd84aa11b3bbdc2c0b7f6094ede",
-          "size": 37489014
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.261/CloudAppRobot.exe",
+          "sha256": "65e1f7eccf1d198db98d554f77c860d6c213b79e14ce0340eb7392e5c22dfbb9",
+          "size": 37489423
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.260/CloudAppRobot-bundle.zip",
-          "sha256": "52e22992f7bfe0cf4d9d173f676c570a2da3764bceae305bcc5e2d0da7f27b5a",
-          "size": 247045631
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.261/CloudAppRobot-bundle.zip",
+          "sha256": "1d039379be3dd01c05f731ca90a5d21dd833ca4eb3b11966bbc266b8abb6ed5d",
+          "size": 247044428
         }
       }
     }
