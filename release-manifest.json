@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.259",
-      "published_at": "2026-06-18T15:06:36Z",
-      "changelog": "Leader monitor: upload up to 9 same-sender pre-product images for XiaTiantian/me no-code solitaire auto-launch, and temporarily remove Weixin main-window topmost during media export so preview save/copy UI remains accessible.",
+      "version": "1.4.260",
+      "published_at": "2026-06-18T15:18:28Z",
+      "changelog": "Leader monitor media upload: only use Ctrl+C clipboard export from the Weixin image preview, with screenshot fallback; do not enter the save-as flow. Keeps the media capture limited to same-sender XiaTiantian/me pre-product images for no-code solitaire auto-launch.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.259/CloudAppRobot.exe",
-          "sha256": "9143cd3afe72aaa456b74f0bb179046175c4e59369e4d9b2a90743a543c5a96f",
-          "size": 37489725
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.260/CloudAppRobot.exe",
+          "sha256": "d5c34260bcbee9218210f4b49baad0beca4f3bd84aa11b3bbdc2c0b7f6094ede",
+          "size": 37489014
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.259/CloudAppRobot-bundle.zip",
-          "sha256": "2886497e03bf304caa1c64b334cd0ced1d1160534676eae4633b59fce2044a3a",
-          "size": 247033461
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.260/CloudAppRobot-bundle.zip",
+          "sha256": "52e22992f7bfe0cf4d9d173f676c570a2da3764bceae305bcc5e2d0da7f27b5a",
+          "size": 247045631
         }
       }
     }
