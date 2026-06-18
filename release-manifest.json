@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.256",
-      "published_at": "2026-06-18T01:36:22Z",
-      "changelog": "Leader group-buy broadcast safety: only backend pending_broadcast may enqueue group_buy_broadcast tasks; stale local broadcast tasks are skipped; keep no-code solitaire order parsing fixes.",
+      "version": "1.4.257",
+      "published_at": "2026-06-18T01:47:53Z",
+      "changelog": "Leader broadcast safety: retire direct group_buys pending_broadcast polling; allow group-buy broadcast sends only from unified backend broadcast queue; stale local group-buy broadcast tasks are skipped.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.256/CloudAppRobot.exe",
-          "sha256": "80c3f1b69ade35a34c1254e5e85357778964f1951546ed254ac433b951750cfc",
-          "size": 37481862
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.257/CloudAppRobot.exe",
+          "sha256": "0f60791c889a6ffd9f917d0f5243c60a470d5b8fd3cd94948ac6cad3a43c21d3",
+          "size": 37480001
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.256/CloudAppRobot-bundle.zip",
-          "sha256": "da4f3fbea5d0cb3121eed34eba7982d73b1d6844279676b72ec051e3b1f244f3",
-          "size": 247021399
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.257/CloudAppRobot-bundle.zip",
+          "sha256": "680094bd9b3358bca208e15970cdf4fdfca333d1a33799739b47be43b1fd2461",
+          "size": 247022931
         }
       }
     }
