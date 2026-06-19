@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.264",
-      "published_at": "2026-06-19T12:52:50Z",
-      "changelog": "Fall back to WeChat media grid export when image preview cannot be opened.",
+      "version": "1.4.265",
+      "published_at": "2026-06-19T13:07:11Z",
+      "changelog": "Add detailed WeChat media export diagnostics and wait for media grid load.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.264/CloudAppRobot.exe",
-          "sha256": "cbcf57c1315d92b6cac0c3cd1ca61877533d9bd7e38b0a94a325d81951213f3f",
-          "size": 37491763
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.265/CloudAppRobot.exe",
+          "sha256": "da69121662c0588439aefb61d6a2558a2ce1ac1f2c9778d71b915c3275cc8800",
+          "size": 37494278
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.264/CloudAppRobot-bundle.zip",
-          "sha256": "070fd169eb968d153ffa630165d0c5bf989c4787486d58ca82ef978cf56a5dcc",
-          "size": 247043676
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.265/CloudAppRobot-bundle.zip",
+          "sha256": "46b5d6ddee5df4e20a6cca7e87610e712ac98706a44e5035c828c7321f7a864d",
+          "size": 247042430
         }
       }
     }
