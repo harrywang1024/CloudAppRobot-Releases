@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.262",
-      "published_at": "2026-06-19T04:07:06Z",
-      "changelog": "Fix Leah leader-monitor pre-product media binding when self-sent WeChat DB messages expose a real sender_wx_id plus sender=me.",
+      "version": "1.4.263",
+      "published_at": "2026-06-19T05:05:29Z",
+      "changelog": "Retry opening WeChat image preview when exporting leader pre-product media.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.262/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.263/CloudAppRobot.exe",
           "sha256": "f09c70c993b9dc9a0dd72fef11e9c222200548155f809b0f9897c245ce82e193",
           "size": 37489780
         },
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.262/CloudAppRobot-bundle.zip",
-          "sha256": "6cd35e7bd986cfdb014f25817b55818d833d5104acc81de0bdcb9938bf3e862d",
-          "size": 247042795
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.263/CloudAppRobot-bundle.zip",
+          "sha256": "7c9cbfc53d6f5d7ef0c486d93c419a2a012f58e4a8ea6bdd94aec0e566a9584d",
+          "size": 247042793
         }
       }
     }
