@@ -3,7 +3,7 @@
   "channels": {
     "stable": {
       "version": "1.4.266",
-      "published_at": "2026-06-19T16:49:44Z",
+      "published_at": "2026-06-19T16:53:58Z",
       "changelog": "TODO",
       "assets": {
         "exe": {
@@ -20,7 +20,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.266/CloudAppRobot-bundle.zip",
-          "sha256": "46f281696d827ed933171094684a03c3fee6bc65eb3bed6d826acef3f657c916",
+          "sha256": "e58780595dd202da7e37536625f9f27e863a24ab7c7accff93606c32d8085c50",
           "size": 247041615
         }
       }
