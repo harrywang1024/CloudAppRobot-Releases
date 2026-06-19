@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.261",
-      "published_at": "2026-06-18T18:31:30Z",
-      "changelog": "Fix leader pre-product image DB placeholder detection for WeChat composite image local_type; add image gate reason logging. Fix duck blood vermicelli flavor variants so golden soup is kept and spicy flavor is not split.",
+      "version": "1.4.262",
+      "published_at": "2026-06-19T04:07:06Z",
+      "changelog": "Fix Leah leader-monitor pre-product media binding when self-sent WeChat DB messages expose a real sender_wx_id plus sender=me.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.261/CloudAppRobot.exe",
-          "sha256": "65e1f7eccf1d198db98d554f77c860d6c213b79e14ce0340eb7392e5c22dfbb9",
-          "size": 37489423
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.262/CloudAppRobot.exe",
+          "sha256": "f09c70c993b9dc9a0dd72fef11e9c222200548155f809b0f9897c245ce82e193",
+          "size": 37489780
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.261/CloudAppRobot-bundle.zip",
-          "sha256": "1d039379be3dd01c05f731ca90a5d21dd833ca4eb3b11966bbc266b8abb6ed5d",
-          "size": 247044428
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.262/CloudAppRobot-bundle.zip",
+          "sha256": "6cd35e7bd986cfdb014f25817b55818d833d5104acc81de0bdcb9938bf3e862d",
+          "size": 247042795
         }
       }
     }
