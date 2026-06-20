@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.268",
-      "published_at": "2026-06-20T02:03:19Z",
-      "changelog": "Fix leader pre-product media collection: collect preceding images without sender filtering and guard WeChat media UI clicks from activating Games.",
+      "version": "1.4.269",
+      "published_at": "2026-06-20T02:54:24Z",
+      "changelog": "Fix leader media export for Chinese and English WeChat media tabs; drop topmost before chat history and support media grid fallback.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.268/CloudAppRobot.exe",
-          "sha256": "9e57fe46de2fba67ca4d604e6a461cda49728ef55a42ca5911ef0792c555e082",
-          "size": 37493938
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.269/CloudAppRobot.exe",
+          "sha256": "fe0d5bb91bedf10aa9661979bbd70cfd433fd6442317d660acdb5da85265dadf",
+          "size": 37495575
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.268/CloudAppRobot-bundle.zip",
-          "sha256": "25fe51f030217b7bdf2ddfbd3b2928635686adf19ce8587a2cbf194c62be9c28",
-          "size": 247048444
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.269/CloudAppRobot-bundle.zip",
+          "sha256": "f1c8aa49c7d163cfdb0854b059f83810109bc50773b3fdb7d43a2c1e77e4fbba",
+          "size": 247043766
         }
       }
     }
