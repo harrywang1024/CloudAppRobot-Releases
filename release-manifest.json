@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.269",
-      "published_at": "2026-06-20T02:54:24Z",
-      "changelog": "Fix leader media export for Chinese and English WeChat media tabs; drop topmost before chat history and support media grid fallback.",
+      "version": "1.4.270",
+      "published_at": "2026-06-20T03:44:41Z",
+      "changelog": "Recognize traditional Chinese media grid image labels",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.269/CloudAppRobot.exe",
-          "sha256": "fe0d5bb91bedf10aa9661979bbd70cfd433fd6442317d660acdb5da85265dadf",
-          "size": 37495575
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.270/CloudAppRobot.exe",
+          "sha256": "de17a53aeae110502e698189090c796dddbec293efa5b515005309f8654fb780",
+          "size": 37495584
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.269/CloudAppRobot-bundle.zip",
-          "sha256": "f1c8aa49c7d163cfdb0854b059f83810109bc50773b3fdb7d43a2c1e77e4fbba",
-          "size": 247043766
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.270/CloudAppRobot-bundle.zip",
+          "sha256": "abec3503e83e4c787d80aeb726cca94415f283f0be164f27b8bde7b16956f404",
+          "size": 247053331
         }
       }
     }
