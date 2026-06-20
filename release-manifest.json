@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.266",
-      "published_at": "2026-06-19T16:53:58Z",
-      "changelog": "TODO",
+      "version": "1.4.267",
+      "published_at": "2026-06-20T01:14:01Z",
+      "changelog": "Route follow group-buy broadcasts through backend command queue and retire legacy pending broadcast polling.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.266/CloudAppRobot.exe",
-          "sha256": "7c661767eeef324190fcbdd92d866c274312aa9c2cb6539b77aab1ffcdf4b95d",
-          "size": 37495204
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.267/CloudAppRobot.exe",
+          "sha256": "88fd7dcae1a093dd34f7d601a455201b1fb10f4424e5b66963bb1de66d4fac8b",
+          "size": 37492073
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.266/CloudAppRobot-bundle.zip",
-          "sha256": "e58780595dd202da7e37536625f9f27e863a24ab7c7accff93606c32d8085c50",
-          "size": 247041615
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.267/CloudAppRobot-bundle.zip",
+          "sha256": "8482f7da9ba6be3ef39cc2443bdf6c87f0a7038b8846cb32f8acb248be5a1769",
+          "size": 247047485
         }
       }
     }
