@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.272",
-      "published_at": "2026-06-20T17:25:57Z",
-      "changelog": "Harden media export session selection before opening chat history",
+      "version": "1.4.273",
+      "published_at": "2026-06-21T04:07:08Z",
+      "changelog": "Fix leader media export chat history window detection",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.272/CloudAppRobot.exe",
-          "sha256": "873a1dae7ee0bd7f2b851802fff26b18152677aba73124072bec095a7610aa69",
-          "size": 37496603
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.273/CloudAppRobot.exe",
+          "sha256": "fd5c61b627e04ed29a996974948c7f54d1dfea0069eb0dc0830ce65c67900884",
+          "size": 37497972
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.272/CloudAppRobot-bundle.zip",
-          "sha256": "30fa1dba4217eab6d8b3326e3cf43e32c1333efa4f6a7e04aff68df099b63b45",
-          "size": 247044648
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.273/CloudAppRobot-bundle.zip",
+          "sha256": "06bc93b20e1a49ff966ad64b0a36a433c0ffaf56ca3aa3395e6713a37b065eda",
+          "size": 247047960
         }
       }
     }
