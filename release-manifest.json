@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.274",
-      "published_at": "2026-06-21T14:51:05Z",
-      "changelog": "Retry opening WeChat chat history via click, double click, and Enter before exporting leader pre-product media; add desktop probe logging for missing history windows.",
+      "version": "1.4.275",
+      "published_at": "2026-06-21T17:22:33Z",
+      "changelog": "Preserve no-code media source evidence through backend processing and add robot uploadability diagnostics for leader pre-product media.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.274/CloudAppRobot.exe",
-          "sha256": "60b50f25842980f5b93745ee118d9f1851532ace5a9aa646ec06a36f40cf3317",
-          "size": 37499127
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.275/CloudAppRobot.exe",
+          "sha256": "9d1578da0ba232d07f8d364415747ec6fdf95990ae3689cd0d17312db05a8a5a",
+          "size": 37499751
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.274/CloudAppRobot-bundle.zip",
-          "sha256": "5bcbb3e360c12928a08faa8bdd15ae753687c385c6d938da9f7b6d89a4d0df14",
-          "size": 247053336
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.275/CloudAppRobot-bundle.zip",
+          "sha256": "76f86cff33796c25febcfe1e638796fb9814c12efc31857e9149e633d3c07704",
+          "size": 247046690
         }
       }
     }
