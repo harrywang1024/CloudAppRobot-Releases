@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.279",
-      "published_at": "2026-06-21T20:07:55Z",
-      "changelog": "Persist wakeup commands before processing copy text broadcasts",
+      "version": "1.4.280",
+      "published_at": "2026-06-21T20:18:10Z",
+      "changelog": "Process update and text broadcast commands from wakeup channel",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.279/CloudAppRobot.exe",
-          "sha256": "45412bd2743cfbda9becbd378e09b9f4449b7cb8952e4fafbf359919e7025004",
-          "size": 37502327
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.280/CloudAppRobot.exe",
+          "sha256": "db05106a4bdbb3f8c5a183ae5ff32e220e84f8086e8ca6508fa2a12b44d44306",
+          "size": 37502395
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.279/CloudAppRobot-bundle.zip",
-          "sha256": "463464c0e85ca26ab953157d9a66abb07e45a33d120e302b60aeb35b56e015a6",
-          "size": 247059170
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.280/CloudAppRobot-bundle.zip",
+          "sha256": "08d5ee409fa22d921d00d455fdd930b19d4034ce92027c399ca61d11cf30f710",
+          "size": 247061430
         }
       }
     }
