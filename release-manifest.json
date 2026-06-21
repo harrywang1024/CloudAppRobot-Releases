@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.276",
-      "published_at": "2026-06-21T17:30:52Z",
-      "changelog": "Do not block no-code product copy ingest when media upload fails; retry text-only with media failure evidence, preserve source media evidence after backend processing, and log uploadability counts.",
+      "version": "1.4.277",
+      "published_at": "2026-06-21T18:49:48Z",
+      "changelog": "Remove 9-image cap and collect only contiguous same-sender pre-product images",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.276/CloudAppRobot.exe",
-          "sha256": "30a8951a1630846e10c8115a19f6f511cf0db92643d26e8a936c6899e7726f5f",
-          "size": 37500908
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.277/CloudAppRobot.exe",
+          "sha256": "f9062600f84864b762a009ceabf4211698034dd5ba2afdbd2fbef7bfdb6c8266",
+          "size": 37501142
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.276/CloudAppRobot-bundle.zip",
-          "sha256": "162b5e9d75322ed399288b29b074d8c682b011869fe707dc457a9bbfcb9890b4",
-          "size": 247061146
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.277/CloudAppRobot-bundle.zip",
+          "sha256": "607079470f33d03867042ee291782a68c104fdc61221b25c5dded977372d479a",
+          "size": 247055115
         }
       }
     }
