@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.282",
-      "published_at": "2026-06-21T21:15:25Z",
-      "changelog": "Allow explicit WeChat text broadcast commands regardless of local role gate",
+      "version": "1.4.283",
+      "published_at": "2026-06-21T21:36:25Z",
+      "changelog": "Clear text broadcast command cache and ack copied group buys after send",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.282/CloudAppRobot.exe",
-          "sha256": "aaaf32fb0d3ec10062eceb5f82d68e514c5092f716de7a95443eac1a6e8f0f47",
-          "size": 37502428
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.283/CloudAppRobot.exe",
+          "sha256": "21f04fed098484b06247194e3d6cb18da797cf96ec19ebcf0c48b735ff21a2a4",
+          "size": 37502842
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.282/CloudAppRobot-bundle.zip",
-          "sha256": "590ea0b3454fe22f5f42791d2da7fc0ac37687e324766c7eb82cc82f41a28077",
-          "size": 247060361
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.283/CloudAppRobot-bundle.zip",
+          "sha256": "da1cbb85e851cacaf9655918f9ec523664e2a7af83d7626b20c94db9f787e050",
+          "size": 247059134
         }
       }
     }
