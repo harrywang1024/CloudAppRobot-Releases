@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.285",
-      "published_at": "2026-06-22T03:04:22Z",
-      "changelog": "Fix runtime remote command cache cleanup so clear_sender_queue cannot repeatedly remove queued media broadcasts.",
+      "version": "1.4.286",
+      "published_at": "2026-06-22T03:42:50Z",
+      "changelog": "Send copied group broadcasts images before text and reject unsafe count-based pre-product media exports.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.285/CloudAppRobot.exe",
-          "sha256": "832e6935e5d2088b0a4dfe7e312b77e0d0765e7a592b73d20a15ffc5af850a49",
-          "size": 37502878
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.286/CloudAppRobot.exe",
+          "sha256": "1cc7d76deb91070b3882ba97fe25c53c4fc5111d486b74fbeaed5539611d4f41",
+          "size": 37504173
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.285/CloudAppRobot-bundle.zip",
-          "sha256": "baee27dab21072882d6eb6ceda36fcfb7affd70ec0ce313073a47591c399ac92",
-          "size": 247057942
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.286/CloudAppRobot-bundle.zip",
+          "sha256": "40558b96da18027d1b282783f5012bbff3ace63e8929f01d2640f04eea4abd89",
+          "size": 247061770
         }
       }
     }
