@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.286",
-      "published_at": "2026-06-22T03:42:50Z",
-      "changelog": "Send copied group broadcasts images before text and reject unsafe count-based pre-product media exports.",
+      "version": "1.4.287",
+      "published_at": "2026-06-22T03:55:48Z",
+      "changelog": "Decode no-code product import images by exact WeChat message local_id and send copied broadcasts images before text.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.286/CloudAppRobot.exe",
-          "sha256": "1cc7d76deb91070b3882ba97fe25c53c4fc5111d486b74fbeaed5539611d4f41",
-          "size": 37504173
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.287/CloudAppRobot.exe",
+          "sha256": "0e2ff6b9f7dcd7dd1102f24f25382df3706c83f847f688891b2140193403c724",
+          "size": 37505074
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.286/CloudAppRobot-bundle.zip",
-          "sha256": "40558b96da18027d1b282783f5012bbff3ace63e8929f01d2640f04eea4abd89",
-          "size": 247061770
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.287/CloudAppRobot-bundle.zip",
+          "sha256": "31a299e0494831aed86286b2274fd86905a54af208d0f7bde84a7fe8305ec0f6",
+          "size": 247062782
         }
       }
     }
