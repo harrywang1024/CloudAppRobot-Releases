@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.284",
-      "published_at": "2026-06-22T01:49:58Z",
-      "changelog": "Fix copied group-buy WeChat broadcasts carrying media items into robot send queue",
+      "version": "1.4.285",
+      "published_at": "2026-06-22T03:04:22Z",
+      "changelog": "Fix runtime remote command cache cleanup so clear_sender_queue cannot repeatedly remove queued media broadcasts.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.284/CloudAppRobot.exe",
-          "sha256": "5417123178163fbcb1f501889e16c588e1df220e4f8512258eed33193b1f1ecf",
-          "size": 37502874
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.285/CloudAppRobot.exe",
+          "sha256": "832e6935e5d2088b0a4dfe7e312b77e0d0765e7a592b73d20a15ffc5af850a49",
+          "size": 37502878
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.284/CloudAppRobot-bundle.zip",
-          "sha256": "fe28fa4523cb9f75376d808dc8e1b28f1bb79771baa7c6315a80e50bea986f53",
-          "size": 247060392
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.285/CloudAppRobot-bundle.zip",
+          "sha256": "baee27dab21072882d6eb6ceda36fcfb7affd70ec0ce313073a47591c399ac92",
+          "size": 247057942
         }
       }
     }
