@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.289",
-      "published_at": "2026-06-22T12:48:53Z",
-      "changelog": "Lock no-code media import to WeChat history preview file copy; reject DB decode, thumbnails, screenshots, and unsafe later-image cases.",
+      "version": "1.4.290",
+      "published_at": "2026-06-22T12:57:45Z",
+      "changelog": "Lock no-code media import to WeChat history preview file copy without DB decode or screenshot fallbacks; do not reject solely for later images.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.289/CloudAppRobot.exe",
-          "sha256": "5889059814e4ec361dfaec2fbefb8822174a0dfc24dcf2342df50c1e7911171b",
-          "size": 37503582
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.290/CloudAppRobot.exe",
+          "sha256": "13a754a37f1844462290d9a7ce3c5bbf99d8aa6eb32b8fa956c9734619624cab",
+          "size": 37503361
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.289/CloudAppRobot-bundle.zip",
-          "sha256": "cfeaeb86ffc13579e1db047caf2cc1e0ab7c490df5416e3184e99dc3cc1ee13f",
-          "size": 247060358
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.290/CloudAppRobot-bundle.zip",
+          "sha256": "0c2b7e6739a922a1dc5702190a2dd02c8362f55ea9d9124e02509dc4a4e9cbe7",
+          "size": 247062200
         }
       }
     }
