@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.307",
-      "published_at": "2026-06-23T18:29:43Z",
-      "changelog": "fix WeChat video media save continuation and managed-folder detection",
+      "version": "1.4.308",
+      "published_at": "2026-06-23T20:23:58Z",
+      "changelog": "fix WeChat media preview export continuing within preview after save failure",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.307/CloudAppRobot.exe",
-          "sha256": "a32c7247c3f640924346be4dc17909e4ab4fd1f67dc417bf4427c4cc232d3d06",
-          "size": 37523900
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.308/CloudAppRobot.exe",
+          "sha256": "7bbf89ccdfbcb638b2763d647ab2df8ecb41288278c936fa6b0166fc55d7f383",
+          "size": 37523969
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.307/CloudAppRobot-bundle.zip",
-          "sha256": "2fde69c09d1f458d157665ec23198b7750b88de73f2ad0eaa5b762a313c7dcc3",
-          "size": 247083480
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.308/CloudAppRobot-bundle.zip",
+          "sha256": "90f3f49ac667a0f9d3006582d2ee3e921b710f84b78bc3effb0c3c6bdcbbce50",
+          "size": 247081467
         }
       }
     }
