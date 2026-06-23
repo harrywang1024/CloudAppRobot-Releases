@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.297",
-      "published_at": "2026-06-23T02:56:36Z",
-      "changelog": "support English WeChat Save dialogs and Image/Video filenames",
+      "version": "1.4.298",
+      "published_at": "2026-06-23T03:04:47Z",
+      "changelog": "support English Save dialogs and force WeChat below media save windows",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.297/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.298/CloudAppRobot.exe",
           "sha256": "7a577ac7f73b12a590b45e6589f0c1447abad4f2392445d936554e5c6434b709",
           "size": 37508979
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.297/CloudAppRobot-bundle.zip",
-          "sha256": "2a07f97b2a4cbd22ba5c7f74bb5ab3eff1b32d76417ec2c8585ed17ca30b1771",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.298/CloudAppRobot-bundle.zip",
+          "sha256": "26643c280c944ad1df656ed31e026571cb5830173a5e891baf6513926e594f5d",
           "size": 247066065
         }
       }
