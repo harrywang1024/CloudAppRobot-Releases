@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.294",
-      "published_at": "2026-06-23T01:17:12Z",
-      "changelog": "use Ctrl+S fallback to save WeChat preview images with strict local_id validation",
+      "version": "1.4.295",
+      "published_at": "2026-06-23T01:39:37Z",
+      "changelog": "validate WeChat saved image filenames with short image prefix and clean per-run media folder",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.294/CloudAppRobot.exe",
-          "sha256": "2b1be50dd5ccc3593b8598358ea1a82dc1dd882defea9b8b8007ef612f43474a",
-          "size": 37508823
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.295/CloudAppRobot.exe",
+          "sha256": "7a577ac7f73b12a590b45e6589f0c1447abad4f2392445d936554e5c6434b709",
+          "size": 37508979
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.294/CloudAppRobot-bundle.zip",
-          "sha256": "08423033f4064b40357cbaffbcb488af84be4d9b53d648f30ae4a814db58f211",
-          "size": 247062265
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.295/CloudAppRobot-bundle.zip",
+          "sha256": "5f19213b6ffff7c05bfcc9a26ed95bd634dec09b2d0cfcf0e4d8860503678f90",
+          "size": 247066065
         }
       }
     }
