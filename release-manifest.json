@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.301",
-      "published_at": "2026-06-23T04:21:55Z",
-      "changelog": "detect WeChat Save dialog by foreground hwnd and save validated preview media directly",
+      "version": "1.4.302",
+      "published_at": "2026-06-23T04:43:49Z",
+      "changelog": "save WeChat preview media through focused Save dialog keyboard path",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.301/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.302/CloudAppRobot.exe",
           "sha256": "7a577ac7f73b12a590b45e6589f0c1447abad4f2392445d936554e5c6434b709",
           "size": 37508979
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.301/CloudAppRobot-bundle.zip",
-          "sha256": "46e841336e625bd0477f6545656c0a7b7ef7ed38991968a80084b42ce776dd41",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.302/CloudAppRobot-bundle.zip",
+          "sha256": "e9e719a0bf879c2fec8156122b00a242748dac92e9fd27ae69f3395b80045949",
           "size": 247066065
         }
       }
