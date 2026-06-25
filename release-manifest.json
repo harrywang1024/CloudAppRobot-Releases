@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.313",
-      "published_at": "2026-06-25T04:37:45Z",
-      "changelog": "No-code import: keep strictly validated partial media, improve WeChat preview save handling, and relax robot-side solitaire candidate filtering.",
+      "version": "1.4.314",
+      "published_at": "2026-06-25T19:57:47Z",
+      "changelog": "Wechat moments: auto enqueue after group-buy launch/copy, split media batches, and defer UIA queue claims to avoid broadcast/import conflicts.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.313/CloudAppRobot.exe",
-          "sha256": "64563ce4f79b992c3198de2d7086a99eaace4922dcc4c379a080fecccb55776e",
-          "size": 37531270
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.314/CloudAppRobot.exe",
+          "sha256": "a48588b0bb288260ed18fd1ae5fad2ecac5f5b23c709309c15cf6611124d78b8",
+          "size": 37531997
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.313/CloudAppRobot-bundle.zip",
-          "sha256": "c5468dac0f4440d65d758753d31c2d9582ebef2a996a6dbcce4cfe56fe0f4727",
-          "size": 247090012
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.314/CloudAppRobot-bundle.zip",
+          "sha256": "ec8d5effd4d4fdd6acf1f5f982164b27d4b390886f7a02dd6513c9d0f1389b0c",
+          "size": 247088096
         }
       }
     }
