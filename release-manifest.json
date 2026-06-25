@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.311",
-      "published_at": "2026-06-24T22:49:34Z",
-      "changelog": "Relax validated WeChat media size gate after local_id filename match",
+      "version": "1.4.312",
+      "published_at": "2026-06-25T01:04:50Z",
+      "changelog": "Fix no-code solitaire candidate gating and WeChat media save dialog handling",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.311/CloudAppRobot.exe",
-          "sha256": "cbb8f219fd2085c61aad60f14539cf854efe995566356e8f737bfe981588bafa",
-          "size": 37528434
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.312/CloudAppRobot.exe",
+          "sha256": "a7fa06378567e302b5e2934148092f729d9e15b10dcd27bd9f322d50f4096bfb",
+          "size": 37530157
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.311/CloudAppRobot-bundle.zip",
-          "sha256": "1042af331156e7203377ec91cf612cb5296b534db5c28e6ff33e5bf5efbeee61",
-          "size": 247081986
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.312/CloudAppRobot-bundle.zip",
+          "sha256": "7e78bb7ef7bc17989db04f196bf4502b9bd19fb6ef62d6800969704992904864",
+          "size": 247085317
         }
       }
     }
