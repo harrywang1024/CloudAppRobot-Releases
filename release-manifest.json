@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.316",
-      "published_at": "2026-06-26T01:45:45Z",
-      "changelog": "Fix WeChat Moments media download hard timeout; fail incomplete media downloads instead of leaving commands running or posting text-only.",
+      "version": "1.4.317",
+      "published_at": "2026-06-26T18:40:48Z",
+      "changelog": "Accept sender-filled short solitaire floors in WeChat DB snapshots.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.316/CloudAppRobot.exe",
-          "sha256": "cf41102a1806659562b28a39244a43db4cb0ec03c6c6e8d64eb1042dca99d117",
-          "size": 37533203
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.317/CloudAppRobot.exe",
+          "sha256": "ae6c77467e976b6ef0df3aac0397868ea7c088b96079416cbd5f74c51606d0a9",
+          "size": 37533866
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.316/CloudAppRobot-bundle.zip",
-          "sha256": "7c3642e968bb4018b5e3a326d51576aa2719e980d6989828ecb844d4b984e455",
-          "size": 247091026
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.317/CloudAppRobot-bundle.zip",
+          "sha256": "df2efce539f88f1ef1c432309781bbf878df5833472160b06026db2b5cbe8a65",
+          "size": 247087878
         }
       }
     }
