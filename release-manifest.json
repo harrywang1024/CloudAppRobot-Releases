@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.314",
-      "published_at": "2026-06-25T19:57:47Z",
-      "changelog": "Wechat moments: auto enqueue after group-buy launch/copy, split media batches, and defer UIA queue claims to avoid broadcast/import conflicts.",
+      "version": "1.4.315",
+      "published_at": "2026-06-26T00:56:06Z",
+      "changelog": "Emergency fix: prevent completed WeChat Moments queue tasks from being replayed; restart will clear sender queue before resuming.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.314/CloudAppRobot.exe",
-          "sha256": "a48588b0bb288260ed18fd1ae5fad2ecac5f5b23c709309c15cf6611124d78b8",
-          "size": 37531997
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.315/CloudAppRobot.exe",
+          "sha256": "47c228149caf1e18918a1bed20416d46409f1d869f7cd8e03e977269e3c61e35",
+          "size": 37532191
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.314/CloudAppRobot-bundle.zip",
-          "sha256": "ec8d5effd4d4fdd6acf1f5f982164b27d4b390886f7a02dd6513c9d0f1389b0c",
-          "size": 247088096
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.315/CloudAppRobot-bundle.zip",
+          "sha256": "560123fd66c2ff4db362cbf7658b653114d3eaa21082ed0489b1b6381b2b003b",
+          "size": 247086664
         }
       }
     }
