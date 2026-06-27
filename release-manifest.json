@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.320",
-      "published_at": "2026-06-27T17:36:49Z",
-      "changelog": "Isolate Moments upload staging from media exports and save WeChat media exports to explicit target paths.",
+      "version": "1.4.321",
+      "published_at": "2026-06-27T18:10:44Z",
+      "changelog": "Clean stale comtypes UIAutomation cache once per robot version before role imports.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.320/CloudAppRobot.exe",
-          "sha256": "689f5fc3a41e514f235efdaf3ea863133cdb4e91939147fa937189eaca5a479c",
-          "size": 37537444
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.321/CloudAppRobot.exe",
+          "sha256": "09c6f5ac23480892052bb2dfd21131f05a09453821bb48d3d276f5db7f756519",
+          "size": 37542680
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.320/CloudAppRobot-bundle.zip",
-          "sha256": "b152f84679dd9ba332a9313ba44f8f448cfaa133a9d08fa486d8f6e79ca6564c",
-          "size": 247086132
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.321/CloudAppRobot-bundle.zip",
+          "sha256": "20e2ae7e67db8886f9a9b115e86b47050129bddb8c8f3c379880701de57e90d8",
+          "size": 247103063
         }
       }
     }
