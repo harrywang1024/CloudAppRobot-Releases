@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.318",
-      "published_at": "2026-06-27T02:19:20Z",
-      "changelog": "Accept no-code solitaire updates with choice-only or buyer-only floors; prevent active copy groups from duplicating; preserve support bundles.",
+      "version": "1.4.319",
+      "published_at": "2026-06-27T02:36:53Z",
+      "changelog": "Accept no-code solitaire updates with choice-only or buyer-only floors; match active copy groups without a 24h duplicate window; keep support bundles; avoid treating solitaire dates as prices.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.318/CloudAppRobot.exe",
-          "sha256": "d252cbf6db933314fc773e48efe8ae80a60bf0195ef3d5af50f4319127d77877",
-          "size": 37536287
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.319/CloudAppRobot.exe",
+          "sha256": "95b0012169f7c82da2d74956a438809b13b507d5929f018ec50e2747403dc8c9",
+          "size": 37536441
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.318/CloudAppRobot-bundle.zip",
-          "sha256": "fc5ca295855c5067512afc7257e86308bb925f582c28e06db5384a2daa077fdf",
-          "size": 247089837
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.319/CloudAppRobot-bundle.zip",
+          "sha256": "94ce3aa58aba4920696fff5b0da4881d31d5b508088fce262f81bd1d409b3b72",
+          "size": 247090951
         }
       }
     }
