@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.326",
-      "published_at": "2026-07-02T03:20:46Z",
-      "changelog": "Clean manual update work and backup artifacts after robot updates",
+      "version": "1.4.327",
+      "published_at": "2026-07-02T04:39:33Z",
+      "changelog": "Verify and speed up WeChat Moments text paste before publishing",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.326/CloudAppRobot.exe",
-          "sha256": "5e5d7d30c66a765071209283cc9d099bc965f659bafaa1e6018b258c28fe61d0",
-          "size": 37545891
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.327/CloudAppRobot.exe",
+          "sha256": "d5708ccd877790c89c15f1bee3b27a13a6224d173305690ad835392e35d29621",
+          "size": 37547348
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.326/CloudAppRobot-bundle.zip",
-          "sha256": "3e517bbeba64b891c942d1baff7b630f1672783da2447fbe2f59c0928d898bed",
-          "size": 247045238
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.327/CloudAppRobot-bundle.zip",
+          "sha256": "cd8853fa10809cdd453eb5fea4c433bce7b086b514b7d3afe3ae575f609fead0",
+          "size": 247046474
         }
       }
     }
