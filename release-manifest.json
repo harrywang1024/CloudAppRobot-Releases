@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.330",
-      "published_at": "2026-07-02T16:58:48Z",
-      "changelog": "Skip self copied no-code imports in fallback leader monitor",
+      "version": "1.4.331",
+      "published_at": "2026-07-02T17:07:49Z",
+      "changelog": "Skip fallback self copied product imports but keep self order floors",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.330/CloudAppRobot.exe",
-          "sha256": "db5e468cfc64ad39f19c46f45790f3ef40c9c8c0ec9efbf52ea860e31e376ff1",
-          "size": 37548897
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.331/CloudAppRobot.exe",
+          "sha256": "68eef54da7e423da4da4a206ebf5b100985ec5484b926c69fc73474584fc046b",
+          "size": 37549288
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.330/CloudAppRobot-bundle.zip",
-          "sha256": "18fc31ea744c9887a29e4c8e99972982af4419c7cdfd32d39548ca14a209c5ed",
-          "size": 247099878
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.331/CloudAppRobot-bundle.zip",
+          "sha256": "857912e8f463c2e2740c1cf0d565d03027cc5211d6465512c814c322eb6d7e07",
+          "size": 247109896
         }
       }
     }
