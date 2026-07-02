@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.329",
-      "published_at": "2026-07-02T16:36:27Z",
-      "changelog": "Use center-click to open WeChat chat history for fallback media export",
+      "version": "1.4.330",
+      "published_at": "2026-07-02T16:58:48Z",
+      "changelog": "Skip self copied no-code imports in fallback leader monitor",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.329/CloudAppRobot.exe",
-          "sha256": "041008cae40b4693f285c0ee1d412335f7dfe539accac1bf5b790eb94d9967a2",
-          "size": 37547494
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.330/CloudAppRobot.exe",
+          "sha256": "db5e468cfc64ad39f19c46f45790f3ef40c9c8c0ec9efbf52ea860e31e376ff1",
+          "size": 37548897
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.329/CloudAppRobot-bundle.zip",
-          "sha256": "1b08d3c4cb0b0be7e8bcce2c2be57ea41a6ebc72e65a52ad3e9501a3c81d45b3",
-          "size": 247112306
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.330/CloudAppRobot-bundle.zip",
+          "sha256": "18fc31ea744c9887a29e4c8e99972982af4419c7cdfd32d39548ca14a209c5ed",
+          "size": 247099878
         }
       }
     }
