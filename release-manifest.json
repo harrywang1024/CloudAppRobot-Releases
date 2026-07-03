@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.335",
-      "published_at": "2026-07-03T02:06:14Z",
-      "changelog": "Skip copied group-buy broadcasts before media export",
+      "version": "1.4.336",
+      "published_at": "2026-07-03T04:20:17Z",
+      "changelog": "Recognize continuation empty solitaire scaffolds",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.335/CloudAppRobot.exe",
-          "sha256": "7c0f1816d2317690db30b77e35d8ee0fd55f2d953a893c335aa397f5f6ae04a0",
-          "size": 37549999
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.336/CloudAppRobot.exe",
+          "sha256": "fb786cbd6baa8786094f7f0b6c1e3a126a53dd1aac4a7cab3fcec3b32bb4f317",
+          "size": 37550443
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.335/CloudAppRobot-bundle.zip",
-          "sha256": "44fcdc8d1a51fcb44d14f61a5a17e284c3cc54d6a980693d9dbcdced9f423be6",
-          "size": 247054153
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.336/CloudAppRobot-bundle.zip",
+          "sha256": "63b389515a878e597ebae6f51f62e2b8d4fe037b986b6f917cdd10ceb70ee4cd",
+          "size": 247109416
         }
       }
     }
