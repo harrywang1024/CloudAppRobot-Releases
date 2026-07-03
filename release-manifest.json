@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.334",
-      "published_at": "2026-07-02T20:25:47Z",
-      "changelog": "Cap leader media import batches to prevent Weixin save dialog stalls",
+      "version": "1.4.335",
+      "published_at": "2026-07-03T02:06:14Z",
+      "changelog": "Skip copied group-buy broadcasts before media export",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.334/CloudAppRobot.exe",
-          "sha256": "425f55d83e4ffb5d7d5b26ed0b30552290feb055a26d11dd0168c9736599e294",
-          "size": 37549783
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.335/CloudAppRobot.exe",
+          "sha256": "7c0f1816d2317690db30b77e35d8ee0fd55f2d953a893c335aa397f5f6ae04a0",
+          "size": 37549999
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.334/CloudAppRobot-bundle.zip",
-          "sha256": "8d793672d8d71087653082d15ce184dab9d53dbd682aa46a942bc565ed1688cb",
-          "size": 247046315
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.335/CloudAppRobot-bundle.zip",
+          "sha256": "44fcdc8d1a51fcb44d14f61a5a17e284c3cc54d6a980693d9dbcdced9f423be6",
+          "size": 247054153
         }
       }
     }
