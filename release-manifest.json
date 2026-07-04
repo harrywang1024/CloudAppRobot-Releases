@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.336",
-      "published_at": "2026-07-03T04:20:17Z",
-      "changelog": "Recognize continuation empty solitaire scaffolds",
+      "version": "1.4.337",
+      "published_at": "2026-07-04T18:34:56Z",
+      "changelog": "Serialize WeChat UI automation tasks",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.336/CloudAppRobot.exe",
-          "sha256": "fb786cbd6baa8786094f7f0b6c1e3a126a53dd1aac4a7cab3fcec3b32bb4f317",
-          "size": 37550443
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.337/CloudAppRobot.exe",
+          "sha256": "ae80990928237c41714371c5c0e856c573670d7f310f4b1cc72d703dded1cea6",
+          "size": 37553491
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.336/CloudAppRobot-bundle.zip",
-          "sha256": "63b389515a878e597ebae6f51f62e2b8d4fe037b986b6f917cdd10ceb70ee4cd",
-          "size": 247109416
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.337/CloudAppRobot-bundle.zip",
+          "sha256": "68bb056f6c09025408974ece294fffcc70a14e88934a4dd6d9c15e1559c64b1d",
+          "size": 247105769
         }
       }
     }
