@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.341",
-      "published_at": "2026-07-10T18:00:13Z",
-      "changelog": "Verify WeChat topmost state before media export",
+      "version": "1.4.342",
+      "published_at": "2026-07-13T22:21:52Z",
+      "changelog": "Open full WeChat preview before media export",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.341/CloudAppRobot.exe",
-          "sha256": "1945fca564c7f4fd3b3b283427df6266e269d46f447e3b3b1205bfdf1a3d7782",
-          "size": 37562041
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.342/CloudAppRobot.exe",
+          "sha256": "401491d03c405625e5240641031587217d9c6b122b671cf8cc5fd70e1071b006",
+          "size": 37557177
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.341/CloudAppRobot-bundle.zip",
-          "sha256": "2f84bb42bf5dd15bf72d3dbaadfd923133b5b7a6d18521cd254cc2d132ebc9f1",
-          "size": 247116613
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.342/CloudAppRobot-bundle.zip",
+          "sha256": "35c70c301de549c9d1b655e8de02592bc804fc43e8fcd62c51c81f94fd53a5a9",
+          "size": 247123499
         }
       }
     }
