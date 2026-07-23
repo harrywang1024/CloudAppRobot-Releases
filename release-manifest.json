@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.342",
-      "published_at": "2026-07-13T22:21:52Z",
-      "changelog": "Open full WeChat preview before media export",
+      "version": "1.4.343",
+      "published_at": "2026-07-23T23:11:35Z",
+      "changelog": "Add local dedupe guard for WeChat group text broadcasts: terminal command tasks are not re-enqueued, already-sent broadcasts only retry cloud ACK, and command broadcast lease is extended for slow media/network conditions.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.342/CloudAppRobot.exe",
-          "sha256": "401491d03c405625e5240641031587217d9c6b122b671cf8cc5fd70e1071b006",
-          "size": 37557177
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.343/CloudAppRobot.exe",
+          "sha256": "bf6f33cee562a678e1b92a4e5719bbb8ab12343a64576a5324d6076896cbfd28",
+          "size": 37558744
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.342/CloudAppRobot-bundle.zip",
-          "sha256": "35c70c301de549c9d1b655e8de02592bc804fc43e8fcd62c51c81f94fd53a5a9",
-          "size": 247123499
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.343/CloudAppRobot-bundle.zip",
+          "sha256": "8e42dc72afd97d3a6ad9062e633dddc28bafeb519d1fb65e876aade81de7a6f5",
+          "size": 247119619
         }
       }
     }
