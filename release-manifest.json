@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.346",
-      "published_at": "2026-07-27T23:33:25Z",
-      "changelog": "Refine Moments replay guard: skip only previous-day stale Moments queue residue while preserving same-day unsent Moments tasks for normal delivery; include command issued_at in local queue tasks for day-based safety.",
+      "version": "1.4.347",
+      "published_at": "2026-07-27T23:48:02Z",
+      "changelog": "Prioritize WeChat media export/image import UI tasks ahead of Moments publishing; fail Moments tasks with missing local images before opening WeChat UI to avoid blocking product image import.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.346/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.347/CloudAppRobot.exe",
           "sha256": "4131ceeeb59b16ae2e2de9bc385bc9eb6b61ae5c13563bbeae4f3bb97419ab24",
           "size": 37561244
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.346/CloudAppRobot-bundle.zip",
-          "sha256": "53a014a6a136abd794885d48e308cf8359f30ddcf4e4c9fc0d84f8a9182a1c77",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.347/CloudAppRobot-bundle.zip",
+          "sha256": "d10140534c0f3befa05b8b20f59d4589ec7bfd233720e6e4c4025fa88ec4f5a0",
           "size": 247109624
         }
       }
