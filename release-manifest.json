@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.343",
-      "published_at": "2026-07-23T23:11:35Z",
-      "changelog": "Add local dedupe guard for WeChat group text broadcasts: terminal command tasks are not re-enqueued, already-sent broadcasts only retry cloud ACK, and command broadcast lease is extended for slow media/network conditions.",
+      "version": "1.4.344",
+      "published_at": "2026-07-27T22:19:31Z",
+      "changelog": "Fix Leah image import interference from Moments: close stale Moments/file picker windows before media export and stop terminal Moments commands from repeatedly refreshing backend state or occupying sender queue.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.343/CloudAppRobot.exe",
-          "sha256": "bf6f33cee562a678e1b92a4e5719bbb8ab12343a64576a5324d6076896cbfd28",
-          "size": 37558744
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.344/CloudAppRobot.exe",
+          "sha256": "7c9dfacbf4dbabf2bebc0d43cd5fcb074e092d398793532cc57eedeb36690881",
+          "size": 37559447
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.343/CloudAppRobot-bundle.zip",
-          "sha256": "8e42dc72afd97d3a6ad9062e633dddc28bafeb519d1fb65e876aade81de7a6f5",
-          "size": 247119619
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.344/CloudAppRobot-bundle.zip",
+          "sha256": "be67fa36986997d566a2da9b93da7f3664ca696b821a8efa5cada8a6fa9d0db8",
+          "size": 247122288
         }
       }
     }
