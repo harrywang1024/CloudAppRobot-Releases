@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.345",
-      "published_at": "2026-07-27T22:43:01Z",
-      "changelog": "Prevent old Moments posts from being republished: stale queued/running Moments tasks expire without retry, startup recovery skips Moments publish tasks, and existing queued/running Moments tasks are never refreshed for re-execution.",
+      "version": "1.4.346",
+      "published_at": "2026-07-27T23:33:25Z",
+      "changelog": "Refine Moments replay guard: skip only previous-day stale Moments queue residue while preserving same-day unsent Moments tasks for normal delivery; include command issued_at in local queue tasks for day-based safety.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.345/CloudAppRobot.exe",
-          "sha256": "edb05f430294fa4e0455ae1641d72043c8bf3d115723bb117b06c1aef1d5d55f",
-          "size": 37559901
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.346/CloudAppRobot.exe",
+          "sha256": "4131ceeeb59b16ae2e2de9bc385bc9eb6b61ae5c13563bbeae4f3bb97419ab24",
+          "size": 37561244
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.345/CloudAppRobot-bundle.zip",
-          "sha256": "961fea785227e8362f009270cbf1c99f71e4812020da68a93eb6e8a5b14efc6c",
-          "size": 247114529
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.346/CloudAppRobot-bundle.zip",
+          "sha256": "53a014a6a136abd794885d48e308cf8359f30ddcf4e4c9fc0d84f8a9182a1c77",
+          "size": 247109624
         }
       }
     }
