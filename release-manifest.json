@@ -3,14 +3,14 @@
   "channels": {
     "stable": {
       "version": "1.4.348",
-      "published_at": "2026-07-30T02:14:36Z",
+      "published_at": "2026-07-30T02:37:29Z",
       "changelog": "Skip coded group-buy broadcasts before no-code media export; keep uncoded no-code product copy import enabled.",
       "assets": {
         "exe": {
           "kind": "exe",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.348/CloudAppRobot.exe",
-          "sha256": "4131ceeeb59b16ae2e2de9bc385bc9eb6b61ae5c13563bbeae4f3bb97419ab24",
-          "size": 37561244
+          "sha256": "8f97f4187ed69f8a063d75060479f1f5c90cd6052f8aec4af83c7994ac79697e",
+          "size": 37561633
         },
         "py": {
           "download_url": "",
@@ -20,8 +20,8 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.348/CloudAppRobot-bundle.zip",
-          "sha256": "8d76ed0f258bd653b6aa0c54de3fbeebad82a31ee64488a8024e54694b01a193",
-          "size": 247109624
+          "sha256": "957b5690ab60118eecb8917774d3e6ed700a97e2472b30e85fc8dacdf26de15d",
+          "size": 247124068
         }
       }
     }
