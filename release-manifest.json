@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.348",
-      "published_at": "2026-07-30T02:37:29Z",
-      "changelog": "Skip coded group-buy broadcasts before no-code media export; keep uncoded no-code product copy import enabled.",
+      "version": "1.4.349",
+      "published_at": "2026-07-31T01:40:45Z",
+      "changelog": "Prevent sender broadcasts from auto-starting Narrator or cold-recovering WeChat UIA; fail UIA-not-ready send tasks instead of requeue loops; clear sender queue now clears UIA recovery residue.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.348/CloudAppRobot.exe",
-          "sha256": "8f97f4187ed69f8a063d75060479f1f5c90cd6052f8aec4af83c7994ac79697e",
-          "size": 37561633
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.349/CloudAppRobot.exe",
+          "sha256": "5db88d84548277f7e88846eafbf82b35e9bc5f0297e4831f85634fefd7e8799a",
+          "size": 37562096
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.348/CloudAppRobot-bundle.zip",
-          "sha256": "957b5690ab60118eecb8917774d3e6ed700a97e2472b30e85fc8dacdf26de15d",
-          "size": 247124068
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.349/CloudAppRobot-bundle.zip",
+          "sha256": "8b0a7b0b7d989332285d73288b33786b5e05a37b83a1aae5e49979c4bf56aa8c",
+          "size": 247110013
         }
       }
     }
