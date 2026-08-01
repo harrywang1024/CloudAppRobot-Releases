@@ -2,13 +2,13 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.350",
-      "published_at": "2026-08-01T00:29:13Z",
-      "changelog": "Fix copy broadcast ack/media races: skip self-sent coded group-buy broadcasts in leader no-code import, and keep media-export tasks behind WeChat broadcasts to avoid UIA queue contention.",
+      "version": "1.4.349",
+      "published_at": "2026-08-01T00:36:35Z",
+      "changelog": "Rollback stable metadata to v1.4.349 while sender broadcast root-cause fix is being completed.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.350/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.349/CloudAppRobot.exe",
           "sha256": "50a9a4246871401be2439bc4a6d9029b46fd2b0c6efe94247fb0c5ae10d0d70c",
           "size": 37562373
         },
@@ -19,8 +19,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.350/CloudAppRobot-bundle.zip",
-          "sha256": "4afaf35a7dc0f94a66c063515e4431e5514b0a93c748c66582753284b731698a",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.349/CloudAppRobot-bundle.zip",
+          "sha256": "51d6ddd14382febab1ac7285fc48d087beb6e5372de4dff5bdd166265ef2aa1e",
           "size": 247126167
         }
       }
