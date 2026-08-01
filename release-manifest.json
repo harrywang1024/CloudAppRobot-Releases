@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.349",
-      "published_at": "2026-08-01T00:36:35Z",
-      "changelog": "Rollback stable metadata to v1.4.349 while sender broadcast root-cause fix is being completed.",
+      "version": "1.4.351",
+      "published_at": "2026-08-01T00:59:08Z",
+      "changelog": "Fix sender queue consumption stability: validate sender PID identity before trusting pid files, keep sender heartbeat fresh during long UI tasks, report stale live senders without killing them, and keep group-buy broadcast ACK idempotent.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.349/CloudAppRobot.exe",
-          "sha256": "50a9a4246871401be2439bc4a6d9029b46fd2b0c6efe94247fb0c5ae10d0d70c",
-          "size": 37562373
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.351/CloudAppRobot.exe",
+          "sha256": "8afcf8f835ee472bac585b79e106eb08b914ca233f5aa1beb3840b8b97bb9df0",
+          "size": 37564815
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.349/CloudAppRobot-bundle.zip",
-          "sha256": "51d6ddd14382febab1ac7285fc48d087beb6e5372de4dff5bdd166265ef2aa1e",
-          "size": 247126167
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.351/CloudAppRobot-bundle.zip",
+          "sha256": "a6a947778cb970765dad5fd3d3ea5b561a6f71f7f8383348de95c430a09800a2",
+          "size": 247121928
         }
       }
     }
