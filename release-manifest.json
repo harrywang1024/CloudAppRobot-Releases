@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.352",
-      "published_at": "2026-08-01T01:14:52Z",
-      "changelog": "Keep remote updates on the managed updater path by default so update commands have a closed success/failure loop; manual update script is now opt-in only.",
+      "version": "1.4.353",
+      "published_at": "2026-08-07T20:05:09Z",
+      "changelog": "Fix sender queue clear to release stale UI lock and mark cleared broadcast commands failed so cloud and local state do not diverge.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.352/CloudAppRobot.exe",
-          "sha256": "f65fc0f801c7fcac8ce9ec2da3e42c706a05ce17f6eeb14b367393575fd40e96",
-          "size": 37564853
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.353/CloudAppRobot.exe",
+          "sha256": "b1efa781291cceb64697e2117ee3e280380111dd24512f84e326a49d0ee90ef5",
+          "size": 37566429
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.352/CloudAppRobot-bundle.zip",
-          "sha256": "0b90119b7ca20814dddddc688d5b6fac6fefa9e81ed02a30b638b4c94e059268",
-          "size": 247125316
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.353/CloudAppRobot-bundle.zip",
+          "sha256": "e829a83a0232adef20287769b96cb1c3ff1c2853f17905654ed214b8457f61bf",
+          "size": 247128069
         }
       }
     }
