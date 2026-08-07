@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.353",
-      "published_at": "2026-08-07T20:05:09Z",
-      "changelog": "Fix sender queue clear to release stale UI lock and mark cleared broadcast commands failed so cloud and local state do not diverge.",
+      "version": "1.4.354",
+      "published_at": "2026-08-07T20:19:35Z",
+      "changelog": "Fix sender queue clear to release stale UI lock and mark cleared broadcast commands failed; isolate media downloads and continue WeChat broadcasts when only some media fail.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.353/CloudAppRobot.exe",
-          "sha256": "b1efa781291cceb64697e2117ee3e280380111dd24512f84e326a49d0ee90ef5",
-          "size": 37566429
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.354/CloudAppRobot.exe",
+          "sha256": "64ea006e46555428dd2e5e70e509133d2ebd212a2bff3d7f3552c6e357198c46",
+          "size": 37567083
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.353/CloudAppRobot-bundle.zip",
-          "sha256": "e829a83a0232adef20287769b96cb1c3ff1c2853f17905654ed214b8457f61bf",
-          "size": 247128069
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.354/CloudAppRobot-bundle.zip",
+          "sha256": "8545f81136e953701172a5712a6a5e84fb6d8a228bf11d144f26a7b37080d975",
+          "size": 247117499
         }
       }
     }
