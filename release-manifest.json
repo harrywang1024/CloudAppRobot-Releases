@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.355",
-      "published_at": "2026-08-07T20:40:48Z",
-      "changelog": "Do not block local WeChat sender queue when group buy ACK fails after command success; keep app direct import ACK mandatory while no-code imports can skip ACK.",
+      "version": "1.4.356",
+      "published_at": "2026-08-09T04:49:40Z",
+      "changelog": "Wait longer after media batches before sending broadcast text; tolerate partial media download while failing all-media download failures; mark cleared sender queue commands failed.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.355/CloudAppRobot.exe",
-          "sha256": "ff3d81f4951088559423c1951899b1a08b0a3cd3ddf688b3ef5051f3374f1c99",
-          "size": 37567227
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.356/CloudAppRobot.exe",
+          "sha256": "571bb89301ccef28bdb672d18f942bb24fd58c649f5389f13d31315c4143b5d9",
+          "size": 37567557
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.355/CloudAppRobot-bundle.zip",
-          "sha256": "9630088b341f377c87a2abb456f7b7c70178f3157af3effba4af5093766faa08",
-          "size": 247129709
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.356/CloudAppRobot-bundle.zip",
+          "sha256": "d98988560bb7a02cfcae62588a86ea12f49acb3ec8c9bedc1084ccc1465844fb",
+          "size": 247125919
         }
       }
     }
