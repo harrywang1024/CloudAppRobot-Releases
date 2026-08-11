@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.359",
-      "published_at": "2026-08-11T18:45:37Z",
-      "changelog": "Supplier broadcasts send media before copy and include empty solitaire floors; no frontend assets changed.",
+      "version": "1.4.360",
+      "published_at": "2026-08-11T19:55:50Z",
+      "changelog": "Fix command broadcast solitaire tracking and self-upload initial solitaire snapshots.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.359/CloudAppRobot.exe",
-          "sha256": "d699493c4e49e726fc1495a2b2febfb35b44ac2a09903a0f4d1c38c047f490c9",
-          "size": 37667641
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.360/CloudAppRobot.exe",
+          "sha256": "189d268eedc188b3ee5a787e7c04324fbd430966c4cdc473469263d495ecc35c",
+          "size": 37669960
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.359/CloudAppRobot-bundle.zip",
-          "sha256": "b5abd5203ce5c55c90a2ee885b1cdec4549f5a2e81cf9d7d260fb43cac107850",
-          "size": 247821579
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.360/CloudAppRobot-bundle.zip",
+          "sha256": "c66e8a26e94735e2e07a1ef07884ad96050cb02a8774a1ea8e8bfd2b70b89d97",
+          "size": 247773003
         }
       }
     }
