@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.356",
-      "published_at": "2026-08-09T04:49:40Z",
-      "changelog": "Wait longer after media batches before sending broadcast text; tolerate partial media download while failing all-media download failures; mark cleared sender queue commands failed.",
+      "version": "1.4.357",
+      "published_at": "2026-08-11T12:53:45Z",
+      "changelog": "Enable supplier group monitoring, supplier-target isolation, and embedded supplier product/order ingress in the unified robot runtime.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.356/CloudAppRobot.exe",
-          "sha256": "571bb89301ccef28bdb672d18f942bb24fd58c649f5389f13d31315c4143b5d9",
-          "size": 37567557
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.357/CloudAppRobot.exe",
+          "sha256": "730f35c1d46732b7f572f1eb83f954c1648bbfe3476a8507e8db8f469087fec0",
+          "size": 37667630
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.356/CloudAppRobot-bundle.zip",
-          "sha256": "d98988560bb7a02cfcae62588a86ea12f49acb3ec8c9bedc1084ccc1465844fb",
-          "size": 247125919
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.357/CloudAppRobot-bundle.zip",
+          "sha256": "1d567b193a64477fbf180475c1eddfdca75b2267cd264bf90f2db9721caaa4ab",
+          "size": 247765576
         }
       }
     }
