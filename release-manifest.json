@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.370",
-      "published_at": "2026-08-12T20:54:11Z",
-      "changelog": "Fix supplier launcher config auto-detection, custom data-root handling, and persistent startup diagnostics.",
+      "version": "1.4.371",
+      "published_at": "2026-08-12T22:28:01Z",
+      "changelog": "Fix supplier group cold-start DB snapshot recovery, replay only the latest explicit solitaire order safely, and expose independent supplier group monitor status.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.370/CloudAppRobot.exe",
-          "sha256": "57441b7cc09a5e4d0062ac1e1455180f7754b51a0e3700648a29c5b4e47e36c9",
-          "size": 37681876
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.371/CloudAppRobot.exe",
+          "sha256": "532d3c5043faf3731327d7085a5444515e9945efb2a0912d4fc573d70e28d8b3",
+          "size": 37682845
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.370/CloudAppRobot-bundle.zip",
-          "sha256": "f10c4d3e9f307bde3789d3583e7a03f6d674b829a6ee57dcf3438f6497a75195",
-          "size": 247834099
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.371/CloudAppRobot-bundle.zip",
+          "sha256": "ffd4d4fcf3868d3a07f674f97123c1248bbad36234b7de927c11b75971458dab",
+          "size": 247847854
         }
       }
     }
