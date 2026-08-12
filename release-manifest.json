@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.362",
-      "published_at": "2026-08-12T04:10:38Z",
-      "changelog": "Prioritize explicit supplier product solitaire snapshots and retain variant text after quantity.",
+      "version": "1.4.363",
+      "published_at": "2026-08-12T13:15:46Z",
+      "changelog": "Recover stalled supplier WeChat group reads through bounded local DB snapshots and upload explicit product solitaire entries without extra cloud heartbeat.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.362/CloudAppRobot.exe",
-          "sha256": "8d89c9692a4878a3ef62c93929b623629139403393fc33cc0eea0eba1e9b4df1",
-          "size": 37671478
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.363/CloudAppRobot.exe",
+          "sha256": "3b5bbadd9562fe80652986b0783b64d3f7605d618a21687c9a04e1060f367831",
+          "size": 37674184
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.362/CloudAppRobot-bundle.zip",
-          "sha256": "3fe12b99e944cde6109c921e4f70bd7fe8a376b479bb1d1977ae1d26551176ac",
-          "size": 247831485
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.363/CloudAppRobot-bundle.zip",
+          "sha256": "11325c7aff6de44ab11ee6039a5d41eaa425cc01e9521eb348874a1ed7e8f690",
+          "size": 244734574
         }
       }
     }
