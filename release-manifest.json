@@ -26,13 +26,13 @@
       }
     },
     "supplier": {
-      "version": "1.4.372",
-      "published_at": "2026-08-12T23:07:38Z",
-      "changelog": "Fix supplier startup false positives by validating exact runtime roles, rejecting stale PID/status files, and requiring the status panel to remain alive.",
+      "version": "1.4.373",
+      "published_at": "2026-08-12T23:16:56Z",
+      "changelog": "Fix supplier startup visibility and stale-process false positives; synchronize launcher scripts into both bundle root and internal runtime paths.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.372/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.373/CloudAppRobot.exe",
           "sha256": "532d3c5043faf3731327d7085a5444515e9945efb2a0912d4fc573d70e28d8b3",
           "size": 37682845
         },
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.372/CloudAppRobot-bundle.zip",
-          "sha256": "ad9f65b280d19b2b357c509996072d6f96e194c01faefae9fbb466479270f33c",
-          "size": 247848502
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.373/CloudAppRobot-bundle.zip",
+          "sha256": "d44a03ca05ad244baab79c7c8eb4d982c05b7e1c1290ba3fa07406763676157d",
+          "size": 247852915
         }
       }
     }
