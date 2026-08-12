@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.367",
-      "published_at": "2026-08-12T15:28:08Z",
-      "changelog": "Fix supplier bare restart config recovery after auto update",
+      "version": "1.4.368",
+      "published_at": "2026-08-12T19:10:44Z",
+      "changelog": "Fix supplier WeChat DB path auto-detection and stale configured path recovery across machines.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.367/CloudAppRobot.exe",
-          "sha256": "ce6034a28912ead3c2d63a17c94e37e8550ae5045ae84030883fe526d34d879b",
-          "size": 37679303
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.368/CloudAppRobot.exe",
+          "sha256": "3f0620881e46b5e2a47b1ce242bd2b8e89fbcf65fe314ad6db685116740db62d",
+          "size": 37680036
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.367/CloudAppRobot-bundle.zip",
-          "sha256": "767c5d768fb5a73a6ebee8033f01f17c222e5e93139d9de31343aa40f38cbddb",
-          "size": 247826109
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.368/CloudAppRobot-bundle.zip",
+          "sha256": "8c9ede84fa241c736cfd7d59ada8628b0ae1286ed5b913a8a0e7882bbc4f8be3",
+          "size": 247833249
         }
       }
     }
