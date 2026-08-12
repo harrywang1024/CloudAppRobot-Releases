@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.366",
-      "published_at": "2026-08-12T15:04:22Z",
-      "changelog": "Fix supplier group DB monitoring bootstrap and preserve config.supplier.json across update recovery.",
+      "version": "1.4.367",
+      "published_at": "2026-08-12T15:28:08Z",
+      "changelog": "Fix supplier bare restart config recovery after auto update",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.366/CloudAppRobot.exe",
-          "sha256": "7262438278311ba4ded8ffd9f55fdf0dfe507cb463f308c23e025d6d0033eec7",
-          "size": 37675109
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.367/CloudAppRobot.exe",
+          "sha256": "ce6034a28912ead3c2d63a17c94e37e8550ae5045ae84030883fe526d34d879b",
+          "size": 37679303
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.366/CloudAppRobot-bundle.zip",
-          "sha256": "e61d4d7fb4a5637dece5ae57b16645a5b489757c56c9c1886c86dd40778958d8",
-          "size": 247835307
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.367/CloudAppRobot-bundle.zip",
+          "sha256": "767c5d768fb5a73a6ebee8033f01f17c222e5e93139d9de31343aa40f38cbddb",
+          "size": 247826109
         }
       }
     }
