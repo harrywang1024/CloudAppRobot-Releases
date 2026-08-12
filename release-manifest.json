@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.364",
-      "published_at": "2026-08-12T13:50:18Z",
-      "changelog": "Confirm the active supplier runtime version after upgrade, restart stale business processes, and preserve bounded WeChat solitaire upload recovery.",
+      "version": "1.4.365",
+      "published_at": "2026-08-12T14:20:44Z",
+      "changelog": "Fix supplier target routing, runtime version reconciliation, and supplier config preservation during automatic update.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.364/CloudAppRobot.exe",
-          "sha256": "fb4cd79b1a7ff2760c60e99c54ea56b8b246b9ef938da5bed45cd5fc4540bf9f",
-          "size": 37674736
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.365/CloudAppRobot.exe",
+          "sha256": "787ffdff1ee14afa553fcc397e220dd117385ba75c799603f74fae4963715410",
+          "size": 37674774
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.364/CloudAppRobot-bundle.zip",
-          "sha256": "a95afdea72a56b0b1b67f1d601ecc254664c8b2c53f8a615c8089ac6e09f1168",
-          "size": 247826249
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.365/CloudAppRobot-bundle.zip",
+          "sha256": "c671692ac1cfaea597ce6714bf770be60492ec0299e2beab4a20d8c07396419e",
+          "size": 247830599
         }
       }
     }
