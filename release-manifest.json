@@ -26,13 +26,13 @@
       }
     },
     "supplier": {
-      "version": "1.4.371",
-      "published_at": "2026-08-12T22:28:01Z",
-      "changelog": "Fix supplier group cold-start DB snapshot recovery, replay only the latest explicit solitaire order safely, and expose independent supplier group monitor status.",
+      "version": "1.4.372",
+      "published_at": "2026-08-12T23:07:38Z",
+      "changelog": "Fix supplier startup false positives by validating exact runtime roles, rejecting stale PID/status files, and requiring the status panel to remain alive.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.371/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.372/CloudAppRobot.exe",
           "sha256": "532d3c5043faf3731327d7085a5444515e9945efb2a0912d4fc573d70e28d8b3",
           "size": 37682845
         },
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.371/CloudAppRobot-bundle.zip",
-          "sha256": "ffd4d4fcf3868d3a07f674f97123c1248bbad36234b7de927c11b75971458dab",
-          "size": 247847854
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.372/CloudAppRobot-bundle.zip",
+          "sha256": "ad9f65b280d19b2b357c509996072d6f96e194c01faefae9fbb466479270f33c",
+          "size": 247848502
         }
       }
     }
