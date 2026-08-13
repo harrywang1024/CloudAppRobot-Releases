@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.374",
-      "published_at": "2026-08-13T00:59:13Z",
-      "changelog": "Fix supplier config recovery, WeChat DB snapshot catch-up, target group monitoring, and source-mode status reporting.",
+      "version": "1.4.375",
+      "published_at": "2026-08-13T02:38:35Z",
+      "changelog": "Retry supplier solitaire uploads without advancing the WeChat cursor after backend failure, and expose supplier monitor retry state in heartbeats.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.374/CloudAppRobot.exe",
-          "sha256": "6099210afe61f3847e577199e2c1d8b08fe40da0059b660cd421aad22a51555d",
-          "size": 37683448
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.375/CloudAppRobot.exe",
+          "sha256": "3f276e974c7dd456e9ca9fecf7b1a1abff6bc09c0afaf325525804a7554150fa",
+          "size": 37684522
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.374/CloudAppRobot-bundle.zip",
-          "sha256": "b77457f9c65a2eab9c249b7f240f118bcd7d61fd6d0371708d1878219dd337b9",
-          "size": 247988444
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.375/CloudAppRobot-bundle.zip",
+          "sha256": "34223813c2d997465dc5974cb7e7fc16c237fc2a0a71e3078d3d35e996e48a69",
+          "size": 247845031
         }
       }
     }
