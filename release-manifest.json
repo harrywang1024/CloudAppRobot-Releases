@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.373",
-      "published_at": "2026-08-12T23:16:56Z",
-      "changelog": "Fix supplier startup visibility and stale-process false positives; synchronize launcher scripts into both bundle root and internal runtime paths.",
+      "version": "1.4.374",
+      "published_at": "2026-08-13T00:59:13Z",
+      "changelog": "Fix supplier config recovery, WeChat DB snapshot catch-up, target group monitoring, and source-mode status reporting.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.373/CloudAppRobot.exe",
-          "sha256": "532d3c5043faf3731327d7085a5444515e9945efb2a0912d4fc573d70e28d8b3",
-          "size": 37682845
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.374/CloudAppRobot.exe",
+          "sha256": "6099210afe61f3847e577199e2c1d8b08fe40da0059b660cd421aad22a51555d",
+          "size": 37683448
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.373/CloudAppRobot-bundle.zip",
-          "sha256": "d44a03ca05ad244baab79c7c8eb4d982c05b7e1c1290ba3fa07406763676157d",
-          "size": 247852915
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.374/CloudAppRobot-bundle.zip",
+          "sha256": "b77457f9c65a2eab9c249b7f240f118bcd7d61fd6d0371708d1878219dd337b9",
+          "size": 247988444
         }
       }
     }
