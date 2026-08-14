@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.378",
-      "published_at": "2026-08-13T18:38:52Z",
-      "changelog": "Add WeChat DB selection diagnostics and harden DB shard discovery for leader robots.",
+      "version": "1.4.380",
+      "published_at": "2026-08-14T01:10:02Z",
+      "changelog": "Include buyer-only gift solitaire upload detection for leader robots.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.378/CloudAppRobot.exe",
-          "sha256": "c779df22a2ca8ffbcdaaa51b92badbc32c2a12f406e466de86f4401de5ea708a",
-          "size": 37689679
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.380/CloudAppRobot.exe",
+          "sha256": "6f63f2cc3c8a51334212b20cc53fb96915cdf722dc2d48490f7ba84cace67e44",
+          "size": 37694030
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.378/CloudAppRobot-bundle.zip",
-          "sha256": "1976c662b6545a74fc638c47746d8bf788dfbf0df0a13e92acacbe13d484dcda",
-          "size": 247856115
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.380/CloudAppRobot-bundle.zip",
+          "sha256": "a931f11028f6d83b53de32643722c76effe02d8ce73f9805e2979daecd1afbbb",
+          "size": 247857600
         }
       }
     },
