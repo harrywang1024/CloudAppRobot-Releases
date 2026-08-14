@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.389",
-      "published_at": "2026-08-14T20:17:49Z",
-      "changelog": "Validate WeChat DB keys against decrypted SQLite output and refresh stale keys automatically; keep supplier group solitaire ingest working.",
+      "version": "1.4.390",
+      "published_at": "2026-08-14T20:32:15Z",
+      "changelog": "Validate WeChat DB keys against decrypted SQLite output, refresh stale keys automatically, include manual update logs in support bundles, and close agent-triggered manual update windows.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.389/CloudAppRobot.exe",
-          "sha256": "23ccb92d6b55dc13c3eb41c4e18be02b8c21b698f325c4c56b628d908b4ce7b1",
-          "size": 37700753
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.390/CloudAppRobot.exe",
+          "sha256": "96f2264f39b0ee4f7bcdfa505ed1a5ffab062b4383cd672bf174a1427cd5fa7b",
+          "size": 37701212
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.389/CloudAppRobot-bundle.zip",
-          "sha256": "5914185eb8e3725d3dbba9650c090dfce11e9c27dec21ac0f2dff0c2a146584e",
-          "size": 247814286
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.390/CloudAppRobot-bundle.zip",
+          "sha256": "dad4995948e0bb1d551ce519f8ecd48437707e6d5055619c5bf925a6c6d74cc1",
+          "size": 247807334
         }
       }
     }
