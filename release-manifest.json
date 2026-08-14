@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.386",
-      "published_at": "2026-08-14T16:40:53Z",
-      "changelog": "Keep supplier DB polling from blocking on automatic member scans during group order monitoring.",
+      "version": "1.4.387",
+      "published_at": "2026-08-14T17:11:17Z",
+      "changelog": "Add timeouts and snapshot fallback around supplier WeChat DB reads so monitoring cannot freeze on a blocking DB call.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.386/CloudAppRobot.exe",
-          "sha256": "77cc80bcf9c53aec805ea62ddc3b3944177413388e06089dd05e17ba33e47999",
-          "size": 37694922
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.387/CloudAppRobot.exe",
+          "sha256": "2bfb9491c7d929b536a6bd3bd8eaa55c2d3ec569d3d9adcd49bd093e3941ea14",
+          "size": 37696039
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.386/CloudAppRobot-bundle.zip",
-          "sha256": "f14f85f853207138f9a16d4abf81adef440609bb91aa4ec97beeb898bba7e49a",
-          "size": 247860918
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.387/CloudAppRobot-bundle.zip",
+          "sha256": "251fe49675995386891b90a25e09052a58f07698aca660649ff37a9145ca205f",
+          "size": 247851703
         }
       }
     },
