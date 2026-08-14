@@ -2,8 +2,32 @@
   "schema_version": 1,
   "channels": {
     "stable": {
+      "version": "1.4.388",
+      "published_at": "2026-08-14T19:35:24Z",
+      "changelog": "Allow supplier group monitor to upload WeChat solitaire snapshots and submit them to the backend ingest API.",
+      "assets": {
+        "exe": {
+          "kind": "exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.388/CloudAppRobot.exe",
+          "sha256": "ef20336958a13cb7ff1d6a900699a420ede3ea6ea71d8b71b47a1867f6eb39c3",
+          "size": 37696333
+        },
+        "py": {
+          "download_url": "",
+          "sha256": "",
+          "size": null
+        },
+        "bundle": {
+          "kind": "bundle_zip",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.388/CloudAppRobot-bundle.zip",
+          "sha256": "fa27791edd344558f5b87065ce6c64e90e858fb35c8fb2dd9b20d66697cadb41",
+          "size": 247853911
+        }
+      }
+    },
+    "supplier": {
       "version": "1.4.387",
-      "published_at": "2026-08-14T17:11:17Z",
+      "published_at": "2026-08-14T17:16:08Z",
       "changelog": "Add timeouts and snapshot fallback around supplier WeChat DB reads so monitoring cannot freeze on a blocking DB call.",
       "assets": {
         "exe": {
@@ -20,32 +44,8 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.387/CloudAppRobot-bundle.zip",
-          "sha256": "251fe49675995386891b90a25e09052a58f07698aca660649ff37a9145ca205f",
+          "sha256": "e6fcd1f4e6a81498ef66e92238a7311d4ffe4b585366fceb69bd05d532579148",
           "size": 247851703
-        }
-      }
-    },
-    "supplier": {
-      "version": "1.4.386",
-      "published_at": "2026-08-14T16:40:53Z",
-      "changelog": "Keep supplier DB polling from blocking on automatic member scans during group order monitoring.",
-      "assets": {
-        "exe": {
-          "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.386/CloudAppRobot.exe",
-          "sha256": "77cc80bcf9c53aec805ea62ddc3b3944177413388e06089dd05e17ba33e47999",
-          "size": 37694922
-        },
-        "py": {
-          "download_url": "",
-          "sha256": "",
-          "size": null
-        },
-        "bundle": {
-          "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.386/CloudAppRobot-bundle.zip",
-          "sha256": "f14f85f853207138f9a16d4abf81adef440609bb91aa4ec97beeb898bba7e49a",
-          "size": 247860918
         }
       }
     }
