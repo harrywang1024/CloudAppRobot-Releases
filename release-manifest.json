@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.379",
-      "published_at": "2026-08-13T21:20:27Z",
-      "changelog": "Add exact WeChat DB shard read diagnostics for supplier robot message ingestion.",
+      "version": "1.4.380",
+      "published_at": "2026-08-14T01:11:32Z",
+      "changelog": "Include buyer-only gift solitaire upload detection and supplier WeChat DB shard read diagnostics.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.379/CloudAppRobot.exe",
-          "sha256": "3b98e1810da5f8d33c8d41ff34ffe8c22821a4a253adfc9be9d198e63acc1e2a",
-          "size": 37691292
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.380/CloudAppRobot.exe",
+          "sha256": "6f63f2cc3c8a51334212b20cc53fb96915cdf722dc2d48490f7ba84cace67e44",
+          "size": 37694030
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.379/CloudAppRobot-bundle.zip",
-          "sha256": "b615ddf7c381ecb094b8e978bb9f2fafe29f241d70e014c1e6748ab23a8f78d3",
-          "size": 247852935
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.380/CloudAppRobot-bundle.zip",
+          "sha256": "a931f11028f6d83b53de32643722c76effe02d8ce73f9805e2979daecd1afbbb",
+          "size": 247857600
         }
       }
     }
