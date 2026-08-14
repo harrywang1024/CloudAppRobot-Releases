@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.388",
-      "published_at": "2026-08-14T19:39:37Z",
-      "changelog": "Allow supplier group monitor to upload WeChat solitaire snapshots and submit them to the backend ingest API.",
+      "version": "1.4.389",
+      "published_at": "2026-08-14T20:17:49Z",
+      "changelog": "TODO",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.388/CloudAppRobot.exe",
-          "sha256": "ef20336958a13cb7ff1d6a900699a420ede3ea6ea71d8b71b47a1867f6eb39c3",
-          "size": 37696333
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.389/CloudAppRobot.exe",
+          "sha256": "23ccb92d6b55dc13c3eb41c4e18be02b8c21b698f325c4c56b628d908b4ce7b1",
+          "size": 37700753
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.388/CloudAppRobot-bundle.zip",
-          "sha256": "1a12c0b2c881b16f81c21e6d4eb3c713a05b9400a3809e958c19a7cc94f6bf40",
-          "size": 247853909
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.389/CloudAppRobot-bundle.zip",
+          "sha256": "8c303dd5c37c71ac0c27dd5c951f9ddf306cb4051e3eefb0c5f299d4b8cfef18",
+          "size": 247814286
         }
       }
     }
