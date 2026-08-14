@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.380",
-      "published_at": "2026-08-14T01:10:02Z",
-      "changelog": "Include buyer-only gift solitaire upload detection for leader robots.",
+      "version": "1.4.381",
+      "published_at": "2026-08-14T13:11:04Z",
+      "changelog": "Restore solitaire snapshot preflight and keep self-sent corrected coded solitaire snapshots with real floors.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.380/CloudAppRobot.exe",
-          "sha256": "6f63f2cc3c8a51334212b20cc53fb96915cdf722dc2d48490f7ba84cace67e44",
-          "size": 37694030
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.381/CloudAppRobot.exe",
+          "sha256": "17dc971f005038fa4e9b3ea8f207bcac0d5acbc252d17683ee192056d2ab2119",
+          "size": 37695372
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.380/CloudAppRobot-bundle.zip",
-          "sha256": "a931f11028f6d83b53de32643722c76effe02d8ce73f9805e2979daecd1afbbb",
-          "size": 247857600
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.381/CloudAppRobot-bundle.zip",
+          "sha256": "0586ffc5f08f7bd3f89b51a8801a842f1c10b9a14cc47341d09d03f46540491c",
+          "size": 247863730
         }
       }
     },
