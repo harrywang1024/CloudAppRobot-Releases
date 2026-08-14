@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.377",
-      "published_at": "2026-08-13T17:03:10Z",
-      "changelog": "Fix PC robot status panel startup and disable HTTP/3 Alt-Svc upgrades for backend API requests.",
+      "version": "1.4.378",
+      "published_at": "2026-08-13T18:38:52Z",
+      "changelog": "Add WeChat DB selection diagnostics and harden DB shard discovery for leader robots.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.377/CloudAppRobot.exe",
-          "sha256": "8ecf4942643eea3a73079a7a77c54ddf9e1ce21e0405cac1f603e8b097561868",
-          "size": 37629809
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.378/CloudAppRobot.exe",
+          "sha256": "c779df22a2ca8ffbcdaaa51b92badbc32c2a12f406e466de86f4401de5ea708a",
+          "size": 37689679
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.377/CloudAppRobot-bundle.zip",
-          "sha256": "a54faa269d9fd64291ee281b97bdb640b6c72a9b58bab2e2e02597f69f723b43",
-          "size": 247782186
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.378/CloudAppRobot-bundle.zip",
+          "sha256": "1976c662b6545a74fc638c47746d8bf788dfbf0df0a13e92acacbe13d484dcda",
+          "size": 247856115
         }
       }
     },
