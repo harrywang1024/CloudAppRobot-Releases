@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.387",
-      "published_at": "2026-08-14T17:16:08Z",
-      "changelog": "Add timeouts and snapshot fallback around supplier WeChat DB reads so monitoring cannot freeze on a blocking DB call.",
+      "version": "1.4.388",
+      "published_at": "2026-08-14T19:39:37Z",
+      "changelog": "Allow supplier group monitor to upload WeChat solitaire snapshots and submit them to the backend ingest API.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.387/CloudAppRobot.exe",
-          "sha256": "2bfb9491c7d929b536a6bd3bd8eaa55c2d3ec569d3d9adcd49bd093e3941ea14",
-          "size": 37696039
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.388/CloudAppRobot.exe",
+          "sha256": "ef20336958a13cb7ff1d6a900699a420ede3ea6ea71d8b71b47a1867f6eb39c3",
+          "size": 37696333
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.387/CloudAppRobot-bundle.zip",
-          "sha256": "e6fcd1f4e6a81498ef66e92238a7311d4ffe4b585366fceb69bd05d532579148",
-          "size": 247851703
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.388/CloudAppRobot-bundle.zip",
+          "sha256": "1a12c0b2c881b16f81c21e6d4eb3c713a05b9400a3809e958c19a7cc94f6bf40",
+          "size": 247853909
         }
       }
     }
