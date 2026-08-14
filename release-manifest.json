@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.382",
-      "published_at": "2026-08-14T13:21:51Z",
-      "changelog": "Tighten self-sent coded solitaire handling to avoid no-code loops while allowing corrected real floors.",
+      "version": "1.4.383",
+      "published_at": "2026-08-14T13:41:45Z",
+      "changelog": "Fix manual update launcher so it finds bundled PowerShell updater and keeps error window visible.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.382/CloudAppRobot.exe",
-          "sha256": "99ea13be7e824e11d24db1a9e515014fe8d237319a01aa6632258890cdb54a63",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.383/CloudAppRobot.exe",
+          "sha256": "df551fdade68a855bc8ae31cfb160887094c0996271431b90b5deea9063cac0a",
           "size": 37695477
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.382/CloudAppRobot-bundle.zip",
-          "sha256": "384930eb748b62ffb47c9b624c6e3bb239e8e0d87e64665a7de35af9657ea3a7",
-          "size": 247862525
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.383/CloudAppRobot-bundle.zip",
+          "sha256": "52e7e0de2c969c00f0227a1d269135250f65219bee544273a15fd13c5d43fdce",
+          "size": 247857918
         }
       }
     },
