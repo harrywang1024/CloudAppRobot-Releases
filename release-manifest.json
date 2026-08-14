@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.384",
-      "published_at": "2026-08-14T15:42:20Z",
-      "changelog": "Fix supplier robot DB health and group reads to prefer resolved @chatroom usernames.",
+      "version": "1.4.385",
+      "published_at": "2026-08-14T16:11:18Z",
+      "changelog": "Force robot update commands through local manual_update_latest script and keep supplier DB reads on resolved chat ids.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.384/CloudAppRobot.exe",
-          "sha256": "b4428b1cf9bc466777014c87612f3bdf35f15653a432f22e6f8957e9e77f3192",
-          "size": 37696391
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.385/CloudAppRobot.exe",
+          "sha256": "148de349550f49003be7f7e3c03b2d2c3fac49d20390e5229671305095583418",
+          "size": 37694682
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.384/CloudAppRobot-bundle.zip",
-          "sha256": "7bdafb192e82ffa10e06057ed415797c93a358d74ccede9b5f6b11ffe70617db",
-          "size": 247863683
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.385/CloudAppRobot-bundle.zip",
+          "sha256": "8db9af4ce912fa69c2ace760fcdbd9f66ddb06724270065a0936c1cf41f40334",
+          "size": 247861249
         }
       }
     }
