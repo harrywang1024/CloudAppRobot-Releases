@@ -20,7 +20,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.391/CloudAppRobot-bundle.zip",
-          "sha256": "5e84f5a33e136ab31186907690f9939dc6f981ed1d7e8816099807ecebadb747",
+          "sha256": "b3c2b164bc64fd74f91c983b51ff7da02da2b79eb2d01a934302e8b87db93348",
           "size": 247868944
         }
       }
