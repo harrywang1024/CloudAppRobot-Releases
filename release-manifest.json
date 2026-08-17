@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.398",
-      "published_at": "2026-08-17T17:15:17Z",
-      "changelog": "Add per-robot WeChat update prompt guard configuration.",
+      "version": "1.4.399",
+      "published_at": "2026-08-17T22:55:55Z",
+      "changelog": "Fix multi-group robot route resolution for broadcast and solitaire sync.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.398/CloudAppRobot.exe",
-          "sha256": "142a7b8442ab1c9d64d139b372c01f2358182e3441d29119821a29b4b1bab795",
-          "size": 37706632
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.399/CloudAppRobot.exe",
+          "sha256": "13878b76f426727a8e7b414213bbb760e79c6ecff39ae3f9425d9a7675986906",
+          "size": 37706280
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.398/CloudAppRobot-bundle.zip",
-          "sha256": "ac6fbaa29343f700d2f2361734f09b921a6285ad837b249e15b843e23873e31a",
-          "size": 247871737
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.399/CloudAppRobot-bundle.zip",
+          "sha256": "175ec666ab8589df8cf87def4637d377a8256b558c33183934f2227590d19617",
+          "size": 247869670
         }
       }
     },
