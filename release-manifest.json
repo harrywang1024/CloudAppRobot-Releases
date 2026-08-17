@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.392",
-      "published_at": "2026-08-17T00:55:05Z",
-      "changelog": "Fix robot solitaire upload dedupe and queue flood protection.",
+      "version": "1.4.394",
+      "published_at": "2026-08-17T11:28:35Z",
+      "changelog": "Harden status panel pid recovery and WeChat update prompt UIA probing for Win11 robots.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.392/CloudAppRobot.exe",
-          "sha256": "ecb360fc449603b7e6d939d6094a05cd9f9c317e47b1de431b3f47ddb1887561",
-          "size": 37703784
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.394/CloudAppRobot.exe",
+          "sha256": "b7c631f17ec31ca6024ac5cb68eec4dd24f6d4dcf5f9f8659fe8c3ea09f3949f",
+          "size": 37704149
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.392/CloudAppRobot-bundle.zip",
-          "sha256": "e1650c54a1ba0802bb774ff3d5715f96afb7658e0a9b5913851ae04a963eaae9",
-          "size": 247808802
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.394/CloudAppRobot-bundle.zip",
+          "sha256": "45688351995102e57f44d80d3b02d75c3b791ec31e360fd5650555d286a721dc",
+          "size": 247867636
         }
       }
     },
