@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.394",
-      "published_at": "2026-08-17T11:28:35Z",
-      "changelog": "Harden status panel pid recovery and WeChat update prompt UIA probing for Win11 robots.",
+      "version": "1.4.395",
+      "published_at": "2026-08-17T11:48:01Z",
+      "changelog": "Fix Jiaying manual update token-only config compatibility; include Win11 UIA update guard hardening and status panel pid recovery.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.394/CloudAppRobot.exe",
-          "sha256": "b7c631f17ec31ca6024ac5cb68eec4dd24f6d4dcf5f9f8659fe8c3ea09f3949f",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.395/CloudAppRobot.exe",
+          "sha256": "3a440b3ac1a6b6eaf8a6340129a870bb4fd5ffcab61631793859e20e797e0827",
           "size": 37704149
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.394/CloudAppRobot-bundle.zip",
-          "sha256": "45688351995102e57f44d80d3b02d75c3b791ec31e360fd5650555d286a721dc",
-          "size": 247867636
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.395/CloudAppRobot-bundle.zip",
+          "sha256": "30904044c656e1de211b253258c5a062a6b13c6e5a6397ed30050af728ee98fb",
+          "size": 247870291
         }
       }
     },
