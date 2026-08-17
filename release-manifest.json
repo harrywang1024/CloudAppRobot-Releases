@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.396",
-      "published_at": "2026-08-17T12:03:48Z",
-      "changelog": "Make WeChat update prompt guard configurable; keep it enabled by default and allow disabling per machine with WECHAT_UPDATE_GUARD_ENABLED=0.",
+      "version": "1.4.397",
+      "published_at": "2026-08-17T13:45:20Z",
+      "changelog": "Serialize WeChat UIA broadcast commands locally; defer new text broadcasts while sender has an active UIA task.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.396/CloudAppRobot.exe",
-          "sha256": "7fc11b61977baafd0d7db73ea4a0cfb6308e5d601c724c4ae74f05b0503fd7f5",
-          "size": 37704306
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.397/CloudAppRobot.exe",
+          "sha256": "ac726c950e2e3b960848e8bb768019d183c08f8476261704594fd55598932a5e",
+          "size": 37705014
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.396/CloudAppRobot-bundle.zip",
-          "sha256": "a6de3977e9ff95fcb59acae8134a46483d393736b036c84d6f4c924cf8929b0c",
-          "size": 247870510
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.397/CloudAppRobot-bundle.zip",
+          "sha256": "74d83f07dead70d44e60289bdce601cd80bee1777e81c4b3b20028e651949507",
+          "size": 247871074
         }
       }
     },
