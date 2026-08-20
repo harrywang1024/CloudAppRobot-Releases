@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.404",
-      "published_at": "2026-08-20T22:49:26Z",
-      "changelog": "Publish Wego copy/media-only flow and include latest leader robot retry suppression.",
+      "version": "1.4.405",
+      "published_at": "2026-08-20T23:50:16Z",
+      "changelog": "Disable global group imports and require explicit target assignment before robot no-code ingestion.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.404/CloudAppRobot.exe",
-          "sha256": "f33bc8c50387051ffb78aca082eaf262937c91200c1072c488021547e847e9dd",
-          "size": 37785695
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.405/CloudAppRobot.exe",
+          "sha256": "b892c319f5bec8e4f0991df4f44e50b3b1c24b9af6cda0b2bd463ebf3dccb73f",
+          "size": 37786219
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.404/CloudAppRobot-bundle.zip",
-          "sha256": "f36e2350e134594355698b5ca941834c591d9e0c33e905a95f8fa9d50fc1aeef",
-          "size": 247950013
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.405/CloudAppRobot-bundle.zip",
+          "sha256": "a1e1cd783e9d555f28eee849ffbd74e9f151229e13a508dc7170b3f257ff9f3e",
+          "size": 247947974
         }
       }
     },
