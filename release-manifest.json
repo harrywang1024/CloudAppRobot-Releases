@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.405",
-      "published_at": "2026-08-20T23:50:16Z",
-      "changelog": "Disable global group imports and require explicit target assignment before robot no-code ingestion.",
+      "version": "1.4.406",
+      "published_at": "2026-08-21T00:11:45Z",
+      "changelog": "Disable all robot monitored-group imports. Product import is App-only; completed Szwego publish commands are deduplicated.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.405/CloudAppRobot.exe",
-          "sha256": "b892c319f5bec8e4f0991df4f44e50b3b1c24b9af6cda0b2bd463ebf3dccb73f",
-          "size": 37786219
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.406/CloudAppRobot.exe",
+          "sha256": "556cf59be05a97521307af14d429fe07e205a94882e04484b12156e9499fea30",
+          "size": 37787546
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.405/CloudAppRobot-bundle.zip",
-          "sha256": "a1e1cd783e9d555f28eee849ffbd74e9f151229e13a508dc7170b3f257ff9f3e",
-          "size": 247947974
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.406/CloudAppRobot-bundle.zip",
+          "sha256": "567e0f62252007447b0a280bbc21b7e305568170579e5b1dd15b8735218bfe68",
+          "size": 247954736
         }
       }
     },
