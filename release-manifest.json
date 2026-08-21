@@ -3,7 +3,7 @@
   "channels": {
     "stable": {
       "version": "1.4.407",
-      "published_at": "2026-08-21T00:19:04Z",
+      "published_at": "2026-08-21T00:22:40Z",
       "changelog": "Manual package after 1.4.406: keep App-only supplier import and Szwego publish dedupe; no auto install.",
       "assets": {
         "exe": {
@@ -20,7 +20,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.407/CloudAppRobot-bundle.zip",
-          "sha256": "2c6327c4a401cc49f3500189c181df9b7480594b1f128c76f2c196a9ea53aec6",
+          "sha256": "aac9aa090ef004d3142157ec5761d26eb494fb133b8c5c09b777e7cb106d7d99",
           "size": 247954736
         }
       }
