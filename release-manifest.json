@@ -3,7 +3,7 @@
   "channels": {
     "stable": {
       "version": "1.4.425",
-      "published_at": "2026-08-25T20:22:21Z",
+      "published_at": "2026-08-25T20:24:05Z",
       "changelog": "Guard robot runtime cleanup when Wego API publish exits early.",
       "assets": {
         "exe": {
@@ -20,7 +20,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.425/CloudAppRobot-bundle.zip",
-          "sha256": "27f9ea67060d3107dd790b77e710ca49d4c3cb7a24e99e8eeb4ec718c9c524e5",
+          "sha256": "4c6b1744a6092af8b903a06ea3becc7b30b9775d1054c1fe7b279dccf8b49f9f",
           "size": 247845803
         }
       }
