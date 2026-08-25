@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.410",
-      "published_at": "2026-08-25T01:30:02Z",
-      "changelog": "Fix status panel Weixin main window detection",
+      "version": "1.4.411",
+      "published_at": "2026-08-25T01:54:11Z",
+      "changelog": "Report terminal delivery evidence for WeChat group text broadcasts so completed sends do not remain running.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.410/CloudAppRobot.exe",
-          "sha256": "df9038f263107690453fdb4dc3078ead98b97f41e8096f0cd715f9b4f9cbd2cb",
-          "size": 37713694
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.411/CloudAppRobot.exe",
+          "sha256": "eefb15c3d4002c66eb7cee411a1999690e30ecdb256c658374563bd12c997864",
+          "size": 37713883
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.410/CloudAppRobot-bundle.zip",
-          "sha256": "264ef77156212bdea954f84a8dbcb71b6fd2f07a09b7c5d94b3608aae934df5d",
-          "size": 247876775
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.411/CloudAppRobot-bundle.zip",
+          "sha256": "80081c01478d13edaa6e5d1e73b3b36803a7eb64780e2e355237e2a4874b5587",
+          "size": 247869256
         }
       }
     },
