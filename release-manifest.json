@@ -3,7 +3,7 @@
   "channels": {
     "stable": {
       "version": "1.4.424",
-      "published_at": "2026-08-25T19:36:55Z",
+      "published_at": "2026-08-25T19:48:37Z",
       "changelog": "Restore supplier Wego publishing through HTTPS API endpoints.",
       "assets": {
         "exe": {
@@ -20,7 +20,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.424/CloudAppRobot-bundle.zip",
-          "sha256": "de1a5ed77ad36d7c043353091e33fdbc5adf6aa0ce38b5f4840d80684afed270",
+          "sha256": "ba239cc51fdd6a2dfe30a76422b28043b87be1d95a418ac9b3451135dd2f7be2",
           "size": 247906504
         }
       }
