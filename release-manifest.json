@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.420",
-      "published_at": "2026-08-25T15:47:16Z",
-      "changelog": "Expose backend Wego runtime settings in robot runtime status so supplier status panels enable the bind button correctly.",
+      "version": "1.4.421",
+      "published_at": "2026-08-25T18:05:32Z",
+      "changelog": "Execute supplier Wego product publish commands from the bound Chrome page.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.420/CloudAppRobot.exe",
-          "sha256": "106ac8393ee1206669bdffdfff920fa6882e3c25068675567b79741df3e84ba7",
-          "size": 37720993
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.421/CloudAppRobot.exe",
+          "sha256": "c1328e846ad7a77364d657199f035f98718eba4f806451db1b7c836796cf38c6",
+          "size": 37736680
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.420/CloudAppRobot-bundle.zip",
-          "sha256": "d8f50cf3fa961bdeab398008d166cbd409f1b277d7eff90131d00447d3cf7b8f",
-          "size": 247878528
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.421/CloudAppRobot-bundle.zip",
+          "sha256": "c1f3a2bb08e7fc14d1805fb16cddc93a43b13b824068c426ac80cc14a1beec03",
+          "size": 247904900
         }
       }
     },
