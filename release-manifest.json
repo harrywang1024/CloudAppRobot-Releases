@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.417",
-      "published_at": "2026-08-25T14:49:06Z",
-      "changelog": "Allow visible sender to use the already-open target chat when Weixin session list UIA is unavailable.",
+      "version": "1.4.418",
+      "published_at": "2026-08-25T15:20:56Z",
+      "changelog": "Report detailed Weixin UIA switch diagnostics for chat tab, current title, input edit, session list, and text samples.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.417/CloudAppRobot.exe",
-          "sha256": "93b5bbf2c8ec4012eafda72abb7335aaad98d1d64616971a87e35f87be61614b",
-          "size": 37715533
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.418/CloudAppRobot.exe",
+          "sha256": "71de929a01e266a65c68ef275a6770432d7742e237819981a8e00b4c8a26a341",
+          "size": 37720831
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.417/CloudAppRobot-bundle.zip",
-          "sha256": "8427a5e4e144a840ee79c19da428af471d578b46c5eb2e019c28c3c066f3ea3c",
-          "size": 247882528
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.418/CloudAppRobot-bundle.zip",
+          "sha256": "1f3433910ba893dce8c2b6415163706537c9855f4998734c209f0394e9eb4459",
+          "size": 247875334
         }
       }
     },
