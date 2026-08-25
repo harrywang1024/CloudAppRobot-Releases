@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.424",
-      "published_at": "2026-08-25T19:48:37Z",
-      "changelog": "Restore supplier Wego publishing through HTTPS API endpoints.",
+      "version": "1.4.425",
+      "published_at": "2026-08-25T20:24:05Z",
+      "changelog": "Guard robot runtime cleanup when Wego API publish exits early.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.424/CloudAppRobot.exe",
-          "sha256": "1a763b65ac0d435b3f8e32b8b52173386263d9a0ed65bfff1497c5a14d29a792",
-          "size": 37743831
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.425/CloudAppRobot.exe",
+          "sha256": "bdfe96b1559d0a5e3d192e0278ab3cfe9964610f4d99ce372cc2801ffc5cfdd9",
+          "size": 37743954
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.424/CloudAppRobot-bundle.zip",
-          "sha256": "ba239cc51fdd6a2dfe30a76422b28043b87be1d95a418ac9b3451135dd2f7be2",
-          "size": 247906504
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.425/CloudAppRobot-bundle.zip",
+          "sha256": "4c6b1744a6092af8b903a06ea3becc7b30b9775d1054c1fe7b279dccf8b49f9f",
+          "size": 247845803
         }
       }
     }
