@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.411",
-      "published_at": "2026-08-25T01:54:11Z",
-      "changelog": "Report terminal delivery evidence for WeChat group text broadcasts so completed sends do not remain running.",
+      "version": "1.4.412",
+      "published_at": "2026-08-25T03:08:48Z",
+      "changelog": "Disable leader robot no-code ingest by default so product-copy media export cannot block WeChat broadcasts.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.411/CloudAppRobot.exe",
-          "sha256": "eefb15c3d4002c66eb7cee411a1999690e30ecdb256c658374563bd12c997864",
-          "size": 37713883
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.412/CloudAppRobot.exe",
+          "sha256": "67e7284cdfb669966714c4361a80a554caaea00826367c9b55b99b727829f09f",
+          "size": 37714296
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.411/CloudAppRobot-bundle.zip",
-          "sha256": "80081c01478d13edaa6e5d1e73b3b36803a7eb64780e2e355237e2a4874b5587",
-          "size": 247869256
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.412/CloudAppRobot-bundle.zip",
+          "sha256": "a0e4863afb54b9e1ace068a1d88b5b587f389f4e6bf0cf73a32e093729448920",
+          "size": 247878704
         }
       }
     },
