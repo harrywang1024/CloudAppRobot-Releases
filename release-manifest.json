@@ -27,7 +27,7 @@
     },
     "supplier": {
       "version": "1.4.421",
-      "published_at": "2026-08-25T18:27:39Z",
+      "published_at": "2026-08-25T18:31:52Z",
       "changelog": "Execute supplier Wego product publish commands from the bound Chrome page.",
       "assets": {
         "exe": {
@@ -44,7 +44,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.421/CloudAppRobot-bundle.zip",
-          "sha256": "98b1a31cc50cd029931800e5d3d608c93fd3b7acde7cbf2a54dc321e7f853bf6",
+          "sha256": "0217103ef720d41d13af877832de4d13d24803539c7c4b965f602533ad885c60",
           "size": 247904900
         }
       }
