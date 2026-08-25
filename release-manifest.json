@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.407",
-      "published_at": "2026-08-21T00:22:40Z",
-      "changelog": "Manual package after 1.4.406: keep App-only supplier import and Szwego publish dedupe; no auto install.",
+      "version": "1.4.408",
+      "published_at": "2026-08-25T00:20:18Z",
+      "changelog": "Recognize Weixin main window title after account switch.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.407/CloudAppRobot.exe",
-          "sha256": "556cf59be05a97521307af14d429fe07e205a94882e04484b12156e9499fea30",
-          "size": 37787546
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.408/CloudAppRobot.exe",
+          "sha256": "c98b1b0e3237527d65ad5210e388ff93655fda8f8fd9a0afb9a2dec9446f755a",
+          "size": 37708782
         },
         "py": {
           "download_url": "",
@@ -19,22 +19,22 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.407/CloudAppRobot-bundle.zip",
-          "sha256": "aac9aa090ef004d3142157ec5761d26eb494fb133b8c5c09b777e7cb106d7d99",
-          "size": 247954736
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.408/CloudAppRobot-bundle.zip",
+          "sha256": "46d2552d8dc4552183ac585546d7493ab3c670775ad80f17dac3758be3da43b3",
+          "size": 247873033
         }
       }
     },
     "supplier": {
-      "version": "1.4.401",
-      "published_at": "2026-08-19T02:53:55Z",
-      "changelog": "Add supplier Szwego product publishing queue and CDP publisher.",
+      "version": "1.4.392",
+      "published_at": "2026-08-17T00:56:56Z",
+      "changelog": "Fix robot solitaire upload dedupe and queue flood protection.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.401/CloudAppRobot.exe",
-          "sha256": "8ef03f0eb63636e9d92aa76e701f47c5ed5860025c5122ebfced508e69ae47ac",
-          "size": 37777954
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.392/CloudAppRobot.exe",
+          "sha256": "ecb360fc449603b7e6d939d6094a05cd9f9c317e47b1de431b3f47ddb1887561",
+          "size": 37703784
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.401/CloudAppRobot-bundle.zip",
-          "sha256": "dea21d940950d91cc8d2f2ce41fa3ab069b878093ec861a17fa794722775313b",
-          "size": 247936636
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.392/CloudAppRobot-bundle.zip",
+          "sha256": "e1650c54a1ba0802bb774ff3d5715f96afb7658e0a9b5913851ae04a963eaae9",
+          "size": 247808802
         }
       }
     }
