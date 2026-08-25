@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.408",
-      "published_at": "2026-08-25T00:20:18Z",
-      "changelog": "Recognize Weixin main window title after account switch.",
+      "version": "1.4.409",
+      "published_at": "2026-08-25T00:51:05Z",
+      "changelog": "Fix Weixin title detection and make manual update extract bundle before stopping processes; include Wego helper.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.408/CloudAppRobot.exe",
-          "sha256": "c98b1b0e3237527d65ad5210e388ff93655fda8f8fd9a0afb9a2dec9446f755a",
-          "size": 37708782
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.409/CloudAppRobot.exe",
+          "sha256": "aa9c8600c4cbb281fc42fb062ab0d44ce8281a4179ebbbe9e288919707948d4f",
+          "size": 37713697
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.408/CloudAppRobot-bundle.zip",
-          "sha256": "46d2552d8dc4552183ac585546d7493ab3c670775ad80f17dac3758be3da43b3",
-          "size": 247873033
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.409/CloudAppRobot-bundle.zip",
+          "sha256": "0825aa489d3220a3989820284c58fbb8106478feddf1b145d37221a8e9e4b671",
+          "size": 247874411
         }
       }
     },
