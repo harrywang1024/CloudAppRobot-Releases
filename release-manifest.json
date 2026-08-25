@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.415",
-      "published_at": "2026-08-25T14:06:37Z",
-      "changelog": "Rebuilt robot package with sender UIA preflight disabled by default; broadcasts now proceed to actual WeChat switch/focus/send checks.",
+      "version": "1.4.416",
+      "published_at": "2026-08-25T14:27:20Z",
+      "changelog": "Add geometry fallback for Weixin chat tab when UIA sidebar title is missing.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.415/CloudAppRobot.exe",
-          "sha256": "1a6fd33debe1e30f1b8299151794a1b17c932a182a17cf36ead963659af564e0",
-          "size": 37714717
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.416/CloudAppRobot.exe",
+          "sha256": "d63296f80c1075a0a356273a5252c8002d259f4b63dae4e2b4c2a644833099bc",
+          "size": 37715206
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.415/CloudAppRobot-bundle.zip",
-          "sha256": "2e63695ef59dbda16417e0bf1a98fe62f27aaca23f3547130081fde0381b9908",
-          "size": 247883148
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.416/CloudAppRobot-bundle.zip",
+          "sha256": "8d5f4e6fe21e520501db4aeb58d212a402c62ee519b6ddee96fddd34b58b73d8",
+          "size": 247883383
         }
       }
     },
