@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.418",
-      "published_at": "2026-08-25T15:20:56Z",
-      "changelog": "Report detailed Weixin UIA switch diagnostics for chat tab, current title, input edit, session list, and text samples.",
+      "version": "1.4.419",
+      "published_at": "2026-08-25T15:36:45Z",
+      "changelog": "Preserve pending update completion marker during manual robot bundle installs so cloud update commands can finalize after restart.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.418/CloudAppRobot.exe",
-          "sha256": "71de929a01e266a65c68ef275a6770432d7742e237819981a8e00b4c8a26a341",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.419/CloudAppRobot.exe",
+          "sha256": "94b4f08f849f8703e1ee3f3dcfea94bdcd389d12c0e5010e2f1f5231b9b21ace",
           "size": 37720831
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.418/CloudAppRobot-bundle.zip",
-          "sha256": "1f3433910ba893dce8c2b6415163706537c9855f4998734c209f0394e9eb4459",
-          "size": 247875334
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.419/CloudAppRobot-bundle.zip",
+          "sha256": "17f076d99fd0e535e5bce46035c13db81f73951f78988dce14267ee84954cd49",
+          "size": 247885941
         }
       }
     },
