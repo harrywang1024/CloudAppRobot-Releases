@@ -26,13 +26,13 @@
       }
     },
     "supplier": {
-      "version": "1.4.422",
-      "published_at": "2026-08-25T18:43:07Z",
-      "changelog": "Add staged diagnostics for supplier Wego publish timeouts.",
+      "version": "1.4.423",
+      "published_at": "2026-08-25T18:55:47Z",
+      "changelog": "Use direct file input upload fallback for supplier Wego publishing.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.422/CloudAppRobot.exe",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.423/CloudAppRobot.exe",
           "sha256": "c1328e846ad7a77364d657199f035f98718eba4f806451db1b7c836796cf38c6",
           "size": 37736680
         },
@@ -43,8 +43,8 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.422/CloudAppRobot-bundle.zip",
-          "sha256": "3b4d4365a1ff1f4a53595577b78798982069fd02ccf1a473bd68ee138f056bad",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.423/CloudAppRobot-bundle.zip",
+          "sha256": "d9f3c0f8a39245ad224b8eed7d81dec747f50c7b0be148fef6b93893fd279457",
           "size": 247904900
         }
       }
