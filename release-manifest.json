@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.409",
-      "published_at": "2026-08-25T00:51:05Z",
-      "changelog": "Fix Weixin title detection and make manual update extract bundle before stopping processes; include Wego helper.",
+      "version": "1.4.410",
+      "published_at": "2026-08-25T01:30:02Z",
+      "changelog": "Fix status panel Weixin main window detection",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.409/CloudAppRobot.exe",
-          "sha256": "aa9c8600c4cbb281fc42fb062ab0d44ce8281a4179ebbbe9e288919707948d4f",
-          "size": 37713697
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.410/CloudAppRobot.exe",
+          "sha256": "df9038f263107690453fdb4dc3078ead98b97f41e8096f0cd715f9b4f9cbd2cb",
+          "size": 37713694
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.409/CloudAppRobot-bundle.zip",
-          "sha256": "0825aa489d3220a3989820284c58fbb8106478feddf1b145d37221a8e9e4b671",
-          "size": 247874411
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.410/CloudAppRobot-bundle.zip",
+          "sha256": "264ef77156212bdea954f84a8dbcb71b6fd2f07a09b7c5d94b3608aae934df5d",
+          "size": 247876775
         }
       }
     },
