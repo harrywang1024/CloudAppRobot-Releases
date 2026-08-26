@@ -27,7 +27,7 @@
     },
     "supplier": {
       "version": "1.4.428",
-      "published_at": "2026-08-26T23:13:22Z",
+      "published_at": "2026-08-26T23:17:19Z",
       "changelog": "Keep sent broadcasts tracked through fulfillment; throttle missing-active diagnostics.",
       "assets": {
         "exe": {
@@ -44,7 +44,7 @@
         "bundle": {
           "kind": "bundle_zip",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.428/CloudAppRobot-bundle.zip",
-          "sha256": "d4c9d25a4dd49a1737525641eb0d501f5248cb25a58385ca73997971862a450e",
+          "sha256": "8b260465c50398b49266065fda5084f6ab0f74eaa8a6e47225718b57871899c3",
           "size": 247912199
         }
       }
