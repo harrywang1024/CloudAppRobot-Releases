@@ -26,15 +26,15 @@
       }
     },
     "supplier": {
-      "version": "1.4.427",
-      "published_at": "2026-08-26T02:03:24Z",
-      "changelog": "Use curl.exe for manual update downloads with Invoke-WebRequest fallback.",
+      "version": "1.4.428",
+      "published_at": "2026-08-26T23:13:22Z",
+      "changelog": "Keep sent broadcasts tracked through fulfillment; throttle missing-active diagnostics.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.427/CloudAppRobot.exe",
-          "sha256": "df0e0a860e47d73bffcbbcedc81aa79a6d5db5e47ea88295219dcb84e19df468",
-          "size": 37744118
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.428/CloudAppRobot.exe",
+          "sha256": "630c2650aace42521b2349ba97d683d8124723aca60676a26637883d80178be7",
+          "size": 37745543
         },
         "py": {
           "download_url": "",
@@ -43,9 +43,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.427/CloudAppRobot-bundle.zip",
-          "sha256": "afa8088b7271a8f7048378e693d8e4f717d49af50567e68cfd9eef2828be1824",
-          "size": 247856543
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.428/CloudAppRobot-bundle.zip",
+          "sha256": "d4c9d25a4dd49a1737525641eb0d501f5248cb25a58385ca73997971862a450e",
+          "size": 247912199
         }
       }
     }
