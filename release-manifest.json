@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.425",
-      "published_at": "2026-08-25T20:24:05Z",
-      "changelog": "Guard robot runtime cleanup when Wego API publish exits early.",
+      "version": "1.4.426",
+      "published_at": "2026-08-26T00:28:02Z",
+      "changelog": "Filter noisy runtime logs, keep UIA diagnostics local, and soften transient runtime stale warnings.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.425/CloudAppRobot.exe",
-          "sha256": "bdfe96b1559d0a5e3d192e0278ab3cfe9964610f4d99ce372cc2801ffc5cfdd9",
-          "size": 37743954
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.426/CloudAppRobot.exe",
+          "sha256": "c45bab9135de77eaa0511a1c4fa08d5d070376be26196f75e17378fe7afee785",
+          "size": 37744118
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.425/CloudAppRobot-bundle.zip",
-          "sha256": "4c6b1744a6092af8b903a06ea3becc7b30b9775d1054c1fe7b279dccf8b49f9f",
-          "size": 247845803
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.426/CloudAppRobot-bundle.zip",
+          "sha256": "58a4e4713c6279ce93941e080c9c12851ea0d4d9562f99eb3debbc8d98f4c3d6",
+          "size": 247856301
         }
       }
     },
