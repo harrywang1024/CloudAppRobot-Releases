@@ -2,14 +2,14 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.426",
-      "published_at": "2026-08-26T00:28:02Z",
-      "changelog": "Filter noisy runtime logs, keep UIA diagnostics local, and soften transient runtime stale warnings.",
+      "version": "1.4.427",
+      "published_at": "2026-08-26T02:01:35Z",
+      "changelog": "Use curl.exe for manual update downloads with Invoke-WebRequest fallback.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.426/CloudAppRobot.exe",
-          "sha256": "c45bab9135de77eaa0511a1c4fa08d5d070376be26196f75e17378fe7afee785",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.427/CloudAppRobot.exe",
+          "sha256": "df0e0a860e47d73bffcbbcedc81aa79a6d5db5e47ea88295219dcb84e19df468",
           "size": 37744118
         },
         "py": {
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.426/CloudAppRobot-bundle.zip",
-          "sha256": "f46e131a0994bf3b3740d36f491e8e1bd200eb2a7be92f66d50361940f635cbb",
-          "size": 247856301
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.427/CloudAppRobot-bundle.zip",
+          "sha256": "2c8c8927383a5e1408571917c9011e8a66deb477afd3dbffb7c2aefc169e1c22",
+          "size": 247856543
         }
       }
     },
