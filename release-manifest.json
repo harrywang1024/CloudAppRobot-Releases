@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.428",
-      "published_at": "2026-08-26T23:08:46Z",
-      "changelog": "Keep sent broadcasts tracked through fulfillment; throttle missing-active diagnostics.",
+      "version": "1.4.429",
+      "published_at": "2026-08-26T23:55:52Z",
+      "changelog": "Show manual update progress in local status panel and command payloads.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.428/CloudAppRobot.exe",
-          "sha256": "630c2650aace42521b2349ba97d683d8124723aca60676a26637883d80178be7",
-          "size": 37745543
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.429/CloudAppRobot.exe",
+          "sha256": "9f4076ee4bb243702e2f80ba05b6e15056988d3dde3927f5654f72554190c62e",
+          "size": 37748713
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.428/CloudAppRobot-bundle.zip",
-          "sha256": "8b260465c50398b49266065fda5084f6ab0f74eaa8a6e47225718b57871899c3",
-          "size": 247912199
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.429/CloudAppRobot-bundle.zip",
+          "sha256": "cf7a258eb99e5171da0e13718e70d99a3b694c418e4bfb2fc2936fb26179058b",
+          "size": 247917395
         }
       }
     },
