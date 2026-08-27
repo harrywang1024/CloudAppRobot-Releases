@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.430",
-      "published_at": "2026-08-27T01:11:58Z",
-      "changelog": "Validate active robot sessions by backend status and fulfillment date.",
+      "version": "1.4.431",
+      "published_at": "2026-08-27T01:58:43Z",
+      "changelog": "Reconcile active robot monitor sessions from backend fulfillment-date sessions.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.430/CloudAppRobot.exe",
-          "sha256": "b9a43dcb71e45e2d8ffe27e80dcfa149d273390915f22fb1e8e3603424e9de81",
-          "size": 37756197
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.431/CloudAppRobot.exe",
+          "sha256": "e58bf45fe61e13b8901f24d678f7e41cb2c973c8369825e1fd6dd6ffa6d8d8a5",
+          "size": 37758814
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.430/CloudAppRobot-bundle.zip",
-          "sha256": "f019f8ce4d8fcf14972c9978af72cc8cf998086548620607d6ba19015056c7a2",
-          "size": 247928147
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.431/CloudAppRobot-bundle.zip",
+          "sha256": "1b9b189c1d385d366ee4f0c5aca54ada4c7c4ad11888599e223bf924caa7bf1b",
+          "size": 247928440
         }
       }
     },
