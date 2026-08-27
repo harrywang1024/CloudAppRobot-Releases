@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.431",
-      "published_at": "2026-08-27T01:58:43Z",
-      "changelog": "Reconcile active robot monitor sessions from backend fulfillment-date sessions.",
+      "version": "1.4.432",
+      "published_at": "2026-08-27T13:52:34Z",
+      "changelog": "Fix solitaire snapshot upload retry when cloud preflight reports missing snapshots; add low-frequency local diagnostics for active sessions missing from WeChat DB scans.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.431/CloudAppRobot.exe",
-          "sha256": "e58bf45fe61e13b8901f24d678f7e41cb2c973c8369825e1fd6dd6ffa6d8d8a5",
-          "size": 37758814
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.432/CloudAppRobot.exe",
+          "sha256": "a4206ef24ef594b80dc9b5605ae1b1d0c803c3fc907dd3719e07c06261794bd4",
+          "size": 37760556
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.431/CloudAppRobot-bundle.zip",
-          "sha256": "1b9b189c1d385d366ee4f0c5aca54ada4c7c4ad11888599e223bf924caa7bf1b",
-          "size": 247928440
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.432/CloudAppRobot-bundle.zip",
+          "sha256": "8e2cffdbc307dd14ff8c7be2bef254c35717cc048719f4e19a2aa0d7d808e2ec",
+          "size": 247931427
         }
       }
     },
