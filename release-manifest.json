@@ -2,15 +2,15 @@
   "schema_version": 1,
   "channels": {
     "stable": {
-      "version": "1.4.432",
-      "published_at": "2026-08-27T13:52:34Z",
-      "changelog": "Fix solitaire snapshot upload retry when cloud preflight reports missing snapshots; add low-frequency local diagnostics for active sessions missing from WeChat DB scans.",
+      "version": "1.4.433",
+      "published_at": "2026-08-28T15:11:06Z",
+      "changelog": "Reject empty WeChat solitaire broadcast echoes and mark active sessions with empty cloud snapshots dirty for local DB rescan.",
       "assets": {
         "exe": {
           "kind": "exe",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.432/CloudAppRobot.exe",
-          "sha256": "a4206ef24ef594b80dc9b5605ae1b1d0c803c3fc907dd3719e07c06261794bd4",
-          "size": 37760556
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.433/CloudAppRobot.exe",
+          "sha256": "272e8128358fce3e7050efbd9496aaabd62b71b6116d08d2188234dca66307fa",
+          "size": 37763437
         },
         "py": {
           "download_url": "",
@@ -19,9 +19,9 @@
         },
         "bundle": {
           "kind": "bundle_zip",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.432/CloudAppRobot-bundle.zip",
-          "sha256": "8e2cffdbc307dd14ff8c7be2bef254c35717cc048719f4e19a2aa0d7d808e2ec",
-          "size": 247931427
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.433/CloudAppRobot-bundle.zip",
+          "sha256": "c441892accd4dea869c804cfcfce39314de46ad4af3b17ee2971093f453347da",
+          "size": 247934675
         }
       }
     },
