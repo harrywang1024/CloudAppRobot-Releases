@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.454",
-      "published_at": "2026-08-30T22:31:11Z",
-      "changelog": "Add dedicated-device system portrait lock support and reduce WeChat ShareImgUI image step interval to 1.2s after successful Xiaomi 002 WeChat+Wego verification.",
+      "version": "1.4.456",
+      "published_at": "2026-08-30T23:02:15Z",
+      "changelog": "Android self-update test build; includes visible conversation entry hardening for Xiaomi/Samsung read patrol.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.454/AI-Assist-Android-v1.4.454.apk",
-          "sha256": "39a014827765894131188042b113a8f7d8647dd74d7bd59136931de62d28f481",
-          "size": 2440842
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.456/AI-Assist-Android-v1.4.456.apk",
+          "sha256": "c8238853c947b247a400c742a21be55eb248e518a9431d56866693144073356f",
+          "size": 2441350
         }
       }
     },
