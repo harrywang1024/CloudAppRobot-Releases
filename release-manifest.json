@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.460",
-      "published_at": "2026-08-30T23:10:37Z",
-      "changelog": "Fix the update button row layout while keeping separate install and download actions.",
+      "version": "1.4.461",
+      "published_at": "2026-08-30T23:47:50Z",
+      "changelog": "Stabilize Xiaomi WeChat share target selection and slightly increase image step spacing.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.460/AI-Assist-Android-v1.4.460.apk",
-          "sha256": "d3f5a04de3f08116fb0cdad3b2a49b0609224a59ac2dc374abc4ec755b192eaf",
-          "size": 2446034
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.461/AI-Assist-Android-v1.4.461.apk",
+          "sha256": "928e9fc549c68ad5ecec9d0d867e5695a116592e4d0ff0c557f1fff1d7cdbb46",
+          "size": 2446470
         }
       }
     },
