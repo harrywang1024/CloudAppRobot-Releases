@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.448",
-      "published_at": "2026-08-30T16:07:22Z",
-      "changelog": "Require the WeChat share picker or send confirmation dialog before selecting broadcast targets; retry share launch when Xiaomi stays on the chat list.",
+      "version": "1.4.449",
+      "published_at": "2026-08-30T16:13:20Z",
+      "changelog": "Wait for Xiaomi WeChat accessibility windows to recover between consecutive media shares and extend share picker launch retries.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.448/AI-Assist-Android-v1.4.448.apk",
-          "sha256": "a49e349edc308357996cfd320a265591461603a5df054cc857d7e4848f3ef17b",
-          "size": 2377088
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.449/AI-Assist-Android-v1.4.449.apk",
+          "sha256": "9f25975aeef8fc558e8855c6ad452dcb5bede545dec7ac33f8e2442236253430",
+          "size": 2377472
         }
       }
     },
