@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.442",
-      "published_at": "2026-08-30T12:45:00Z",
-      "changelog": "Prioritize Android APK updates before patrols and speed WeChat patrol backtrace scrolling.",
+      "version": "1.4.443",
+      "published_at": "2026-08-30T13:28:00Z",
+      "changelog": "Keep Android patrols on group conversations only and make pending WeChat read retries fast enough for order capture.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.442/AI-Assist-Android-v1.4.442.apk",
-          "sha256": "fe24e41b42a2f308d5af38cbda7a558de7bd019ba226622a3a226a373f06e399",
-          "size": 2369108
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.443/AI-Assist-Android-v1.4.443.apk",
+          "sha256": "d4f461041fa7799245b7e6d2c3941d6c0da53e9af7e6174fe9d9fe971163d6c0",
+          "size": 2369568
         }
       }
     },
