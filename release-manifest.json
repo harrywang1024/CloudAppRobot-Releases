@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.447",
-      "published_at": "2026-08-30T15:09:00Z",
-      "changelog": "Clear stale Android pending patrols after confirming the target chat has no new messages.",
+      "version": "1.4.448",
+      "published_at": "2026-08-30T16:07:22Z",
+      "changelog": "Require the WeChat share picker or send confirmation dialog before selecting broadcast targets; retry share launch when Xiaomi stays on the chat list.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.447/AI-Assist-Android-v1.4.447.apk",
-          "sha256": "79a876dc320299e50ef140a149adb65b2505c65c0beec7e6586512ad60cfb51f",
-          "size": 2437628
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.448/AI-Assist-Android-v1.4.448.apk",
+          "sha256": "a49e349edc308357996cfd320a265591461603a5df054cc857d7e4848f3ef17b",
+          "size": 2377088
         }
       }
     },
