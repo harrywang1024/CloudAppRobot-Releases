@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.440",
-      "published_at": "2026-08-30T12:07:20Z",
-      "changelog": "Improve Android WeChat conversation search matching and cursor-gap recovery; add debug-only forced search read verification.",
+      "version": "1.4.441",
+      "published_at": "2026-08-30T12:33:34Z",
+      "changelog": "Stop Android robot service before APK install confirmation to prevent UI automation from interfering with updates.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.440/AI-Assist-Android-v1.4.440.apk",
-          "sha256": "e037a11407ff2b18823a5e29ffa2667da27c69c54a5f15a76797cfee47b983c2",
-          "size": 2368436
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.441/AI-Assist-Android-v1.4.441.apk",
+          "sha256": "369baf77efc09cdad4165b8601e24f0c1d4fd9e08344e2ed2b60b6618f218e70",
+          "size": 2368868
         }
       }
     },
