@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.456",
-      "published_at": "2026-08-30T23:02:15Z",
-      "changelog": "Android self-update test build; includes visible conversation entry hardening for Xiaomi/Samsung read patrol.",
+      "version": "1.4.458",
+      "published_at": "2026-08-30T23:06:17Z",
+      "changelog": "Add a separate Download Update button that saves the APK to Downloads without opening the installer.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.456/AI-Assist-Android-v1.4.456.apk",
-          "sha256": "c8238853c947b247a400c742a21be55eb248e518a9431d56866693144073356f",
-          "size": 2441350
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.458/AI-Assist-Android-v1.4.458.apk",
+          "sha256": "a520588ca42281ad0fc94ff6a4b0b529272faf20f03818dbf1fa50944d5e8ebd",
+          "size": 2445906
         }
       }
     },
