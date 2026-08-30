@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.435",
-      "published_at": "2026-08-30T03:25:02Z",
-      "changelog": "Add setup UI version display and manual Check / Install Update flow for Android AI Assist.",
+      "version": "1.4.436",
+      "published_at": "2026-08-30T03:34:00Z",
+      "changelog": "Allow public Android release check even when backend update-command polling returns 401, and avoid sending CloudApp bearer tokens to external APK URLs.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.435/AI-Assist-Android-v1.4.435.apk",
-          "sha256": "4dad040b641ce356ba431c6b74d6428d6460f13856a73c082740efc5a629c1e1",
-          "size": 2351514
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.436/AI-Assist-Android-v1.4.436.apk",
+          "sha256": "d944e013ab4ab87e1f553b98f1feb91f47e2b5a0743c5a29e00a8feef6ef2aef",
+          "size": 2351694
         }
       }
     },
