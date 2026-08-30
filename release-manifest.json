@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.450",
-      "published_at": "2026-08-30T16:23:00Z",
-      "changelog": "Retry the full WeChat share delivery step when Xiaomi drops from the share picker back to the chat list before target confirmation.",
+      "version": "1.4.453",
+      "published_at": "2026-08-30T22:12:12Z",
+      "changelog": "Restore the WeChat share route as the primary Android broadcast path, split helper accessibility entries into lightweight tree probes, throttle configured patrols, and keep runtime message upload diagnostics.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.450/AI-Assist-Android-v1.4.450.apk",
-          "sha256": "573768da6a1f0a2ebc016b44db403d8df37268cc465f239d32d439685623e83f",
-          "size": 2377964
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.453/AI-Assist-Android-v1.4.453.apk",
+          "sha256": "c81dcf7ea9aca69be2014b169780d6b6f42d4f22e8b5a9d18fefd3308d0b17ef",
+          "size": 2437567
         }
       }
     },
