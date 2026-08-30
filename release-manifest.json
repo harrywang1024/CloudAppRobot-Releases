@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.445",
-      "published_at": "2026-08-30T14:32:00Z",
-      "changelog": "Route Android APK updates through the system installer and stop the robot service before prompting install.",
+      "version": "1.4.446",
+      "published_at": "2026-08-30T14:42:00Z",
+      "changelog": "Return WeChat to the conversation list after Android patrol message reads.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.445/AI-Assist-Android-v1.4.445.apk",
-          "sha256": "55181c4c2da9bc3def8f2086c10e5168a46b995b466e9a01d448d35177d55c2c",
-          "size": 2436487
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.446/AI-Assist-Android-v1.4.446.apk",
+          "sha256": "3255a9d666dca9370ec4000f0c2f94ec67a24be2b5d4a7055725e1522ecaf109",
+          "size": 2372776
         }
       }
     },
