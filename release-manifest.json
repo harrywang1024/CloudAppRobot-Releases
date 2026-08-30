@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.444",
-      "published_at": "2026-08-30T14:12:00Z",
-      "changelog": "Clear Android pending conversation retries after successful message upload while preserving cursor safety.",
+      "version": "1.4.445",
+      "published_at": "2026-08-30T14:32:00Z",
+      "changelog": "Route Android APK updates through the system installer and stop the robot service before prompting install.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.444/AI-Assist-Android-v1.4.444.apk",
-          "sha256": "7e29dbef515fc2af2cf932eb8e52f0c94704a095deb501a14fa1feebd1c1ea6d",
-          "size": 2369568
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.445/AI-Assist-Android-v1.4.445.apk",
+          "sha256": "55181c4c2da9bc3def8f2086c10e5168a46b995b466e9a01d448d35177d55c2c",
+          "size": 2436487
         }
       }
     },
