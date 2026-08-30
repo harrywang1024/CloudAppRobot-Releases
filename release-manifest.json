@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.441",
-      "published_at": "2026-08-30T12:33:34Z",
-      "changelog": "Stop Android robot service before APK install confirmation to prevent UI automation from interfering with updates.",
+      "version": "1.4.442",
+      "published_at": "2026-08-30T12:45:00Z",
+      "changelog": "Prioritize Android APK updates before patrols and speed WeChat patrol backtrace scrolling.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.441/AI-Assist-Android-v1.4.441.apk",
-          "sha256": "369baf77efc09cdad4165b8601e24f0c1d4fd9e08344e2ed2b60b6618f218e70",
-          "size": 2368868
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.442/AI-Assist-Android-v1.4.442.apk",
+          "sha256": "fe24e41b42a2f308d5af38cbda7a558de7bd019ba226622a3a226a373f06e399",
+          "size": 2369108
         }
       }
     },
