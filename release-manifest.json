@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.446",
-      "published_at": "2026-08-30T14:42:00Z",
-      "changelog": "Return WeChat to the conversation list after Android patrol message reads.",
+      "version": "1.4.447",
+      "published_at": "2026-08-30T15:09:00Z",
+      "changelog": "Clear stale Android pending patrols after confirming the target chat has no new messages.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.446/AI-Assist-Android-v1.4.446.apk",
-          "sha256": "3255a9d666dca9370ec4000f0c2f94ec67a24be2b5d4a7055725e1522ecaf109",
-          "size": 2372776
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.447/AI-Assist-Android-v1.4.447.apk",
+          "sha256": "79a876dc320299e50ef140a149adb65b2505c65c0beec7e6586512ad60cfb51f",
+          "size": 2437628
         }
       }
     },
