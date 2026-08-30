@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.436",
-      "published_at": "2026-08-30T03:34:00Z",
-      "changelog": "Allow public Android release check even when backend update-command polling returns 401, and avoid sending CloudApp bearer tokens to external APK URLs.",
+      "version": "1.4.437",
+      "published_at": "2026-08-30T05:01:59Z",
+      "changelog": "Restore the Samsung-tested WeChat ShareImgUI media broadcast path, keep the compatibility accessibility aliases required for WeChat trees, and keep setup mode stopped until Start.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.436/AI-Assist-Android-v1.4.436.apk",
-          "sha256": "d944e013ab4ab87e1f553b98f1feb91f47e2b5a0743c5a29e00a8feef6ef2aef",
-          "size": 2351694
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.437/AI-Assist-Android-v1.4.437.apk",
+          "sha256": "94018007e37a867b0c9a4c003530ea4fb70b284e44eae159d577f9bae99723fd",
+          "size": 2360216
         }
       }
     },
