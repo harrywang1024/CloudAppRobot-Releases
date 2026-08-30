@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.438",
-      "published_at": "2026-08-30T05:38:51Z",
-      "changelog": "Stabilize Android Wego sync publishing on Xiaomi by preserving the verified WeChat-first route, attaching single or multiple images through Wego share, confirming publish success, and returning to WeChat after cleanup.",
+      "version": "1.4.439",
+      "published_at": "2026-08-30T05:58:30Z",
+      "changelog": "Preserve multiline WeChat chat text in Android accessibility reads so solitaire uploads keep floor breaks; backend also tolerates collapsed text.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.438/AI-Assist-Android-v1.4.438.apk",
-          "sha256": "20ce6d8e4b849fd6d8bfccf0bfd2b30fc9bfee7933d4fceb601f2e1e057d639e",
-          "size": 2364416
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.439/AI-Assist-Android-v1.4.439.apk",
+          "sha256": "542c8d37c9f649f908503803cd80e5f1572a09e022e3d30b9abdb60ae655aea3",
+          "size": 2364440
         }
       }
     },
