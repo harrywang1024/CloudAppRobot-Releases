@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.459",
-      "published_at": "2026-08-30T23:08:45Z",
-      "changelog": "Test release for validating the separate Download Update button and manual APK install flow.",
+      "version": "1.4.460",
+      "published_at": "2026-08-30T23:10:37Z",
+      "changelog": "Fix the update button row layout while keeping separate install and download actions.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.459/AI-Assist-Android-v1.4.459.apk",
-          "sha256": "f105631bf8890ac8d8fcec7c4a2e54c41e6fe452e562e4fd5166e33f3f99b1af",
-          "size": 2445910
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.460/AI-Assist-Android-v1.4.460.apk",
+          "sha256": "d3f5a04de3f08116fb0cdad3b2a49b0609224a59ac2dc374abc4ec755b192eaf",
+          "size": 2446034
         }
       }
     },
