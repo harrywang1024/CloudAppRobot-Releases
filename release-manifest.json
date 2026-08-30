@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.434",
-      "published_at": "2026-08-30T02:52:00Z",
-      "changelog": "Add Android APK self-update command support and extended media broadcast timeout handling.",
+      "version": "1.4.435",
+      "published_at": "2026-08-30T03:25:02Z",
+      "changelog": "Add setup UI version display and manual Check / Install Update flow for Android AI Assist.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.434-android/AI-Assist-Android-v1.4.434.apk",
-          "sha256": "87ead9930e1f080a6991482efd561ac4f5d54ad7818c6eb1a8bb869fdffa1a4d",
-          "size": 2339152
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.435/AI-Assist-Android-v1.4.435.apk",
+          "sha256": "4dad040b641ce356ba431c6b74d6428d6460f13856a73c082740efc5a629c1e1",
+          "size": 2351514
         }
       }
     },
