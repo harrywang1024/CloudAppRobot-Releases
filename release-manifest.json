@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.439",
-      "published_at": "2026-08-30T05:58:30Z",
-      "changelog": "Preserve multiline WeChat chat text in Android accessibility reads so solitaire uploads keep floor breaks; backend also tolerates collapsed text.",
+      "version": "1.4.440",
+      "published_at": "2026-08-30T12:07:20Z",
+      "changelog": "Improve Android WeChat conversation search matching and cursor-gap recovery; add debug-only forced search read verification.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.439/AI-Assist-Android-v1.4.439.apk",
-          "sha256": "542c8d37c9f649f908503803cd80e5f1572a09e022e3d30b9abdb60ae655aea3",
-          "size": 2364440
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.440/AI-Assist-Android-v1.4.440.apk",
+          "sha256": "e037a11407ff2b18823a5e29ffa2667da27c69c54a5f15a76797cfee47b983c2",
+          "size": 2368436
         }
       }
     },
