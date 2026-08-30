@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.453",
-      "published_at": "2026-08-30T22:12:12Z",
-      "changelog": "Restore the WeChat share route as the primary Android broadcast path, split helper accessibility entries into lightweight tree probes, throttle configured patrols, and keep runtime message upload diagnostics.",
+      "version": "1.4.454",
+      "published_at": "2026-08-30T22:31:11Z",
+      "changelog": "Add dedicated-device system portrait lock support and reduce WeChat ShareImgUI image step interval to 1.2s after successful Xiaomi 002 WeChat+Wego verification.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.453/AI-Assist-Android-v1.4.453.apk",
-          "sha256": "c81dcf7ea9aca69be2014b169780d6b6f42d4f22e8b5a9d18fefd3308d0b17ef",
-          "size": 2437567
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.454/AI-Assist-Android-v1.4.454.apk",
+          "sha256": "39a014827765894131188042b113a8f7d8647dd74d7bd59136931de62d28f481",
+          "size": 2440842
         }
       }
     },
