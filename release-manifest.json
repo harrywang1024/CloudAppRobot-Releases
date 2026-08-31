@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.463",
-      "published_at": "2026-08-31T01:55:28Z",
-      "changelog": "Add Android WeChat Moments publishing support for supplier imports while keeping WeChat and Wego queues separate.",
+      "version": "1.4.466",
+      "published_at": "2026-08-31T12:01:35Z",
+      "changelog": "Add Android WhatsApp publish/read channel and supplier import WhatsApp target while keeping WeChat, Wego, and Moments queues separated.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.463/AI-Assist-Android-v1.4.463.apk",
-          "sha256": "d1ccd4dbd95d223cd949b742e8c512107df4fb79c8753b78baeb6e04d8e11505",
-          "size": 2467362
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.466/AI-Assist-Android-v1.4.466.apk",
+          "sha256": "b61151652707fa65fddd77ecda2165e575289d56eea848563e0282e8339ec189",
+          "size": 2488194
         }
       }
     },
