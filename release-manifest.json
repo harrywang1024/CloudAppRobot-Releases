@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.462",
-      "published_at": "2026-08-31T00:17:30Z",
-      "changelog": "Use tree-bounds gesture taps for WeChat recent share targets and add per-media share trace diagnostics.",
+      "version": "1.4.463",
+      "published_at": "2026-08-31T01:55:28Z",
+      "changelog": "Add Android WeChat Moments publishing support for supplier imports while keeping WeChat and Wego queues separate.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.462/AI-Assist-Android-v1.4.462.apk",
-          "sha256": "9cea90373c660a530ff5eafb1e793d93f3369e97b084e3daf74f80c40be02391",
-          "size": 2668903
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.463/AI-Assist-Android-v1.4.463.apk",
+          "sha256": "d1ccd4dbd95d223cd949b742e8c512107df4fb79c8753b78baeb6e04d8e11505",
+          "size": 2467362
         }
       }
     },
