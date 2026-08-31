@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.474",
-      "published_at": "2026-08-31T21:59:00Z",
-      "changelog": "Keep Android command status and heartbeat alive during long WeChat media sends.",
+      "version": "1.4.475",
+      "published_at": "2026-08-31T22:10:00Z",
+      "changelog": "Keep Android command status and heartbeat alive during long WeChat media sends and avoid stale release-manifest cache during manual APK updates.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.474/AI-Assist-Android-v1.4.474.apk",
-          "sha256": "34fc3f96b666529a609c14f431691a7ade3c0a44a8368ead4c9111844c935d15",
-          "size": 2493802
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.475/AI-Assist-Android-v1.4.475.apk",
+          "sha256": "40f4926cb5bfdab09b0f7480eab2b0ea7254d27604bdb114697fda5fe29099f0",
+          "size": 2493934
         }
       }
     },
