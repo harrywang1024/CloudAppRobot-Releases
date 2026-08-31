@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.467",
-      "published_at": "2026-08-31T13:12:18Z",
-      "changelog": "Fix Android supplier WeChat route matching and prefer WhatsApp contact-picker result rows when selecting a target conversation.",
+      "version": "1.4.468",
+      "published_at": "2026-08-31T13:25:30Z",
+      "changelog": "Prefer visible click bounds for WeChat share targets on Xiaomi and keep WhatsApp target selection on contact-picker rows.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.467/AI-Assist-Android-v1.4.467.apk",
-          "sha256": "ebb10d7b9cf8da39ccc9e93ce483ee2192ef83a0e9e1b54bf36f6df7f3efb65b",
-          "size": 2488426
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.468/AI-Assist-Android-v1.4.468.apk",
+          "sha256": "81bee7b97f2a66abec6e0442046f7a57136f00418e7a15c3b69c7ccba9b51be6",
+          "size": 2488550
         }
       }
     },
