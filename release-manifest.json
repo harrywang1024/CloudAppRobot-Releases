@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.473",
-      "published_at": "2026-08-31T14:47:02Z",
-      "changelog": "Defer local patrols after outbound UI tasks so queued WeChat, Wego, Moments, and WhatsApp publishing keep priority.",
+      "version": "1.4.474",
+      "published_at": "2026-08-31T21:59:00Z",
+      "changelog": "Keep Android command status and heartbeat alive during long WeChat media sends.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.473/AI-Assist-Android-v1.4.473.apk",
-          "sha256": "24159cf999cd190691db73e3346e71880942ef881f3c980b77a2275b41056fc4",
-          "size": 2491690
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.474/AI-Assist-Android-v1.4.474.apk",
+          "sha256": "34fc3f96b666529a609c14f431691a7ade3c0a44a8368ead4c9111844c935d15",
+          "size": 2493802
         }
       }
     },
