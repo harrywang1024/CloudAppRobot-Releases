@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.472",
-      "published_at": "2026-08-31T14:00:23Z",
-      "changelog": "Click WhatsApp share targets by the matched contact-picker result row and keep UI-task preflight package-specific.",
+      "version": "1.4.473",
+      "published_at": "2026-08-31T14:47:02Z",
+      "changelog": "Defer local patrols after outbound UI tasks so queued WeChat, Wego, Moments, and WhatsApp publishing keep priority.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.472/AI-Assist-Android-v1.4.472.apk",
-          "sha256": "69ae4fd0c871d753b6453a9aba8f05508d92349b204c245b4d4d336f30e26927",
-          "size": 2491266
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.473/AI-Assist-Android-v1.4.473.apk",
+          "sha256": "24159cf999cd190691db73e3346e71880942ef881f3c980b77a2275b41056fc4",
+          "size": 2491690
         }
       }
     },
