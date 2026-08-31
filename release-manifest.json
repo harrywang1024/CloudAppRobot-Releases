@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.468",
-      "published_at": "2026-08-31T13:25:30Z",
-      "changelog": "Prefer visible click bounds for WeChat share targets on Xiaomi and keep WhatsApp target selection on contact-picker rows.",
+      "version": "1.4.472",
+      "published_at": "2026-08-31T14:00:23Z",
+      "changelog": "Click WhatsApp share targets by the matched contact-picker result row and keep UI-task preflight package-specific.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.468/AI-Assist-Android-v1.4.468.apk",
-          "sha256": "81bee7b97f2a66abec6e0442046f7a57136f00418e7a15c3b69c7ccba9b51be6",
-          "size": 2488550
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.472/AI-Assist-Android-v1.4.472.apk",
+          "sha256": "69ae4fd0c871d753b6453a9aba8f05508d92349b204c245b4d4d336f30e26927",
+          "size": 2491266
         }
       }
     },
