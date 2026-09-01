@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.487",
-      "published_at": "2026-09-01T01:10:00Z",
-      "changelog": "Add WhatsApp message patrol and fix read flow when WhatsApp opens the quick contact card before the chat.",
+      "version": "1.4.489",
+      "published_at": "2026-09-01T01:34:00Z",
+      "changelog": "Fix Android WhatsApp scheduled patrol when the idle accessibility tree is unavailable and keep WhatsApp message IDs stable across patrol rounds.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.487/AI-Assist-Android-v1.4.487.apk",
-          "sha256": "3c2da7dd3fbd2d2143d7672fb933975a4b8439c3523ac94326da0b9de67492bd",
-          "size": 2505710
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.489/AI-Assist-Android-v1.4.489.apk",
+          "sha256": "b30b0c7e3d9eafe16180a69ca98320892875c506328d1c25e13c296aaab2c14f",
+          "size": 2505522
         }
       }
     },
