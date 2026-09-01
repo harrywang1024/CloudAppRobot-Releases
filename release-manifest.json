@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.490",
-      "published_at": "2026-09-01T13:20:00Z",
-      "changelog": "Recover Android accessibility tree when WeChat search leaves a visible page with an empty node tree.",
+      "version": "1.4.492",
+      "published_at": "2026-09-01T14:59:31Z",
+      "changelog": "Require all three Android accessibility services in robot health, report missing bindings, and send WeChat images in 9-image external-share batches with fallback.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.490/AI-Assist-Android-v1.4.490.apk",
-          "sha256": "53da42da0b4c8db77e34620a2ba2084da8d9a2459c936ff7926019a884ad6866",
-          "size": 1874999
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.492/AI-Assist-Android-v1.4.492.apk",
+          "sha256": "3a4cce67c60d542c084480a0073fc3f8d1785ff41ac28e5387f79f8e57397f6f",
+          "size": 1883191
         }
       }
     },
