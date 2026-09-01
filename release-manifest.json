@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.516",
-      "published_at": "2026-09-01T18:56:01Z",
-      "changelog": "Harden WhatsApp patrol conversation opening by tapping only title text/OCR matches, rejecting avatar/icon labels, and backing out of WhatsApp contact/profile surfaces before navigation.",
+      "version": "1.4.517",
+      "published_at": "2026-09-01T19:23:47Z",
+      "changelog": "Add a local pending upload outbox so command results, runtime message logs, and solitaire ingest uploads are preserved across network outages and retried after connectivity returns.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.516/AI-Assist-Android-v1.4.516.apk",
-          "sha256": "284238e219f5f9f1d86fdf101644e06d322b394e32c76fff0cdda25756db01f2",
-          "size": 47997755
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.517/AI-Assist-Android-v1.4.517.apk",
+          "sha256": "d5b70fbbbc6e28a942fee65b328234e8da0eca090cbbbc34707dcb581de1ced0",
+          "size": 48014485
         }
       }
     },
