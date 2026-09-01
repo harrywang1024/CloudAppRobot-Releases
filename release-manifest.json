@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.503",
-      "published_at": "2026-09-01T16:48:00Z",
-      "changelog": "Harden WhatsApp send and patrol navigation: selector-first target clicks, strict posted-text confirmation, composer-draft cleanup, non-target chat exit before search, system overlay dismissal, and incoming-only sender attribution.",
+      "version": "1.4.507",
+      "published_at": "2026-09-01T17:12:00Z",
+      "changelog": "Add APK-side ML Kit OCR evidence and OCR-first WhatsApp target selection to avoid quick-contact cards while preserving selector fallback; enable screenshot capability on all three accessibility services.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.503/AI-Assist-Android-v1.4.503.apk",
-          "sha256": "e3534c14919d64b92231e7530d3db16fa1e94ddb4bde15c76b1b641d055a7e58",
-          "size": 1887287
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.507/AI-Assist-Android-v1.4.507.apk",
+          "sha256": "187b0003476356ae1a84104b92f34564abe221795e66498268344efed03b2041",
+          "size": 46704837
         }
       }
     },
