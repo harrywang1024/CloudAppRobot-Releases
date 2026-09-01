@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.515",
-      "published_at": "2026-09-01T18:21:00Z",
-      "changelog": "Keep WeChat UI tasks on an active WeChat window before navigation, harden WeChat share/home/search selection with OCR, and prevent WhatsApp quick-contact-card recovery paths by retrying selector-safe target selection.",
+      "version": "1.4.516",
+      "published_at": "2026-09-01T18:56:01Z",
+      "changelog": "Harden WhatsApp patrol conversation opening by tapping only title text/OCR matches, rejecting avatar/icon labels, and backing out of WhatsApp contact/profile surfaces before navigation.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.515/AI-Assist-Android-v1.4.515.apk",
-          "sha256": "2db5805995190f962277e10651e186d4dbcaa090a37cc9b700f7790e882bd8b6",
-          "size": 47992577
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.516/AI-Assist-Android-v1.4.516.apk",
+          "sha256": "284238e219f5f9f1d86fdf101644e06d322b394e32c76fff0cdda25756db01f2",
+          "size": 47997755
         }
       }
     },
