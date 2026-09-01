@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.507",
-      "published_at": "2026-09-01T17:12:00Z",
-      "changelog": "Add APK-side ML Kit OCR evidence and OCR-first WhatsApp target selection to avoid quick-contact cards while preserving selector fallback; enable screenshot capability on all three accessibility services.",
+      "version": "1.4.515",
+      "published_at": "2026-09-01T18:21:00Z",
+      "changelog": "Keep WeChat UI tasks on an active WeChat window before navigation, harden WeChat share/home/search selection with OCR, and prevent WhatsApp quick-contact-card recovery paths by retrying selector-safe target selection.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.507/AI-Assist-Android-v1.4.507.apk",
-          "sha256": "187b0003476356ae1a84104b92f34564abe221795e66498268344efed03b2041",
-          "size": 46704837
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.515/AI-Assist-Android-v1.4.515.apk",
+          "sha256": "2db5805995190f962277e10651e186d4dbcaa090a37cc9b700f7790e882bd8b6",
+          "size": 47992577
         }
       }
     },
