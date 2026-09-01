@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.492",
-      "published_at": "2026-09-01T14:59:31Z",
-      "changelog": "Require all three Android accessibility services in robot health, report missing bindings, and send WeChat images in 9-image external-share batches with fallback.",
+      "version": "1.4.493",
+      "published_at": "2026-09-01T15:51:39Z",
+      "changelog": "Stabilize WhatsApp target selection with selector-first accessibility clicks, hard-confirm target and posted text, and log safe WhatsApp read-message patrol evidence.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.492/AI-Assist-Android-v1.4.492.apk",
-          "sha256": "3a4cce67c60d542c084480a0073fc3f8d1785ff41ac28e5387f79f8e57397f6f",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.493/AI-Assist-Android-v1.4.493.apk",
+          "sha256": "17298a3f294d3eb95720cdef5fea86c3975805d64e5b8121589e70bb675927d6",
           "size": 1883191
         }
       }
