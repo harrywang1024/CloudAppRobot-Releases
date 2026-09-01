@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.517",
-      "published_at": "2026-09-01T19:23:47Z",
-      "changelog": "Add a local pending upload outbox so command results, runtime message logs, and solitaire ingest uploads are preserved across network outages and retried after connectivity returns.",
+      "version": "1.4.518",
+      "published_at": "2026-09-01T22:38:05Z",
+      "changelog": "Keep WhatsApp patrol on the chat list, gate reads on target unread badges, and avoid treating list avatars as contact/profile cards.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.517/AI-Assist-Android-v1.4.517.apk",
-          "sha256": "d5b70fbbbc6e28a942fee65b328234e8da0eca090cbbbc34707dcb581de1ced0",
-          "size": 48014485
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.518/AI-Assist-Android-v1.4.518.apk",
+          "sha256": "be3d57d98d78266c2099183d99cede414255809703d5a632e59bd44473ec6234",
+          "size": 47706633
         }
       }
     },
