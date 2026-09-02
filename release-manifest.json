@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.523",
-      "published_at": "2026-09-02T20:00:00Z",
-      "changelog": "Keep Xiaohongshu visible until publish success is detected; retain a 15-second inspection window before failure cleanup.",
+      "version": "1.4.524",
+      "published_at": "2026-09-02T20:27:14Z",
+      "changelog": "Add a ready/running scheduler gate and keep Xiaohongshu and WeChat Channels success screens visible for 10 seconds before returning to WeChat.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.523/AI-Assist-Android-v1.4.523.apk",
-          "sha256": "f40f25ceae2b8e1ceaaf35a7969a3d4dc9e48c7ed93aad9b2169a5f5c07e31f0",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.524/AI-Assist-Android-v1.4.524.apk",
+          "sha256": "4843c5ed850b3e21e2b48fdf4f9b31466293ee88e1d2cce90a5df0429330653b",
           "size": 46770373
         }
       }
