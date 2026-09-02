@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.519",
-      "published_at": "2026-09-02T15:26:45Z",
-      "changelog": "Add Xiaohongshu as an Android publish channel with multi-image notes, single-video notes, robot queue handling, and mixed media guardrails.",
+      "version": "1.4.520",
+      "published_at": "2026-09-02T19:24:32Z",
+      "changelog": "Allow Android robots to pull WeChat Channels publish commands and finish the WeChat video editor before Moments video posting.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.519/AI-Assist-Android-v1.4.519.apk",
-          "sha256": "578667e309dd178b5d2dd5527e4de746a06dc95faf0cfdd788aac463968227a3",
-          "size": 47739397
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.520/AI-Assist-Android-v1.4.520.apk",
+          "sha256": "d95f5b806f353bfd8a6c6ce980c348363dcf66cce3749586ccd0944c55bcc857",
+          "size": 46770373
         }
       }
     },
