@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.518",
-      "published_at": "2026-09-01T22:38:05Z",
-      "changelog": "Keep WhatsApp patrol on the chat list, gate reads on target unread badges, and avoid treating list avatars as contact/profile cards.",
+      "version": "1.4.519",
+      "published_at": "2026-09-02T15:26:45Z",
+      "changelog": "Add Xiaohongshu as an Android publish channel with multi-image notes, single-video notes, robot queue handling, and mixed media guardrails.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.518/AI-Assist-Android-v1.4.518.apk",
-          "sha256": "be3d57d98d78266c2099183d99cede414255809703d5a632e59bd44473ec6234",
-          "size": 47706633
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.519/AI-Assist-Android-v1.4.519.apk",
+          "sha256": "578667e309dd178b5d2dd5527e4de746a06dc95faf0cfdd788aac463968227a3",
+          "size": 47739397
         }
       }
     },
