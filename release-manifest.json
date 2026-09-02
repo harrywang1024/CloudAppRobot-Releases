@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.524",
-      "published_at": "2026-09-02T20:27:14Z",
-      "changelog": "Add a ready/running scheduler gate and keep Xiaohongshu and WeChat Channels success screens visible for 10 seconds before returning to WeChat.",
+      "version": "1.4.525",
+      "published_at": "2026-09-02T20:36:02Z",
+      "changelog": "Reuse downloaded publish media across consecutive channel tasks and clean old AI Assist media from device storage.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.524/AI-Assist-Android-v1.4.524.apk",
-          "sha256": "4843c5ed850b3e21e2b48fdf4f9b31466293ee88e1d2cce90a5df0429330653b",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.525/AI-Assist-Android-v1.4.525.apk",
+          "sha256": "36332334790c0584221d589d9a593e6c8f76fe2bf7ef038087c812a12b1297d9",
           "size": 46770373
         }
       }
