@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.522",
-      "published_at": "2026-09-02T19:51:00Z",
-      "changelog": "Relax Android UI task preflight so channel publishers can launch their target app before package-specific checks.",
+      "version": "1.4.523",
+      "published_at": "2026-09-02T20:00:00Z",
+      "changelog": "Keep Xiaohongshu visible until publish success is detected; retain a 15-second inspection window before failure cleanup.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.522/AI-Assist-Android-v1.4.522.apk",
-          "sha256": "11886c73ad4d4b2a2f49f2e182a4d0b05d12268063c1103d19fe5cc42c0823f6",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.523/AI-Assist-Android-v1.4.523.apk",
+          "sha256": "f40f25ceae2b8e1ceaaf35a7969a3d4dc9e48c7ed93aad9b2169a5f5c07e31f0",
           "size": 46770373
         }
       }
