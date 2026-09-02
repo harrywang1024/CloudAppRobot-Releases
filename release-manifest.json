@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.520",
-      "published_at": "2026-09-02T19:24:32Z",
-      "changelog": "Allow Android robots to pull WeChat Channels publish commands and finish the WeChat video editor before Moments video posting.",
+      "version": "1.4.521",
+      "published_at": "2026-09-02T19:40:06Z",
+      "changelog": "Recognize the Moments video editor controls and tap Done before publishing video-only Moments posts.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.520/AI-Assist-Android-v1.4.520.apk",
-          "sha256": "d95f5b806f353bfd8a6c6ce980c348363dcf66cce3749586ccd0944c55bcc857",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.521/AI-Assist-Android-v1.4.521.apk",
+          "sha256": "aa8190c595d70b8c26d35baa750f5302c9cd621b144d7d05222e9d262d54b509",
           "size": 46770373
         }
       }
