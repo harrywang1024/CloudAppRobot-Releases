@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.526",
-      "published_at": "2026-09-03T14:38:31Z",
-      "changelog": "Add private chef merchant capability metadata and publish Android build 1.4.526.",
+      "version": "1.4.527",
+      "published_at": "2026-09-03T14:45:47Z",
+      "changelog": "Keep a 5 second manual maintenance window when the running Android robot app is opened.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.526/AI-Assist-Android-v1.4.526.apk",
-          "sha256": "3b4a73ea4626a09f4eee6017e8bff7fa5cd8d554367cfa1be245c9bea6e09501",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.527/AI-Assist-Android-v1.4.527.apk",
+          "sha256": "300a9081b1784fc617f240c47e7b3b9b32454f3e5bce1b11fdd3f2b136daa929",
           "size": 46770373
         }
       }
