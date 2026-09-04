@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.529",
-      "published_at": "2026-09-04T20:04:49Z",
-      "changelog": "Harden Android broadcast scheduling and prevent duplicate WeChat group retries.",
+      "version": "1.4.530",
+      "published_at": "2026-09-04T20:26:30Z",
+      "changelog": "Shorten Android patrol cooldowns after startup and completed broadcast tasks.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.529/AI-Assist-Android-v1.4.529.apk",
-          "sha256": "348beb791b7b587e2d50f5d1830910bf790e45e7e51f76fd21b69d07fa3a3616",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.530/AI-Assist-Android-v1.4.530.apk",
+          "sha256": "33cc6d857231f069ad5260f87deddbff33cdabad3a199eab03755910b2b3527b",
           "size": 47804921
         }
       }
