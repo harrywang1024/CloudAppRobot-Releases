@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.530",
-      "published_at": "2026-09-04T20:26:30Z",
-      "changelog": "Shorten Android patrol cooldowns after startup and completed broadcast tasks.",
+      "version": "1.4.531",
+      "published_at": "2026-09-04T20:32:00Z",
+      "changelog": "Use CDN-backed Android release manifest and keep shorter patrol cooldowns.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.530/AI-Assist-Android-v1.4.530.apk",
-          "sha256": "33cc6d857231f069ad5260f87deddbff33cdabad3a199eab03755910b2b3527b",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.531/AI-Assist-Android-v1.4.531.apk",
+          "sha256": "129433787214f2786ce81c1399dddaa3490c0b3b2823343c47ca106e71c2d4fa",
           "size": 47804921
         }
       }
