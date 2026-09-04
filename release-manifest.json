@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.531",
-      "published_at": "2026-09-04T20:32:00Z",
-      "changelog": "Use CDN-backed Android release manifest and keep shorter patrol cooldowns.",
+      "version": "1.4.532",
+      "published_at": "2026-09-04T20:34:30Z",
+      "changelog": "Read Android releases through GitHub API to avoid stale raw/CDN manifests.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.531/AI-Assist-Android-v1.4.531.apk",
-          "sha256": "129433787214f2786ce81c1399dddaa3490c0b3b2823343c47ca106e71c2d4fa",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.532/AI-Assist-Android-v1.4.532.apk",
+          "sha256": "8436be19f129a88d0d3a1e356ed89fe525a3706d7a7ca7b91ed5d769c0bf5706",
           "size": 47804921
         }
       }
