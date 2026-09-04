@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.528",
-      "published_at": "2026-09-03T15:00:59Z",
-      "changelog": "Add Home and Downloads maintenance shortcuts for remote Android upgrades.",
+      "version": "1.4.529",
+      "published_at": "2026-09-04T20:04:49Z",
+      "changelog": "Harden Android broadcast scheduling and prevent duplicate WeChat group retries.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.528/AI-Assist-Android-v1.4.528.apk",
-          "sha256": "72dea1e173e8882788fed0d7bfcbd16fd58da606631831832802c54edd758916",
-          "size": 46770373
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.529/AI-Assist-Android-v1.4.529.apk",
+          "sha256": "348beb791b7b587e2d50f5d1830910bf790e45e7e51f76fd21b69d07fa3a3616",
+          "size": 47804921
         }
       }
     },
