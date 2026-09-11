@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.532",
-      "published_at": "2026-09-04T20:34:30Z",
-      "changelog": "Read Android releases through GitHub API to avoid stale raw/CDN manifests.",
+      "version": "1.4.558",
+      "published_at": "2026-09-11T01:29:40Z",
+      "changelog": "Reduce Android WeChat accessibility ANRs by avoiding regex-heavy event text normalization and bounding cached event text.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.532/AI-Assist-Android-v1.4.532.apk",
-          "sha256": "8436be19f129a88d0d3a1e356ed89fe525a3706d7a7ca7b91ed5d769c0bf5706",
-          "size": 47804921
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.558/AI-Assist-Android-v1.4.558.apk",
+          "sha256": "9f3b43cc240ebc824f72c619d5b0c10cd7f09e9ed8f016df8a4f3049587b557f",
+          "size": 47821317
         }
       }
     },
