@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.558",
-      "published_at": "2026-09-11T01:29:40Z",
-      "changelog": "Reduce Android WeChat accessibility ANRs by avoiding regex-heavy event text normalization and bounding cached event text.",
+      "version": "1.4.559",
+      "published_at": "2026-09-11T03:12:10Z",
+      "changelog": "Reduce Android WeChat accessibility ANRs by moving message cache persistence off the accessibility event path and debouncing writes.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.558/AI-Assist-Android-v1.4.558.apk",
-          "sha256": "9f3b43cc240ebc824f72c619d5b0c10cd7f09e9ed8f016df8a4f3049587b557f",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.559/AI-Assist-Android-v1.4.559.apk",
+          "sha256": "fb62c6d129570c84a3e3cf9c83820ae52faf85d5abc1e648165bcb4cd73ff0f8",
           "size": 47821317
         }
       }
