@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.559",
-      "published_at": "2026-09-11T03:12:10Z",
-      "changelog": "Reduce Android WeChat accessibility ANRs by moving message cache persistence off the accessibility event path and debouncing writes.",
+      "version": "1.4.560",
+      "published_at": "2026-09-11T03:19:33Z",
+      "changelog": "Handle Android media permission recovery for robot devices and report missing media permissions before image or video tasks.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.559/AI-Assist-Android-v1.4.559.apk",
-          "sha256": "fb62c6d129570c84a3e3cf9c83820ae52faf85d5abc1e648165bcb4cd73ff0f8",
-          "size": 47821317
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.560/AI-Assist-Android-v1.4.560.apk",
+          "sha256": "0d2762b52214db4499f6ebba9f37506b2dfa4bd85ffd7f4ad12be140f59c6ab9",
+          "size": 47821337
         }
       }
     },
