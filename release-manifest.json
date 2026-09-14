@@ -27,14 +27,14 @@
     },
     "android": {
       "version": "1.4.561",
-      "published_at": "2026-09-14T11:19:34Z",
+      "published_at": "2026-09-14T12:29:52Z",
       "changelog": "Add Android watchdog recovery for stale UI patrol or broadcast work; restart the foreground service while keeping commands redispatchable after recovery.",
       "assets": {
         "apk": {
           "kind": "apk",
           "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.561/AI-Assist-Android-v1.4.561.apk",
-          "sha256": "6ae02c2b253fb62eba5be0507bc2b969b76f26476682bc63c59fbc1ad12a5a19",
-          "size": 47926341
+          "sha256": "cc3d36bb4b820764b4b83306d9c73e9a207536555c6caaf71093cde3e47d6ab2",
+          "size": 47821337
         }
       }
     },
