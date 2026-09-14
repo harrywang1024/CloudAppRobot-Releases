@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.560",
-      "published_at": "2026-09-11T03:19:33Z",
-      "changelog": "Handle Android media permission recovery for robot devices and report missing media permissions before image or video tasks.",
+      "version": "1.4.561",
+      "published_at": "2026-09-14T11:19:34Z",
+      "changelog": "Add Android watchdog recovery for stale UI patrol or broadcast work; restart the foreground service while keeping commands redispatchable after recovery.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.560/AI-Assist-Android-v1.4.560.apk",
-          "sha256": "0d2762b52214db4499f6ebba9f37506b2dfa4bd85ffd7f4ad12be140f59c6ab9",
-          "size": 47821337
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.561/AI-Assist-Android-v1.4.561.apk",
+          "sha256": "6ae02c2b253fb62eba5be0507bc2b969b76f26476682bc63c59fbc1ad12a5a19",
+          "size": 47926341
         }
       }
     },
