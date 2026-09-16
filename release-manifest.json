@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.561",
-      "published_at": "2026-09-14T12:29:52Z",
-      "changelog": "Add Android watchdog recovery for stale UI patrol or broadcast work; restart the foreground service while keeping commands redispatchable after recovery.",
+      "version": "1.4.562",
+      "published_at": "2026-09-16T19:38:22Z",
+      "changelog": "Extend Android accessibility preflight timeout for broadcast tasks to improve stability on slower devices while preserving watchdog recovery behavior.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.561/AI-Assist-Android-v1.4.561.apk",
-          "sha256": "cc3d36bb4b820764b4b83306d9c73e9a207536555c6caaf71093cde3e47d6ab2",
-          "size": 47821337
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.562/AI-Assist-Android-v1.4.562.apk",
+          "sha256": "cd585b6067eb1fd218848d30a44c8d38a4b37e21c6655a46fcf1c29e5e5a6481",
+          "size": 47821333
         }
       }
     },
