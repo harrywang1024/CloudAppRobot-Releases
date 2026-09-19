@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.562",
-      "published_at": "2026-09-16T19:38:22Z",
-      "changelog": "Extend Android accessibility preflight timeout for broadcast tasks to improve stability on slower devices while preserving watchdog recovery behavior.",
+      "version": "1.4.563",
+      "published_at": "2026-09-19T18:24:10Z",
+      "changelog": "Prefer the local WeChat group result over OCR when opening a conversation, exclude web-search results, and allow slower devices more time to load.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.562/AI-Assist-Android-v1.4.562.apk",
-          "sha256": "cd585b6067eb1fd218848d30a44c8d38a4b37e21c6655a46fcf1c29e5e5a6481",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.563/AI-Assist-Android-v1.4.563.apk",
+          "sha256": "64178655e1f9672768490d8ac948aadc936ac20616396eef0e84ae05562c7f16",
           "size": 47821333
         }
       }
