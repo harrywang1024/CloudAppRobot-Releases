@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.563",
-      "published_at": "2026-09-19T18:24:10Z",
-      "changelog": "Prefer the local WeChat group result over OCR when opening a conversation, exclude web-search results, and allow slower devices more time to load.",
+      "version": "1.4.575",
+      "published_at": "2026-09-26T19:35:48Z",
+      "changelog": "Fix Samsung devices misclassifying the WeChat conversation list when stale overlay accessibility roots remain. Prefer verified visible conversation-title rows before Discover-page detection. Preserve existing unread patrol, search fallback, and consecutive-message cursor behavior from 1.4.572.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.563/AI-Assist-Android-v1.4.563.apk",
-          "sha256": "64178655e1f9672768490d8ac948aadc936ac20616396eef0e84ae05562c7f16",
-          "size": 47821333
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.575/AI-Assist-Android-v1.4.575.apk",
+          "sha256": "5d42227d584e6ba4f06429256f26dc6981a022b0e91a50d1d660f35926d7cecd",
+          "size": 47837717
         }
       }
     },
