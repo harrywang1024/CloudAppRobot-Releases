@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.581",
-      "published_at": "2026-10-11T19:54:24Z",
-      "changelog": "Backtrace up to four WeChat chat pages when a long outgoing broadcast hides earlier incoming messages. Run generic left-side message extraction on every page, keep outgoing messages excluded, and do not advance the cursor when reading is incomplete.",
+      "version": "1.4.582",
+      "published_at": "2026-10-11T20:23:00Z",
+      "changelog": "Distinguish WeChat message body nodes from sender-name labels. Learn the active body view ID from confirmed solitaire content, accept current WeChat body/list/row IDs, retain four-page backtrace, and prevent nickname-only nodes from advancing the patrol cursor.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.581/AI-Assist-Android-v1.4.581.apk",
-          "sha256": "03357749e892ff2f9cd52a160415bf86202c9e6265df4ff2f6b5ae59d87501a4",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.582/AI-Assist-Android-v1.4.582.apk",
+          "sha256": "063ace474dd19be1b065cac837e60591d13e119326c8cfa8aa45f987fd53df0c",
           "size": 47854121
         }
       }
