@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.583",
-      "published_at": "2026-10-11T20:49:48Z",
-      "changelog": "Persist learned WeChat message-body view IDs per WeChat version and reuse them across patrols. Reduce idle unread-list patrol frequency with jittered adaptive backoff while keeping notification-triggered reads and safety patrols responsive.",
+      "version": "1.4.584",
+      "published_at": "2026-10-11T21:00:40Z",
+      "changelog": "Merge trusted visible WeChat body nodes with row-based extraction on every patrol page, recovering new messages when WeChat exposes multiple body nodes but only one recognized message-row container. Retain persisted body IDs and adaptive idle patrol backoff.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.583/AI-Assist-Android-v1.4.583.apk",
-          "sha256": "be94b0dc2db20215490219723eaa84fe949f8fdce15a38cba1989542ba42d39c",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.584/AI-Assist-Android-v1.4.584.apk",
+          "sha256": "8d5afbcd40ee1187d7563e908d50416a2680e9d9f7bfd54debfc2629c7d60d10",
           "size": 46803141
         }
       }
