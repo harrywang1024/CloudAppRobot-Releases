@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.579",
-      "published_at": "2026-10-11T19:35:02Z",
-      "changelog": "Upload every visible incoming left-side WeChat message during patrol. Add accessibility-root diagnostics and conservative chat-root fallback recovery when normal message nodes are missing. Increase the slow-device patrol timeout without changing normal-path timing.",
+      "version": "1.4.580",
+      "published_at": "2026-10-11T19:47:20Z",
+      "changelog": "Read incoming WeChat messages from generic left-side text surfaces when obfuscated resource IDs change. Preserve right-side outgoing filtering and add content-free node-shape diagnostics for future WeChat layout changes.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.579/AI-Assist-Android-v1.4.579.apk",
-          "sha256": "63d4f594a0305085d5706eb717d91120f41b11613c73824a5402ddb881566dda",
-          "size": 47854125
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.580/AI-Assist-Android-v1.4.580.apk",
+          "sha256": "868331880b955a287d028bbce3f97b485c59e4ae69f96bd685f9baf4b829f88c",
+          "size": 47854121
         }
       }
     },
