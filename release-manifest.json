@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.577",
-      "published_at": "2026-10-11T19:05:52Z",
-      "changelog": "Recover configured WeChat patrols when the first accessibility-tree frame contains no message nodes. The robot performs a small vertical nudge, then one older-message scroll if needed, and reports candidate counts after each recovery step. Normal readable patrols are unchanged.",
+      "version": "1.4.578",
+      "published_at": "2026-10-11T19:12:39Z",
+      "changelog": "MDM repack of Android 1.4.577 with a new versionCode and versionName. Includes empty patrol accessibility-tree recovery; application ID and signing certificate are unchanged.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.577/AI-Assist-Android-v1.4.577.apk",
-          "sha256": "a8068abe5e98fd7bc0f9101cb1f22d41f05694ee8d24378186ceb9fdfe913829",
-          "size": 47837737
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.578/AI-Assist-Android-v1.4.578.apk",
+          "sha256": "79e701b3db3807fd00f83c8e1c82778b922fee723d976627e30ea3c5f6483377",
+          "size": 47837741
         }
       }
     },
