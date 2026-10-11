@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.576",
-      "published_at": "2026-10-11T18:42:03Z",
-      "changelog": "Upload privacy-safe patrol diagnostics for remote devices, including target confirmation, navigation method, candidate counts, cursor state, cleanup outcome, and accessibility-root health. Broadcast, patrol navigation, cursor advancement, and order parsing behavior are unchanged.",
+      "version": "1.4.577",
+      "published_at": "2026-10-11T19:05:52Z",
+      "changelog": "Recover configured WeChat patrols when the first accessibility-tree frame contains no message nodes. The robot performs a small vertical nudge, then one older-message scroll if needed, and reports candidate counts after each recovery step. Normal readable patrols are unchanged.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.576/AI-Assist-Android-v1.4.576.apk",
-          "sha256": "010f92aa85965f1b56aee53a4ac452a52b1e73a65f99926173dee0ea4db7b8b8",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.577/AI-Assist-Android-v1.4.577.apk",
+          "sha256": "a8068abe5e98fd7bc0f9101cb1f22d41f05694ee8d24378186ceb9fdfe913829",
           "size": 47837737
         }
       }
