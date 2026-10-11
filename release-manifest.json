@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.582",
-      "published_at": "2026-10-11T20:23:00Z",
-      "changelog": "Distinguish WeChat message body nodes from sender-name labels. Learn the active body view ID from confirmed solitaire content, accept current WeChat body/list/row IDs, retain four-page backtrace, and prevent nickname-only nodes from advancing the patrol cursor.",
+      "version": "1.4.583",
+      "published_at": "2026-10-11T20:49:48Z",
+      "changelog": "Persist learned WeChat message-body view IDs per WeChat version and reuse them across patrols. Reduce idle unread-list patrol frequency with jittered adaptive backoff while keeping notification-triggered reads and safety patrols responsive.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.582/AI-Assist-Android-v1.4.582.apk",
-          "sha256": "063ace474dd19be1b065cac837e60591d13e119326c8cfa8aa45f987fd53df0c",
-          "size": 47854121
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.583/AI-Assist-Android-v1.4.583.apk",
+          "sha256": "be94b0dc2db20215490219723eaa84fe949f8fdce15a38cba1989542ba42d39c",
+          "size": 46803141
         }
       }
     },
