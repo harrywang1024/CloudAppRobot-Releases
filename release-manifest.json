@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.580",
-      "published_at": "2026-10-11T19:47:20Z",
-      "changelog": "Read incoming WeChat messages from generic left-side text surfaces when obfuscated resource IDs change. Preserve right-side outgoing filtering and add content-free node-shape diagnostics for future WeChat layout changes.",
+      "version": "1.4.581",
+      "published_at": "2026-10-11T19:54:24Z",
+      "changelog": "Backtrace up to four WeChat chat pages when a long outgoing broadcast hides earlier incoming messages. Run generic left-side message extraction on every page, keep outgoing messages excluded, and do not advance the cursor when reading is incomplete.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.580/AI-Assist-Android-v1.4.580.apk",
-          "sha256": "868331880b955a287d028bbce3f97b485c59e4ae69f96bd685f9baf4b829f88c",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.581/AI-Assist-Android-v1.4.581.apk",
+          "sha256": "03357749e892ff2f9cd52a160415bf86202c9e6265df4ff2f6b5ae59d87501a4",
           "size": 47854121
         }
       }
