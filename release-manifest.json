@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.575",
-      "published_at": "2026-09-26T19:35:48Z",
-      "changelog": "Fix Samsung devices misclassifying the WeChat conversation list when stale overlay accessibility roots remain. Prefer verified visible conversation-title rows before Discover-page detection. Preserve existing unread patrol, search fallback, and consecutive-message cursor behavior from 1.4.572.",
+      "version": "1.4.576",
+      "published_at": "2026-10-11T18:42:03Z",
+      "changelog": "Upload privacy-safe patrol diagnostics for remote devices, including target confirmation, navigation method, candidate counts, cursor state, cleanup outcome, and accessibility-root health. Broadcast, patrol navigation, cursor advancement, and order parsing behavior are unchanged.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.575/AI-Assist-Android-v1.4.575.apk",
-          "sha256": "5d42227d584e6ba4f06429256f26dc6981a022b0e91a50d1d660f35926d7cecd",
-          "size": 47837717
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.576/AI-Assist-Android-v1.4.576.apk",
+          "sha256": "010f92aa85965f1b56aee53a4ac452a52b1e73a65f99926173dee0ea4db7b8b8",
+          "size": 47837737
         }
       }
     },
