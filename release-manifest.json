@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.578",
-      "published_at": "2026-10-11T19:12:39Z",
-      "changelog": "MDM repack of Android 1.4.577 with a new versionCode and versionName. Includes empty patrol accessibility-tree recovery; application ID and signing certificate are unchanged.",
+      "version": "1.4.579",
+      "published_at": "2026-10-11T19:35:02Z",
+      "changelog": "Upload every visible incoming left-side WeChat message during patrol. Add accessibility-root diagnostics and conservative chat-root fallback recovery when normal message nodes are missing. Increase the slow-device patrol timeout without changing normal-path timing.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.578/AI-Assist-Android-v1.4.578.apk",
-          "sha256": "79e701b3db3807fd00f83c8e1c82778b922fee723d976627e30ea3c5f6483377",
-          "size": 47837741
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.579/AI-Assist-Android-v1.4.579.apk",
+          "sha256": "63d4f594a0305085d5706eb717d91120f41b11613c73824a5402ddb881566dda",
+          "size": 47854125
         }
       }
     },
