@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.584",
-      "published_at": "2026-10-11T21:00:40Z",
-      "changelog": "Merge trusted visible WeChat body nodes with row-based extraction on every patrol page, recovering new messages when WeChat exposes multiple body nodes but only one recognized message-row container. Retain persisted body IDs and adaptive idle patrol backoff.",
+      "version": "1.4.585",
+      "published_at": "2026-10-12T03:08:05Z",
+      "changelog": "Prevent the WeChat search input from being mistaken for a conversation result. Restrict accessibility and OCR result selection to rows below the active search field, restoring patrol entry for enterprise-WeChat-marked groups without changing message extraction.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.584/AI-Assist-Android-v1.4.584.apk",
-          "sha256": "8d5afbcd40ee1187d7563e908d50416a2680e9d9f7bfd54debfc2629c7d60d10",
-          "size": 46803141
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.585/AI-Assist-Android-v1.4.585.apk",
+          "sha256": "99909a096b5b18725a392078915a48e6cd6e014c1c68431aecf101c32d912c54",
+          "size": 47854101
         }
       }
     },
