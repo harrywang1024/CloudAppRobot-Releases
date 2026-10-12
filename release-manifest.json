@@ -26,14 +26,14 @@
       }
     },
     "android": {
-      "version": "1.4.586",
-      "published_at": "2026-10-12T17:46:57Z",
-      "changelog": "Normalize an opened WeChat conversation to its newest message position before cursor backtracing. This prevents patrols from repeatedly uploading an old message when WeChat restores a chat at a stale scroll position, and adds position-normalization diagnostics.",
+      "version": "1.4.587",
+      "published_at": "2026-10-12T17:56:40Z",
+      "changelog": "Keep newest-message normalization lightweight on slower Android devices. Patrol uses three direct forward gestures before cursor backtracing, avoiding repeated full accessibility-tree scans that could exhaust the patrol timeout.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.586/AI-Assist-Android-v1.4.586.apk",
-          "sha256": "3f8dcafaf57501b6e3d7a88cd87e896c149bc279ba796db8d908ff22925514a4",
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.587/AI-Assist-Android-v1.4.587.apk",
+          "sha256": "bfc78a698c338c31f5a309571bb1c5b4cb84ea950260570ece2b56558a871878",
           "size": 47854105
         }
       }
