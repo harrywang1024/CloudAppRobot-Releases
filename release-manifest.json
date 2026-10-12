@@ -26,15 +26,15 @@
       }
     },
     "android": {
-      "version": "1.4.585",
-      "published_at": "2026-10-12T03:08:05Z",
-      "changelog": "Prevent the WeChat search input from being mistaken for a conversation result. Restrict accessibility and OCR result selection to rows below the active search field, restoring patrol entry for enterprise-WeChat-marked groups without changing message extraction.",
+      "version": "1.4.586",
+      "published_at": "2026-10-12T17:46:57Z",
+      "changelog": "Normalize an opened WeChat conversation to its newest message position before cursor backtracing. This prevents patrols from repeatedly uploading an old message when WeChat restores a chat at a stale scroll position, and adds position-normalization diagnostics.",
       "assets": {
         "apk": {
           "kind": "apk",
-          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.585/AI-Assist-Android-v1.4.585.apk",
-          "sha256": "99909a096b5b18725a392078915a48e6cd6e014c1c68431aecf101c32d912c54",
-          "size": 47854101
+          "download_url": "https://github.com/harrywang1024/CloudAppRobot-Releases/releases/download/v1.4.586/AI-Assist-Android-v1.4.586.apk",
+          "sha256": "3f8dcafaf57501b6e3d7a88cd87e896c149bc279ba796db8d908ff22925514a4",
+          "size": 47854105
         }
       }
     },
